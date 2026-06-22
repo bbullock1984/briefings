@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Daily Briefing</title>
+    <link>https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/</link>
+    <description>Placeholder — this will be replaced after the first workflow run.</description>
+  </channel>
+</rss>
