@@ -1,0 +1,37 @@
+name: Daily Briefing Feed
+
+on:
+  schedule:
+    # 11:00 UTC = 7:00am US Eastern during EDT, 6:00am during EST.
+    # Adjust the hour below if you want a different local time.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Build today's briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python fetch_and_build_feed.py
+
+      - name: Commit and push updated feed
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@github.com"
+          git add docs/feed.xml docs/items_store.json
+          git diff --staged --quiet || git commit -m "Update daily briefing"
+          git pull --rebase --autostash
+          git push
