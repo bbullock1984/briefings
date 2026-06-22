@@ -1,0 +1,32 @@
+{
+  "feed_title": "My Daily Briefing",
+  "feed_link": "https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/",
+  "feed_description": "A personalized daily news briefing across BJJ/grappling, soccer, financial freedom, and NJ local news.",
+
+  "stories_per_day": 6,
+  "lookback_days": 3,
+  "feed_history_days": 30,
+
+  "topics": [
+    {
+      "id": "bjj",
+      "label": "Brazilian Jiu-Jitsu & Submission Grappling",
+      "brief": "Top headlines in Brazilian jiu-jitsu and submission grappling: major tournament results (ADCC, IBJJF Worlds/Pans, ONE Championship, Who's Number One, Polaris, Fight to Win), notable matches and upsets, rule changes, big athlete moves or injuries."
+    },
+    {
+      "id": "soccer",
+      "label": "Global & European Soccer (Atlético Madrid emphasis)",
+      "brief": "Top headlines in global and European soccer/football. Give special emphasis to Atlético de Madrid (match results, transfer news, injuries, manager/coaching news), but also cover major European leagues and competitions broadly (Champions League, La Liga, Premier League, etc.)."
+    },
+    {
+      "id": "financial-freedom",
+      "label": "Financial Freedom & Markets",
+      "brief": "News useful to someone working toward financial independence: what's driving overall stock market moves; specific news on VTI (Vanguard Total Stock Market ETF), SPOT (Spotify), and AAPL (Apple) stock; cost-saving news relevant to families and homeowners in New Jersey (utility rates, property taxes, mortgage/refinance rates, insurance); practical investing tips or strategies."
+    },
+    {
+      "id": "nj-local",
+      "label": "NJ Local News (Montclair emphasis)",
+      "brief": "Local New Jersey news, with special emphasis on Montclair, NJ. Prioritize upcoming local events relevant to a family with a 12-year-old son, and to these interests: food, movies, soccer, auto/motorsport racing, tennis, sci-fi/fiction, meditation, and mountain biking."
+    }
+  ]
+}
