@@ -300,14 +300,20 @@ def build_rss(config, items_store, topics_by_id):
             "    </item>\n"
         )
 
+    feed_url = config.get("feed_url", link.rstrip("/") + "/feed.xml")
+
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">\n'
+        '<rss version="2.0" '
+        'xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+        'xmlns:atom="http://www.w3.org/2005/Atom">\n'
         "  <channel>\n"
         f"    <title>{saxutils.escape(title)}</title>\n"
         f"    <link>{saxutils.escape(link)}</link>\n"
+        f'    <atom:link href="{saxutils.escape(feed_url)}" rel="self" type="application/rss+xml"/>\n'
         f"    <description>{saxutils.escape(description)}</description>\n"
         f"    <lastBuildDate>{now}</lastBuildDate>\n"
+        "    <ttl>60</ttl>\n"
         + "".join(items_xml)
         + "  </channel>\n"
         "</rss>\n"
