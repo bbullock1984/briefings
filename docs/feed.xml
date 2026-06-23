@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Daily Briefing</title>
     <link>https://bbullock1984.github.io/briefings/</link>
+    <atom:link href="https://bbullock1984.github.io/briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A personalized daily news briefing across BJJ/grappling, soccer, financial freedom, and NJ local news.</description>
-    <lastBuildDate>Mon, 22 Jun 2026 13:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 13:49:18 GMT</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>Daily Briefing — 2026-06-23</title>
+      <link>https://bbullock1984.github.io/briefings/</link>
+      <guid isPermaLink="false">briefing-2026-06-23</guid>
+      <pubDate>Tue, 23 Jun 2026 11:00:00 GMT</pubDate>
+      <description>Brazilian Jiu-Jitsu &amp; Submission Grappling: Diego 'Pato' Oliveira Retires from Gi Competition After Winning Record Fifth World Title — Diego 'Pato' Oliveira capped the 2026 IBJJF World Championship by leaving his black belt on the mat — the traditional signal of retirement — moments after winning his fifth world title at light-featherweight, surpassing the records of both Robson Moura and his coach Guilherme Mendes. The 27-year-old AOJ athlete dominated his bracket with three submission wins and</description>
+      <content:encoded><![CDATA[<h3>Brazilian Jiu-Jitsu &amp; Submission Grappling</h3>
+<ul>
+<li><strong><a href="https://jitsmagazine.com/diego-pato-oliveira-announces-retirement-from-gi-competition/">Diego 'Pato' Oliveira Retires from Gi Competition After Winning Record Fifth World Title</a></strong><br/>Diego 'Pato' Oliveira capped the 2026 IBJJF World Championship by leaving his black belt on the mat — the traditional signal of retirement — moments after winning his fifth world title at light-featherweight, surpassing the records of both Robson Moura and his coach Guilherme Mendes. The 27-year-old AOJ athlete dominated his bracket with three submission wins and a 9-0 finals victory over Khaled Mohammad. His departure leaves a massive hole at the weight class, though questions remain about whether he'll continue competing in no-gi and professional events. Tainan Dalpra (4th world title, all submissions) and Gabi Pessanha (12th world title, double gold) were the other marquee stories from the event.<br/><small>Source: Jits Magazine</small></li>
+</ul>
+<h3>Global &amp; European Soccer (Atlético Madrid emphasis)</h3>
+<ul>
+<li><strong><a href="https://www.skysports.com/transfer/news/12691/13556913/julian-alvarez-atletico-madrid-striker-says-he-wants-to-leave-club-to-fulfil-his-dream">Julián Álvarez Publicly States He Wants to Leave Atlético Madrid to 'Fulfil His Dream' — Barcelona Understood to Be Destination</a></strong><br/>In a significant escalation of the transfer saga, Atlético Madrid striker Julián Álvarez said after Argentina's 2-0 World Cup win over Austria on June 22 that he wants to leave the club to fulfill his dream — widely understood to be a move to Barcelona. Atlético have dug in and do not want to sell the 26-year-old, who finished the 2025/26 season with 20 goals and nine assists across all competitions. Arsenal are also reportedly interested, but Álvarez's preference is Barcelona, who have been pursuing him all summer despite previously strained relations with Atlético. This is a new development from the previously reported smear-campaign dispute: now the player himself has broken his silence publicly.<br/><small>Source: Sky Sports</small></li>
+</ul>
+<h3>Financial Freedom &amp; Markets</h3>
+<ul>
+<li><strong><a href="https://247wallst.com/investing/2026/06/23/stock-market-live-june-23-2026-sp-500-spy-futures-under-significant-pressure/">Tech Stocks Tumble Tuesday as Global Selloff Spreads — Nasdaq Down Over 800 Points</a></strong><br/>A broad technology selloff accelerated on June 23, with Nasdaq 100 futures falling nearly 3% and South Korea's Kospi plunging roughly 10%, led by memory-chip giants Samsung and SK Hynix. In the U.S., chip stocks including Micron, Intel, and Qualcomm led premarket losses, while Alphabet shares continued sliding after two high-profile AI researchers departed for rivals (OpenAI and Anthropic). Market concerns center on the rising cost of AI infrastructure, potential Fed rate hikes later in 2026, and an Iran nuclear situation that remains uncertain. Defensive names and VTI's broad market exposure may cushion some of the blow, but investors in growth-heavy ETFs should expect continued volatility this week.<br/><small>Source: 24/7 Wall St.</small></li>
+<li><strong><a href="https://www.cnbc.com/quotes/AAPL">Apple Facing Analyst Scrutiny as CEO Confirms iPhone Price Hikes to Offset Memory Costs</a></strong><br/>Apple (AAPL) shares are trading around $294–297, down roughly 6% from their 2026 high of $317.40, as CEO Tim Cook confirmed rising memory and storage chip costs are forcing product price increases across the lineup. KGI Securities downgraded the stock to Hold (price target $315), while Wedbush maintained Outperform with a $400 target, citing strong pricing power and supply-chain resilience. BofA argues Apple's AI strategy reset announced at WWDC is being 'underappreciated' by the market. Investors are also watching a reported Intel chip manufacturing partnership and a CEO succession expected in September 2026, both of which add near-term uncertainty.<br/><small>Source: CNBC</small></li>
+</ul>
+<h3>NJ Local News (Montclair emphasis)</h3>
+<ul>
+<li><strong><a href="https://montclairlocal.news/2026/06/montclairs-church-street-pedestrianization-to-bring-car-free-weekends/">Montclair Launches Car-Free Church Street Pilot — Monthly Pedestrian Weekends Through October</a></strong><br/>Montclair has kicked off a new pilot program closing Church Street to vehicles from 10 a.m. to 10 p.m. on select weekends through October, turning the restaurant- and shop-lined block into a pedestrian plaza. The first closure ran June 19–21; the next is July 17–19. Township officials plan to bring performances and activations to the space, and local advocates point to research showing pedestrian streets boost restaurant and retail sales. The car-free weekends are a great family outing option, with outdoor dining, shops, and the nearby Clairidge movie theater all accessible on foot.<br/><small>Source: Montclair Local</small></li>
+<li><strong><a href="https://www.themontclairgirl.com/maplewoodstock-festival-memorial-park-maplewood-nj-2026/">Maplewoodstock Music + Arts Festival Returns July 11–12 with 22 Bands, Kid Zone, and Food Vendors</a></strong><br/>The beloved Maplewoodstock festival celebrates its 21st edition on July 11–12 at Maplewood's Memorial Park, featuring 22 live bands, over 60 art vendors, a beer garden, and a dedicated kid zone. Organizers expect more than 14,000 attendees at the free community event, which is run entirely by volunteers and benefits arts education in local schools. The two-day outdoor event is a short drive from Montclair and is family-friendly, making it an ideal summer outing for parents and kids alike.<br/><small>Source: The Montclair Girl</small></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>Daily Briefing — 2026-06-22</title>
       <link>https://bbullock1984.github.io/briefings/</link>
