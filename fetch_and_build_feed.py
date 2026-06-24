@@ -106,7 +106,7 @@ def build_prompt(config, items_store):
     topics_block = build_topics_block(config["topics"])
     recent_block = build_recent_coverage_block(items_store, config.get("lookback_days", 3))
     today_str = datetime.date.today().isoformat()
-    stories_per_day = config.get("stories_per_day", 6)
+    stories_per_topic = config.get("stories_per_topic", 3)
 
     return f"""You are building a personalized daily news briefing. Today's date is {today_str}.
 
@@ -126,16 +126,18 @@ there is a genuinely new and important development — if you do include an
 update to one of these, make clear in the summary what specifically is new):
 {recent_block}
 
-Return a TOTAL of {stories_per_day - 1}-{stories_per_day} stories across ALL topics combined
-(not per topic). It's fine for a topic to contribute 0 stories if there's
-genuinely nothing new and notable, and fine for another topic to contribute
-2 if there's a lot happening — just hit the total target across all topics.
+Return {stories_per_topic}-{stories_per_topic + 1} stories PER TOPIC. If a topic genuinely has
+nothing new and notable, you may contribute 1-2 stories minimum rather than
+skipping it entirely.
+
+Keep each summary SHORT — 1-2 sentences maximum. Lead with the key fact;
+skip background context the reader can follow up on.
 
 Respond with ONLY a JSON array, no markdown code fences, no commentary
 before or after. Each element must be an object with exactly these fields:
   "topic_id": one of the topic_id values above
   "headline": short headline, your own words (do not just copy the source's exact headline verbatim)
-  "summary": 2-4 sentence summary in your own words
+  "summary": 1-2 sentence summary in your own words
   "source_name": the publication or outlet name
   "source_url": the direct URL to the source article
   "is_social": true if source_name is Reddit/X/Twitter/similar social media, else false

@@ -3,7 +3,8 @@
   "feed_link": "https://bbullock1984.github.io/briefings/",
   "feed_description": "A personalized daily news briefing across BJJ/grappling, soccer, financial freedom, and NJ local news.",
 
-  "stories_per_day": 6,
+  "stories_per_topic": 3,
+  "stories_per_day": 16,
   "lookback_days": 3,
   "feed_history_days": 30,
 

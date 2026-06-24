@@ -2,9 +2,8 @@ name: Daily Briefing Feed
 
 on:
   schedule:
-    # 11:00 UTC = 7:00am US Eastern during EDT, 6:00am during EST.
-    # Adjust the hour below if you want a different local time.
-    - cron: "17 11 * * *"
+    # 7:17 UTC = 3:17am US Eastern during EDT, 2:17am during EST.
+    - cron: "17 7 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
