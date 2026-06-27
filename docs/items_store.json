@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-06-27",
+    "guid": "briefing-2026-06-27",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "King Charles III Visits Roger Gracie Academy, Receives BJJ White Belt",
+        "summary": "King Charles III toured Roger Gracie Academy's London headquarters and was awarded a white belt by Roger Gracie himself, in a visit spotlighting Reorg, a military and emergency-responder charity that uses jiu-jitsu in veterans' recovery; the King also presented a black belt to a Reorg trustee who credits the sport with helping him through cancer treatment.",
+        "source_name": "Jits Magazine",
+        "source_url": "https://jitsmagazine.com/king-charles-iii-visits-roger-gracie-academy-and-receives-a-bjj-white-belt/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Craig Jones Admits He Used PEDs, Says He Was '100% Cheating'",
+        "summary": "Just days after announcing B-Team's revival, Craig Jones gave a blunt interview admitting to long-term steroid use — including injecting before EBI in Tijuana — and said he considers it cheating but stays open about it because 'the next generation is gonna take it anyway.'",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/craig-jones-admits-he-used-peds-and-says-he-was-100-cheating/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Owen Jones Upsets Fabricio Andrey via Split Decision at ONE Fight Night 44",
+        "summary": "Britain's Owen Jones avenged a three-year-old loss to Fabricio 'Hokage' Andrey, edging him on the scorecards after a tense leg-lock battle to win the night's lone grappling bout and snap Andrey's three-fight win streak in ONE Championship.",
+        "source_name": "ONE Championship",
+        "source_url": "https://www.onefc.com/news/one-fight-night-44-jarvis-vs-rungrawee-ii-results-and-highlights-for-every-match/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Invite List Pulled From Website Amid Transparency Backlash",
+        "summary": "With ADCC Worlds set for September in Krakow, organizers quietly removed their official invite and qualification list from the website without explanation, leaving fans to piece together the lineup from athlete announcements and fueling debate over contested invites like Josh Saunders' return.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/adcc-2026-invites-spark-confusion-controversy-as-transparency-questions-grow/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Álex Baena's Strike Sends Spain Top of Group, Knocks Out Uruguay",
+        "summary": "Atlético midfielder Álex Baena scored the only goal in the 42nd minute as Spain beat Uruguay 1-0 in Guadalajara, topping Group H and eliminating Uruguay from the World Cup while Cape Verde also advanced to the Round of 32.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49190654/uruguay-spain-live-world-cup-2026-latest-updates-commentary-score-result",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Set to Sign Stuttgart Midfielder Enzo Millot by Triggering €23M Release Clause",
+        "summary": "Atlético have agreed personal terms with Stuttgart's Enzo Millot and plan to trigger his €23 million release clause, with Simeone targeting the playmaker — who scored 12 goals last season — as the club's eighth summer signing.",
+        "source_name": "TribalFootball",
+        "source_url": "https://www.tribalfootball.com/article/soccer-laliga-atletico-madrid-to-match-buyout-clause-for-stuttgart-midfielder-millot-b9a6df09-1f30-4853-ab73-cf62d29422c4",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Dembélé Hat Trick Powers France Past Norway 4-1 as Sørloth Watches From the Bench",
+        "summary": "Ousmane Dembélé scored three first-half goals as France routed Norway 4-1 at the World Cup; Norway rested Atlético's Alexander Sørloth and Erling Haaland but still advanced to the Round of 32 as Group I runner-up.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/760475/france-norway",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Nasdaq Logs Fifth Straight Losing Session as Tech Selloff Caps Worst Week in Months",
+        "summary": "The Nasdaq fell for a fifth consecutive session Friday — down roughly 5% on the week — as Sandisk and Micron led chip-stock losses on AI-spending jitters and a report that OpenAI may delay its IPO, even as SpaceX shares rose ahead of a fast-tracked Russell 1000 addition.",
+        "source_name": "TheStreet",
+        "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Rebounds 3% as Vision Pro Hardware Chief Departs for OpenAI",
+        "summary": "AAPL closed up 3.14% at $283.78 Friday, clawing back part of Thursday's price-hike-driven selloff, even as the company's Vision Pro hardware chief left for OpenAI; Morgan Stanley kept a Buy rating and $360 price target.",
+        "source_name": "The Motley Fool",
+        "source_url": "https://www.fool.com/investing/2026/06/26/massive-news-for-apple-stock-investors/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify Could Be Nearly 31% Overvalued Heading Into Earnings and Reserved Launch",
+        "summary": "A Simply Wall St fair-value analysis pegs SPOT as roughly 30.8% overvalued ahead of its July 28 earnings and the launch of 'Reserved,' a Live Nation/Ticketmaster-built Premium ticketing feature, even though the stock still trades below peer-average earnings multiples.",
+        "source_name": "Simply Wall St",
+        "source_url": "https://simplywall.st/stocks/us/media/nyse-spot/spotify-technology/news/spotify-spot-stock-could-be-308-overvalued-before-earnings-a",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "PSE&G Shifts NJ Homeowners to Time-of-Use Electric Rates Starting June 1",
+        "summary": "PSE&G has automatically enrolled residential customers in a new Time-of-Use plan charging about $0.31/kWh during weekday 4-9pm peak hours versus roughly $0.09/kWh off-peak, with a 12-month savings guarantee for households that shift laundry and EV charging to nights and weekends.",
+        "source_name": "The New Utility",
+        "source_url": "https://thenewutility.com/pseg-time-of-use-rates-2026-nj-solar/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair's 4th of July Parade & Fireworks Returns to Yogi Berra Stadium",
+        "summary": "Montclair's annual Independence Day celebration kicks off with an 11am parade down Bloomfield Avenue and Valley Road to Edgemont Park, followed by a family picnic and an evening fireworks show at Yogi Berra Stadium on the Montclair State campus.",
+        "source_name": "Township of Montclair",
+        "source_url": "https://www.montclairnjusa.org/Visitors/Things-to-Do/Special-Events/July-4th-Celebrations",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "New Eats Land on Bloomfield & Church: Toastique, Hummus Republic Open, Ani Ramen Adds Sushi",
+        "summary": "Montclair's dining scene keeps expanding with Toastique opening a gourmet-toast cafe on Church Street, Hummus Republic taking over a former convenience store on Bloomfield Avenue, and Ani Ramen launching a new sushi program at its Bloomfield Ave location.",
+        "source_name": "The Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/new-businesses-montclair-spring-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Vintage Racer Group Headlines New July Weekend at NJ Motorsports Park",
+        "summary": "New Jersey Motorsports Park's 2026 schedule adds a Vintage Racer Group weekend of classic cars on track July 10-12 in Millville, ahead of the New Jersey Lottery SpeedTour with SVRA bringing F4 and Formula Americas racing July 31-August 2.",
+        "source_name": "New Jersey Motorsports Park",
+        "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "guid": "briefing-2026-06-26",
     "stories": [
