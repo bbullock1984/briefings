@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-06-28",
+    "guid": "briefing-2026-06-28",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Helena Crevar Books Return Bout vs. Paige Ivette Clymer at ONE: The Inner Circle",
+        "summary": "ONE Championship announced that 19-year-old grappling star Helena Crevar will face ADCC West Coast Trials winner Paige Ivette Clymer in a 10-minute openweight submission grappling match at The Inner Circle on July 17 in Bangkok.",
+        "source_name": "ONE Championship",
+        "source_url": "https://www.onefc.com/news/helena-crevar-returns-to-face-paige-ivette-clymer-in-submission-grappling-action-at-the-inner-circle-on-july-17/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Superfight Set: Kaynan Duarte vs. Yuri Simoes for Vacant Title",
+        "summary": "With Gordon Ryan's retirement leaving the ADCC superfight belt vacant for the first time in 17 years, Kaynan Duarte will challenge Yuri Simoes for the title at September's World Championship in Krakow, Poland.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/adcc-2026-superfight-confirmed-kaynan-duarte-vs-yuri-simoes/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "14-Year-Old Joslyn Molina Set to Become Youngest-Ever ADCC Competitor",
+        "summary": "Joslyn Molina has accepted her invite to the -65kg division at ADCC 2026, making her the youngest athlete ever to compete at the prestigious championship after organizers lowered the age-eligibility threshold.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/14-year-old-joslyn-molina-accepts-adcc-2026-invite-makes-history/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Julián Álvarez Publicly Confirms He Wants to Leave Atlético Madrid",
+        "summary": "Álvarez told ESPN he has informed Atlético's hierarchy of his desire for a transfer, with Barcelona his preferred destination; Atleti's CEO is refusing to sell and has threatened a FIFA complaint against Barcelona over an alleged improper approach.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49147171/alvarez-says-move-atletico-madrid-best-everyone",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Madrid Closing In on Lee Kang-in, but Juventus Threatens to Hijack Deal",
+        "summary": "Atlético and PSG midfielder Lee Kang-in have reportedly agreed personal terms, but Juventus has emerged as a late complication as the clubs negotiate a transfer fee nearing €35 million.",
+        "source_name": "Star News Korea",
+        "source_url": "https://www.starnewskorea.com/en/sports/2026/06/26/2026062608034579653",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup 2026 Knockout Stage Begins: South Africa vs. Canada Opens Round of 32",
+        "summary": "The FIFA World Cup's Round of 32 kicks off today with South Africa facing Canada at SoFi Stadium in Los Angeles, the first of a full week of knockout-stage matches across the tournament.",
+        "source_name": "NBC Sports",
+        "source_url": "https://www.nbcsports.com/soccer/news/2026-world-cup-round-of-32-confirmed-schedule-predictions-for-knockout-round",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Lobbies Washington to Buy Memory Chips From Blacklisted Chinese Supplier CXMT",
+        "summary": "Apple is seeking U.S. government clearance to source DRAM from sanctioned chipmaker CXMT as a severe AI-driven memory shortage drives up component costs, though the move risks the same bipartisan backlash that sank a similar 2022 effort.",
+        "source_name": "24/7 Wall St.",
+        "source_url": "https://247wallst.com/investing/2026/06/27/apple-wants-to-buy-blacklisted-chinese-memory-micron-has-nothing-to-worry-about/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Billionaire Hedge Funds Pile Into Amazon as a Cheaper AI Bet",
+        "summary": "Bill Ackman's Pershing Square, David Tepper's Appaloosa, and Seth Klarman's Baupost have all built major Amazon stakes, betting AMZN is undervalued relative to other AI plays even as AWS grew 28% last quarter to $37.6 billion.",
+        "source_name": "Fortune",
+        "source_url": "https://fortune.com/2026/06/25/amazon-bill-ackman-david-tepper-sanders/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "SALT Deduction Cap Quadruples to $40,000, Boosting NJ Homeowners",
+        "summary": "The federal SALT deduction cap has risen from $10,000 to $40,000 for 2025-2029 under the new tax law, delivering meaningful relief to high-property-tax New Jersey homeowners who itemize, with the benefit phasing out above $500,000 income.",
+        "source_name": "Wiss",
+        "source_url": "https://wiss.com/salt-deduction-cap-40000-nj-ny-taxpayers/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "VTI Raises Quarterly Dividend for a Fifth Straight Year",
+        "summary": "Vanguard's Total Stock Market ETF (VTI) declared a quarterly dividend of $1.0437 per share on June 25, payable June 30, marking its fifth consecutive annual increase.",
+        "source_name": "GuruFocus",
+        "source_url": "https://www.gurufocus.com/news/8932220/vti-declares-dividend-with-30day-sec-yield-of-101",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "SZA, Donald Payne Sr., Dr. John McMullen Lead Essex County's 2026 NJ Hall of Fame Class",
+        "summary": "The New Jersey Hall of Fame's Class of 2026 includes Maplewood's SZA, Newark's Donald Payne Sr., and Montclair High grad Dr. John J. McMullen; the 18th annual induction ceremony, hosted by Danny DeVito, takes place September 24 at American Dream.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/06/essex-county-sza-payne-mcmullen-nj-hall-of-fame-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Where to Catch July 4th Fireworks Near Montclair This Year",
+        "summary": "Families looking for fireworks near Montclair can head to Bloomfield's Foley Field (gates 5:30pm), Cedar Grove's Panther Park (July 2, dusk), or Livingston's Memorial Oval (July 4, 9:15pm) for free Independence Day celebrations.",
+        "source_name": "Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/fireworks-montclair-essex-county-new-jersey-summer-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Film's Free Outdoor Movie Series Screens 'Best in Show' July 26",
+        "summary": "Montclair Film's 'Movie Night Under the Stars' continues with a free screening of the dog-themed comedy 'Best in Show' at Anderson Park on Sunday, July 26 (rain date August 2), kicked off by a pre-show dog parade.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/05/montclair-films-movie-night-under-the-stars-returns-2/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Foundation Offers Free Virtual Meditation Sessions This Summer",
+        "summary": "The Montclair Foundation's summer Virtual Meditation series, led by teacher Ramananda John E. Welshons, continues with Zoom sessions on July 1, 8, 22, and 29 from 7-9pm, open to beginners and experienced practitioners alike.",
+        "source_name": "The Montclair Foundation",
+        "source_url": "https://montclairfoundation.org/calendar-of-events/category/classes/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-27",
     "guid": "briefing-2026-06-27",
     "stories": [
