@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-06-29",
+    "guid": "briefing-2026-06-29",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Owen Jones Docked 30% of Purse After Missing Weight Before Andrey Upset",
+        "summary": "At the ONE Fight Night 44 weigh-ins, Owen Jones came in over the featherweight grappling limit, forcing a catchweight bout and a 30% purse forfeiture before he went on to beat Fabricio Andrey by split decision.",
+        "source_name": "Combat Press",
+        "source_url": "https://combatpress.com/2026/06/one-fight-night-44-weigh-in-results-four-athletes-miss-weight-card-moves-forward/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC's Valter Walker Says He's Abandoning Heel Hooks for Striking",
+        "summary": "UFC heavyweight and feared leg-lock specialist Valter Walker says he has dropped jiu-jitsu and wrestling from his training entirely ahead of his July 25 Abu Dhabi bout, opting to trade strikes instead, with one exception if he ever fights Josh Barnett.",
+        "source_name": "BJJDOC",
+        "source_url": "https://bjjdoc.com/2026/06/28/ufcs-heelhook-specialist-im-done-with-leglocks/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Team North America Edges Europe 5-4 in Polaris' First-Ever Women's Squads Event",
+        "summary": "Polaris 32 made history June 28 with the promotion's first all-female Squads showdown at Swansea Arena, with Brianna Ste-Marie's back-to-back wins sealing a narrow 5-4 win for North America after Nia Blackman stepped in as a late-replacement captain for Ffion Davies.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/history-made-at-polaris-32-as-north-american-squad-defeats-europe-in-first-womens-squads-event/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Lee Kang-in's Move to Atlético Madrid Enters Final Stage as PSG Lines Up Replacement",
+        "summary": "Atlético and PSG are closing in on a deal for Lee Kang-in worth roughly €30-35M, with PSG now arranging personal terms with Monaco's Maghnes Akliouche as his direct replacement, a clear sign the transfer fee is largely settled.",
+        "source_name": "Get French Football News",
+        "source_url": "https://www.getfootballnewsfrance.com/2026/psg-lead-race-to-sign-monacos-maghnes-akliouche/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Madrid Enters Race for Udinese Defender Oumar Solet, Threatening to Gazump Inter Milan",
+        "summary": "Atlético are preparing a roughly €25M bid for Udinese centre-back Oumar Solet, jumping ahead of Inter Milan, whose lower offer has stalled while the Serie A club waits on outgoing sales to fund the move.",
+        "source_name": "Sportingpedia",
+        "source_url": "https://www.sportingpedia.com/2026/06/24/atletico-madrid-set-sights-on-solet-as-inter-face-another-transfer-setback/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Alphabet Officially Joins the Dow, Ending Verizon's 22-Year Run",
+        "summary": "Alphabet (GOOGL) replaced Verizon in the Dow Jones Industrial Average effective June 29, joining Nvidia, Amazon, Apple and Microsoft and pushing the price-weighted index's tilt further toward AI and cloud computing.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Oil Prices Climb as US-Iran Strikes Cloud Hopes for Reopened Hormuz Shipping",
+        "summary": "Brent crude rose about 0.9% Monday after weekend US-Iran strikes renewed doubts about a return to normal shipping through the Strait of Hormuz, even as both sides agreed to resume ceasefire talks in Doha.",
+        "source_name": "Al Jazeera",
+        "source_url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ Homeowners Insurance Premiums Climbed 7.5% Last Year, Outpacing Pennsylvania",
+        "summary": "New Jersey home insurance rates rose 7.5% over the past year versus just 1% in Pennsylvania, driven by more frequent severe weather and rising labor and materials costs, though NJ's average premium ($1,449) still trails the $2,395 national average.",
+        "source_name": "The Philadelphia Inquirer",
+        "source_url": "https://www.inquirer.com/real-estate/housing/home-insurance-costs-rates-rising-nj-pennsylvania-20260628.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "World Cup Fever Hits Montclair as National Teams Check Into MC Hotel",
+        "summary": "The MC Hotel on Bloomfield Avenue has become an unofficial World Cup basecamp, with Germany's team spotted there and England fans waiting over an hour for their team's bus to arrive as squads use Montclair as a stopover for matches at MetLife Stadium.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/06/montclair-hotel-is-world-cup-central-photos/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Vegan Bakery Yellow Rose Opens Second Location in Montclair's Lackawanna Plaza",
+        "summary": "Yellow Rose Vegan Bakery & Cafe, the all-vegan, kosher bakery known for its original Maplewood shop, has opened a new outpost inside Lackawanna Plaza at 1 Lackawanna Plaza in Montclair.",
+        "source_name": "Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/yellow-rose-montclair-nj-vegan-bakery-lackawanna-station/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Formula Race Cars Return to NJ Motorsports Park for SpeedTour Weekend",
+        "summary": "The New Jersey Lottery SpeedTour with SVRA brings F4 U.S. and FR Americas open-wheel racing back to NJ Motorsports Park in Millville July 31-August 2, part of a packed 2026 season that also includes monster trucks.",
+        "source_name": "SNJ Today",
+        "source_url": "https://snjtoday.com/nj-motorsports-park-2026-schedule/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Pride Festival Postponed a Second Time, Now Set for October 11",
+        "summary": "Out Montclair pushed the 2026 Pride Festival back again, from its planned August 1 date to October 11, citing rising production costs and a sharp drop in corporate sponsorship after losing its presenting sponsor.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/06/date-for-montclair-pride-again-pushed-organizers-announce-new-theme/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-28",
     "guid": "briefing-2026-06-28",
     "stories": [
