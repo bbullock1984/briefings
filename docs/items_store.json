@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-06-30",
+    "guid": "briefing-2026-06-30",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Clay, Hopstock, and Jaworski All Win Gold at No-Gi Brasileiros, Keeping Grand Slam Bids Alive",
+        "summary": "The CBJJ No-Gi Brasileiros (June 27–28), streaming live on FloGrappling for the first time, saw defending world champions Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all win gold to stay on track for the 2025–26 No-Gi Grand Slam, with Clay and Jaworski also claiming the open-class titles.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/articles/16048170-grappling-bulletin-no-gi-brasileiros-polaris-bracket-american-nationals",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Amateur World Championship to Debut Alongside Main Event in Krakow This September",
+        "summary": "For the first time, the ADCC Amateur World Championship will run concurrently with the main ADCC Worlds at Tauron Arena in Krakow, Poland on September 12–13, giving up-and-coming competitors a chance to perform on the same stage as the sport's elite.",
+        "source_name": "ADCC Combat",
+        "source_url": "https://adcombat.com/adcc-events/adcc-amateur-world-championship-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Grappling Calendar Turns to IBJJF American Nationals and Polaris 33 After No-Gi Brasileiros",
+        "summary": "With No-Gi Brasileiros wrapped up and the Polaris 33 bracket now released, the summer grappling schedule shifts to the IBJJF American Nationals as athletes build final ADCC Worlds preparation ahead of the Krakow event in September.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/articles/16048170-grappling-bulletin-no-gi-brasileiros-polaris-bracket-american-nationals",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Barcelona's €100M Álvarez Bid Rejected; Clubs Meet as Atlético Privately Concedes Exit Is Near",
+        "summary": "Atlético turned down Barcelona's initial €100M bid for Julián Álvarez and are holding firm at €150M, but direct club-to-club meetings are now confirmed; Atlético privately concede the departure is near-inevitable after Simeone reportedly lost patience following the player's public transfer request.",
+        "source_name": "World Soccer Talk",
+        "source_url": "https://worldsoccertalk.com/news/julian-alvarez-reportedly-set-to-leave-atletico-madrid-after-2026-world-cup-despite-clubs-stance/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup R32: Germany Out on Penalties to Paraguay, Morocco Shocks Netherlands — France Faces Sweden Tonight at MetLife",
+        "summary": "Paraguay pulled off a massive Round of 32 upset, beating Germany 4–3 on penalties after a 1–1 draw, while Morocco similarly shocked the Netherlands 3–2 in a shootout; France plays Sweden tonight (June 30) at MetLife Stadium in East Rutherford at 5pm ET.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Goretzka Officially a Free Agent Today; Atlético Mulls Bid but Wage Demands Likely a Dealbreaker",
+        "summary": "Leon Goretzka's Bayern Munich contract expired June 30, making him a free agent with Atlético Madrid among interested clubs; however, his ~€15M/year salary demands are beyond what Atlético can accommodate, with Sporting's Morten Hjulmand remaining the club's top midfield target.",
+        "source_name": "TribalFootball",
+        "source_url": "https://www.tribalfootball.com/article/soccer-laliga-atletico-madrid-offered-leon-goretzka-as-free-agent-option-6e78d8b0-8650-42a8-a5d3-3f3b25579c26",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "S&P 500 Closes Q2 at 7,436, Up ~9% YTD as VTI Posts 8.6% First-Half Gain",
+        "summary": "The S&P 500 ended Q2 2026 at approximately 7,436 — up about 9% year-to-date and only 3% off all-time highs despite a rough June; VTI gained roughly 8.6% in H1 with a 12-month total return near 32%, rewarding long-term index investors who held through the tech selloff.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-9-2026-wall-093200956.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Closes Q2 at $282 as Analysts Project Record iPhone and Mac Market Share in H2 2026",
+        "summary": "Apple ended the quarter near $282 with a Buy consensus (avg. target $315); Counterpoint Research forecasts iPhone's global market share rising to 25% and Mac to 12% by year-end, suggesting demand remains resilient despite recent device price hikes driven by memory shortages.",
+        "source_name": "GuruFocus",
+        "source_url": "https://www.gurufocus.com/news/8935480/apple-aapl-poised-for-record-market-share-growth-across-key-product-lines",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "SPOT Down 43% YTD Entering Q3, but 778M MAU Guidance and July 29 Earnings Could Flip Sentiment",
+        "summary": "Spotify shares remain deeply in the red for 2026, but Q2 guidance targets 778M monthly active users and €4.8B in revenue (+15% y/y) with gross margin near 33.1%; with 34+ analysts maintaining buy ratings and earnings due July 29 before market open, the report is the next major inflection point.",
+        "source_name": "MarketBeat",
+        "source_url": "https://www.marketbeat.com/stocks/NYSE/SPOT/earnings/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Free Concert and Fireworks at Brookdale Park Tomorrow, July 1 — All Ages Welcome",
+        "summary": "Essex County's free Summer Concert Series kicks off July 1 at 7pm at Brookdale Park (Watchung Ave, Bloomfield) with \"Music Through the Decades\" — Van Martin, The Discoteks, and The Empire — followed by a fireworks spectacular; bring a blanket and enjoy the show at no cost.",
+        "source_name": "Essex County Parks",
+        "source_url": "https://essexcountyparks.org/parks/brookdale-park/calendar/summer-music-the-infernos-and-fireworks-spectacular",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Free Outdoor Screening of 'Love, Simon' in Montclair This Wednesday, July 1",
+        "summary": "A free outdoor showing of \"Love, Simon\" (2018, PG-13) is scheduled for July 1 at 50 South Fullerton Ave in Montclair — a family-friendly pre-holiday film night ideal for tweens and teens.",
+        "source_name": "Patch Montclair",
+        "source_url": "https://patch.com/new-jersey/montclair/calendar",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "World Cup Knockout Week at MetLife: France Tonight, Spain July 2, Argentina July 3",
+        "summary": "Families near Montclair can catch back-to-back World Cup knockout matches at MetLife Stadium in East Rutherford: France vs. Sweden tonight (June 30, 5pm ET), Spain vs. Austria on July 2, and Argentina vs. Cape Verde on July 3 — all within a 30-minute drive.",
+        "source_name": "NBC Sports",
+        "source_url": "https://www.nbcsports.com/soccer/news/2026-world-cup-round-of-32-confirmed-schedule-predictions-for-knockout-round",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "guid": "briefing-2026-06-29",
     "stories": [
@@ -735,8 +837,8 @@
       },
       {
         "topic_id": "nj-local",
-        "headline": "Montclair Film's Free 'Movie Night Under the Stars' Is Underway for Summer 2026 — *Cars*, *Best in Show*, and More in Local Parks",
-        "summary": "Montclair Film's beloved annual outdoor cinema series kicked off June 14 and runs through August, with all screenings completely free to the public. The 2026 lineup opened with Disney/Pixar's *Cars* (celebrating its 20th anniversary) at Nishuane Park, and continues with *Best in Show* (dogs welcome!) and a third animal-themed film later in the season. Families are encouraged to bring blankets and lawn chairs; registration is not required but recommended at montclairfilm.org to receive weather alerts and schedule updates.",
+        "headline": "Montclair Film's Free 'Movie Night Under the Stars' Is Underway for Summer 2026 — Cars, Best in Show, and More in Local Parks",
+        "summary": "Montclair Film's beloved annual outdoor cinema series kicked off June 14 and runs through August, with all screenings completely free to the public. The 2026 lineup opened with Disney/Pixar's Cars (celebrating its 20th anniversary) at Nishuane Park, and continues with Best in Show (dogs welcome!) and a third animal-themed film later in the season. Families are encouraged to bring blankets and lawn chairs; registration is not required but recommended at montclairfilm.org to receive weather alerts and schedule updates.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/montclair-film-outdoor-movies-2026/",
         "is_social": false
