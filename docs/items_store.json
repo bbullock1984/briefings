@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-07-01",
+    "guid": "briefing-2026-07-01",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Roster Takes Twin Hits as Mica Galvao and Giancarlo Bodoni Both Withdraw",
+        "summary": "Mica Galvao has withdrawn from ADCC 2026 in Krakow following the arrest of Melqui Galvao, while Giancarlo Bodoni is also out after undergoing two surgeries earlier this year — the most significant dual roster setback to hit the September event since invitations went out.",
+        "source_name": "BJJ Doc",
+        "source_url": "https://bjjdoc.com/2026/06/30/adcc-2026-suffers-serious-setback-mica-galvao-giancarlo-bodoni-are-out/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Gracie Barra Wins Team Title at IBJJF American Nationals; Grand Slam Contenders Clay, Hopstock, Jaworski Take Gold Again",
+        "summary": "Gracie Barra claimed the overall team title at the IBJJF American Nationals (June 25–27, Las Vegas), while Grand Slam frontrunners Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all won gold again to stay on course for the No-Gi Grand Slam crown.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/events/15616472-2026-american-national-ibjjf-jiu-jitsu-championship",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Polaris Announces First-Ever Mainland Europe Events: Open Spain in Barcelona and Open Netherlands in Utrecht",
+        "summary": "Polaris is expanding beyond the UK for the first time, debuting Polaris Open Spain in Barcelona on August 29 followed by Polaris Open Netherlands in Utrecht on October 24 — opening the promotion's open-tournament circuit to continental European competitors and fans.",
+        "source_name": "Polaris Pro Grappling",
+        "source_url": "https://www.polarisprograppling.com/events",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Jacob Rodriguez to End 17-Month Hiatus at Pit Submission Series July 24",
+        "summary": "Former ADCC silver medalist Jacob Rodriguez is returning to professional grappling competition on July 24 at the Pit Submission Series, ending an absence of more than 17 months since his last match.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/jacob-rodriguez-returns-to-competition-after-a-17-month-hiatus/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Mbappé Brace Destroys Sweden 3-0 at MetLife, Sets All-Time World Cup Knockout Goals Record",
+        "summary": "Kylian Mbappé scored in the 45th and 74th minutes and Bradley Barcola added a third as France cruised past Sweden 3-0 at MetLife Stadium on June 30; Mbappé's 6-goal tournament total sets the all-time World Cup knockout stage scoring record and France advance to face Paraguay in the Round of 16.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49227768/france-sweden-live-world-cup-2026-latest-updates-commentary-score-result",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Haaland's 86th-Minute Goal Gives Norway Historic First-Ever World Cup Knockout Win Over Ivory Coast",
+        "summary": "Erling Haaland netted in the 86th minute to give Norway a dramatic 2-1 win over Ivory Coast in the Round of 32 on June 30 — Norway's first-ever victory in a World Cup knockout match — sending them through to the Round of 16.",
+        "source_name": "FIFA",
+        "source_url": "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021514",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Files FIFA Complaint Against Barcelona and Also Rejects Real Madrid's €150M Álvarez Bid",
+        "summary": "Atlético CEO Miguel Ángel Gil Marín formally lodged a FIFA and RFEF complaint accusing Barcelona of illegally approaching Julián Álvarez; separately, Atlético also rejected a €150M bid from Real Madrid for the striker, publicly mocking both clubs, even as Barcelona prepares a revised offer of up to €135–150M.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Lee Kang-in Agrees Personal Terms With Atlético Madrid on Deal Through 2031",
+        "summary": "Lee Kang-in has agreed personal terms with Atlético Madrid on a contract through 2031 for a fee of approximately €35M, with his PSG exit now confirmed; if completed, he would become the first Asian player ever to represent Atlético.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/articles/kang-lee-agrees-join-atletico-014004950.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "U.S. Futures Dip at Q3's Open as Wall Street Digests Blockbuster 9.6% First-Half S&P Gain",
+        "summary": "Index futures opened Q3 in the red on July 1 — S&P 500 futures off ~0.3% — as investors paused after the S&P's 9.6% H1 gain and Nasdaq's 12.8% surge; key ADP June jobs data and ISM Manufacturing PMI were due to set the tone for VTI and U.S. equity ETFs entering the holiday-shortened week.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Confirms July 30 Earnings Date; Wall Street Models $1.89 EPS and 14–17% Revenue Growth",
+        "summary": "Apple set its fiscal Q3 2026 earnings call for July 30 after the close, with the Street expecting $1.89 EPS and ~$110.8B in revenue following last quarter's $111.2B (+17% YoY); Wedbush holds a $400 price target and 28 of 47 analysts rate the stock a Buy at an average target near $315.",
+        "source_name": "Chartmill",
+        "source_url": "https://www.chartmill.com/stock/quote/AAPL/earnings-estimates",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify Audiobooks+ Hits $100M ARR Milestone Just Ahead of July 29 Earnings",
+        "summary": "Spotify's Audiobooks+ add-on is reaching $100M in annualized recurring revenue in July 2026 — up from near-zero two years ago with 1 million subscribers — as the market awaits Q2 2026 earnings on July 29, when analysts will scrutinize whether higher AI compute spending is resolving into margin expansion.",
+        "source_name": "Publishers Weekly",
+        "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/100487-spotify-audiobooks-on-track-to-hit-100-million-revenue-as-listeners-grow.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ Stay NJ Senior Property Tax Credit Sends Second Quarterly Checks This Month; Mortgage Rates Near 6.27%",
+        "summary": "New Jersey's Stay NJ program — which rebates 50% of property taxes (up to $6,500) for eligible homeowners 65+ — begins its second quarterly installment this month alongside Senior Freeze payments starting July 15; NJ 30-year purchase mortgage rates are sitting near 6.27% APR as Q3 opens.",
+        "source_name": "NJ Spotlight News",
+        "source_url": "https://www.njspotlightnews.org/2026/02/stay-nj-seniors-property-tax-relief-payments-start-arriving-this-week/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Count Basie Orchestra Opens Montclair Jazz Festival Soundcheck Series Tonight at Lackawanna Station",
+        "summary": "The Legendary Count Basie Orchestra under guest conductor John Faddis kicks off the 2026 Montclair Jazz Festival Soundcheck Series tonight at Lackawanna Station — with the Alvin Ailey Dance Company joining in honor of America's 250th — building to the August 15 Downtown Jamboree with Dianne Reeves and Christian McBride.",
+        "source_name": "Jazz House Kids",
+        "source_url": "https://jazzhousekids.org/montclair/montclair-jazz-festival/jazz-house-kids-announces-full-lineup-and-details-for-17th-annual-montclair-jazz-festival/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Brookdale Park Free 'Music Through the Decades' Concert and Fireworks Happening Tonight",
+        "summary": "Essex County's free summer concert featuring Van Martin, The Discoteks, and The Empire begins at 7 p.m. tonight at Brookdale Park's Watchung Avenue meadow, with a fireworks spectacular to follow — no tickets needed, bring a blanket.",
+        "source_name": "Patch",
+        "source_url": "https://patch.com/new-jersey/bloomfield/calendar/event/20260701/9d03c435-dbe6-412b-8447-df14af6d2170/free-summer-concert-fireworks-in-brookdale-park",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair State University Officially Takes Over NJ PBS Today",
+        "summary": "As of July 1, Montclair State University's College of Communication and Media assumes management of New Jersey's four public TV stations, returning control to a NJ institution for the first time since 2011 and launching a nightly NJ-centric newscast and at least 6 hours of local programming per week.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/06/montclair-state-selected-to-operate-nj-pbs-beginning-july-1/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair's July 4th Parade, Picnic, and Fireworks at Yogi Berra Stadium This Saturday",
+        "summary": "This Saturday's annual Montclair Independence Day celebration features an 11 a.m. parade down Bloomfield Avenue and Valley Road to Edgemont Park, a family picnic, and an evening fireworks show at Yogi Berra Stadium on the Montclair State campus — all free and a short drive from anywhere in town.",
+        "source_name": "Township of Montclair",
+        "source_url": "https://www.montclairnjusa.org/Visitors/Things-to-Do/Special-Events/July-4th-Celebrations",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "guid": "briefing-2026-06-30",
     "stories": [
