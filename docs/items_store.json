@@ -1,12 +1,122 @@
 [
   {
+    "date": "2026-07-03",
+    "guid": "briefing-2026-07-03",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Zabit Magomedsharipov Sidelined Before ACBJJ 21 Comeback; Brother Khasan Steps In vs. Rosas Jr.",
+        "summary": "Former UFC top-10 featherweight Zabit Magomedsharipov has been forced out of his long-awaited July 5 grappling return at ACBJJ 21 in Moscow due to injury; younger brother Khasan Magomedsharipov stepped in on short notice to headline the card against UFC bantamweight Raul Rosas Jr.",
+        "source_name": "MMA Mania",
+        "source_url": "https://www.mmamania.com/bjj-news/454677/oh-no-zabit-magomedsharipovs-return-to-competition-postponed-due-to-injury-brother-replaces-him",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Opens Roadshow Rolls On: Croatia Today, Miami July 11, Krakow Worlds Sept 12\u201313",
+        "summary": "The ADCC open qualifier series continues with the Croatia Open on July 4 and the Miami-Dade Open on July 11, maintaining the global buildup to September's ADCC World Championship in Krakow, Poland.",
+        "source_name": "ADCC Official",
+        "source_url": "https://adcc-official.com/pages/adcc-world-championships",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Spain Crushes Austria 3\u20130 in Round of 32; Spain vs. Portugal Set for July 7",
+        "summary": "Mikel Oyarzabal scored twice and Pedro Porro added a header as Spain dominated Austria 3-0 on July 2 \u2014 their first World Cup knockout-stage win since 2010 \u2014 setting up an all-Iberian Round of 16 clash with Portugal on July 7.",
+        "source_name": "NBC News",
+        "source_url": "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-games-2026-july-2-live-updates-rcna352733",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Lee Kang-in Transfer to Atl\u00e9tico Madrid Imminent; 5-Year Deal, ~\u20ac30M Fee, Announcement Expected This Week",
+        "summary": "PSG midfielder Lee Kang-in has agreed personal terms on a contract through 2031 with Atl\u00e9tico Madrid at a base transfer fee of approximately \u20ac30 million, with an official announcement expected within days as PSG finalizes its two replacements.",
+        "source_name": "Star News Korea",
+        "source_url": "https://www.starnewskorea.com/en/sports/2026/07/01/2026070114191566948",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Grimaldo Breaks Silence After Completing Atl\u00e9tico Move: 'My First Choice Was Always Atl\u00e9tico'",
+        "summary": "New Atl\u00e9tico signing Alejandro Grimaldo gave his first public comments after completing his move from Bayer Leverkusen, saying the club was his preferred destination all summer and issuing a competitive warning to La Liga and Champions League rivals.",
+        "source_name": "Tribuna.com",
+        "source_url": "https://tribuna.com/en/news/2026-07-01-my-first-choice-was-atletico-alex-grimaldo-celebrates-madrid-move-and-issues-world-cup-wa/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Laporta: Barcelona Has 'Moral Obligation' to Sign \u00c1lvarez; \u20ac130M Bid Set Post-World Cup",
+        "summary": "FC Barcelona president Joan Laporta publicly declared the club has a moral obligation to sign Juli\u00e1n \u00c1lvarez, with player-club personal terms already agreed; Barcelona plans to make a formal ~\u20ac130M offer to Atl\u00e9tico after the World Cup, while Atl\u00e9tico is holding firm at \u20ac150M cash with no installments.",
+        "source_name": "Football Transfers",
+        "source_url": "https://www.footballtransfers.com/en/transfer-news/es-primera-division/2026/07/joan-laporta-barcelona-moral-obligation-sign-julian-alvarez-atletico-madrid",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Dow Hits All-Time High on Soft June Jobs Report; Markets Closed July 3 for Independence Day",
+        "summary": "The Dow Jones surged 595 points to a fresh record on July 2 after June nonfarm payrolls came in at just 57,000 versus 113,000 expected, reducing odds of an imminent Fed rate hike; Apple led the rally with a 4.8% jump while semiconductor stocks continued their slide.",
+        "source_name": "TheStreet",
+        "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple (AAPL) Surges 4.8% on July 2; Q3 Earnings July 30 With Google Gemini AI Strategy in Focus",
+        "summary": "AAPL rebounded sharply on July 2, rising 4.8% as the soft jobs report lifted the Dow; the stock's next major test is July 30 Q3 earnings, where Apple has guided 14\u201317% revenue growth and investors will scrutinize the newly announced Google Gemini AI integration and progress on the memory chip shortage.",
+        "source_name": "Barchart",
+        "source_url": "https://www.barchart.com/story/news/2476521/apples-ai-plans-are-finally-taking-shape-heres-what-that-means-for-aapl-stock",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify Pulls 500K Fake Streams Tied to $3M Kalshi Prediction Market Bet on 'Earrings'",
+        "summary": "Spotify removed over 500,000 artificial streams that had fraudulently propelled Malcolm Todd's 'Earrings' to the top of its U.S. charts after discovering the streams were tied to $3 million in bets on the prediction market Kalshi; Spotify has demanded both Kalshi and Polymarket remove its branding and is actively investigating the manipulation.",
+        "source_name": "Bloomberg",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-07-02/spotify-challenges-prediction-markets-after-song-chart-rigging",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Chip Stocks Sink Again Even as Dow Records: Micron \u20137%, SanDisk \u201314%, AMD \u20134.3%",
+        "summary": "Semiconductor shares extended their steep decline on July 2 \u2014 Micron fell 7%, SanDisk tanked 14%, and AMD dropped 4.3% \u2014 deepening the market split between traditional blue-chip sectors and AI-infrastructure plays as investor doubts about near-term spending returns continue to build.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair's Walnut Street Kitchen Closing July 31; Farewell Filipino-American Pop-Up 'Bunso' Runs July 7\u201331",
+        "summary": "Globally inspired Walnut Street Kitchen at 98 Walnut St. in Montclair is closing after four years, along with its sister spot 3rd Joint Slice Shop + Bakery; the team marks its final month with farewell pop-up Bunso, offering Filipino-American dining at the same address July 7 through July 31.",
+        "source_name": "The Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/walnut-street-kitchen-closing-montclair-nj/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Jersey City Council Unanimously Rejects 15% Property Tax Hike; $255M Deficit Remains Unresolved",
+        "summary": "Jersey City's council voted down a revised 15% property tax increase on July 1 following fierce public backlash, even after the state offered a $120M financial lifeline; Mayor Solomon warned that residents could face a large lump-sum increase later in 2026 if the $255 million budget deficit is not otherwise resolved.",
+        "source_name": "Gothamist",
+        "source_url": "https://gothamist.com/news/jersey-city-punts-on-15-tax-increase-but-the-big-bills-are-still-coming",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Whitesbog Blueberry Summer Fest Today (July 3): Live Music, Vendors, and Family Fun in Burlington County",
+        "summary": "Whitesbog Historic Farm &amp; Village in Burlington County is hosting its Blueberry Summer Fest today, July 3, featuring live music, artisan vendors, local food, and outdoor family activities \u2014 a festive way to kick off the Independence Day holiday weekend within easy driving distance of Montclair.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/best-things-to-do-in-new-jersey-this-4th-of-july-weekend-july-3-5-2026/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-02",
     "guid": "briefing-2026-07-02",
     "stories": [
       {
         "topic_id": "bjj",
         "headline": "Helena Crevar vs. Paige Ivette Clymer Set for ONE: The Inner Circle on July 17",
-        "summary": "19-year-old women's grappling star Helena Crevar returns to ONE Championship on July 17 to face ADCC West Coast Trials winner Paige Ivette Clymer in a 10-minute openweight submission grappling match at Lumpinee Stadium in Bangkok — her second ONE appearance after a successful debut earlier in 2026.",
+        "summary": "19-year-old women's grappling star Helena Crevar returns to ONE Championship on July 17 to face ADCC West Coast Trials winner Paige Ivette Clymer in a 10-minute openweight submission grappling match at Lumpinee Stadium in Bangkok \u2014 her second ONE appearance after a successful debut earlier in 2026.",
         "source_name": "ONE Championship",
         "source_url": "https://www.onefc.com/news/helena-crevar-returns-to-face-paige-ivette-clymer-in-submission-grappling-action-at-the-inner-circle-on-july-17/",
         "is_social": false
@@ -14,7 +124,7 @@
       {
         "topic_id": "bjj",
         "headline": "UFC BJJ 2 Confirmed for July 31: Tackett Defends Title Against Renato Canuto",
-        "summary": "UFC's grappling promotion series returns July 31 with champion Andrew Tackett putting his belt on the line against Brazilian submission grappling star Renato Canuto — the second installment of the UFC's expanding no-gi grappling card series and a major late-summer event for the sport.",
+        "summary": "UFC's grappling promotion series returns July 31 with champion Andrew Tackett putting his belt on the line against Brazilian submission grappling star Renato Canuto \u2014 the second installment of the UFC's expanding no-gi grappling card series and a major late-summer event for the sport.",
         "source_name": "MMA Mania",
         "source_url": "https://www.mmamania.com/bjj-news/390491/stacked-ufc-bjj-3-fight-card-set-14-events-planned-for-2026-bjj-beat/",
         "is_social": false
@@ -30,23 +140,23 @@
       {
         "topic_id": "soccer",
         "headline": "Spain vs. Austria Kick Off Today at SoFi Stadium in World Cup Round of 32",
-        "summary": "Spain — with newly signed Alejandro Grimaldo on the squad — face Austria this afternoon (July 2) at 3pm ET at SoFi Stadium in Inglewood in the World Cup Round of 32; a win puts them on a collision course with Portugal, who also play Croatia tonight at 7pm ET in Toronto.",
+        "summary": "Spain \u2014 with newly signed Alejandro Grimaldo on the squad \u2014 face Austria this afternoon (July 2) at 3pm ET at SoFi Stadium in Inglewood in the World Cup Round of 32; a win puts them on a collision course with Portugal, who also play Croatia tonight at 7pm ET in Toronto.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/match/_/gameId/760497/austria-spain",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Lee Kang-in's Atlético Madrid Signing Expected to Be Officially Announced This Week",
-        "summary": "Korean media report an 'official deal imminent' for Lee Kang-in to move from PSG to Atlético Madrid for approximately €30M, with personal terms already agreed on a contract through 2031; if completed this week as expected, he becomes the first Asian player in Atlético's history.",
+        "headline": "Lee Kang-in's Atl\u00e9tico Madrid Signing Expected to Be Officially Announced This Week",
+        "summary": "Korean media report an 'official deal imminent' for Lee Kang-in to move from PSG to Atl\u00e9tico Madrid for approximately \u20ac30M, with personal terms already agreed on a contract through 2031; if completed this week as expected, he becomes the first Asian player in Atl\u00e9tico's history.",
         "source_name": "Star News Korea",
         "source_url": "https://www.starnewskorea.com/en/sports/2026/07/01/2026070114191566948",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Barcelona President Laporta Publicly Addresses Álvarez Deadlock With Atlético",
-        "summary": "Barcelona president Joan Laporta said he 'spoke personally with Atlético de Madrid and made the situation clear' regarding Julián Álvarez, but acknowledged the offer was rejected because Atlético had 'no alternative'; Barça have yet to improve on their initial €100M bid as Atlético hold firm — and Atlético's FIFA complaint against Barça for alleged tampering adds further legal pressure to the standoff.",
+        "headline": "Barcelona President Laporta Publicly Addresses \u00c1lvarez Deadlock With Atl\u00e9tico",
+        "summary": "Barcelona president Joan Laporta said he 'spoke personally with Atl\u00e9tico de Madrid and made the situation clear' regarding Juli\u00e1n \u00c1lvarez, but acknowledged the offer was rejected because Atl\u00e9tico had 'no alternative'; Bar\u00e7a have yet to improve on their initial \u20ac100M bid as Atl\u00e9tico hold firm \u2014 and Atl\u00e9tico's FIFA complaint against Bar\u00e7a for alleged tampering adds further legal pressure to the standoff.",
         "source_name": "Football Transfers",
         "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/07/fc-barcelona-joan-laporta-julian-alvarez-statement",
         "is_social": false
@@ -54,7 +164,7 @@
       {
         "topic_id": "soccer",
         "headline": "Argentina vs. Cape Verde Tomorrow in Miami; Messi Leads World Cup Scoring Charts",
-        "summary": "Lionel Messi's Argentina — leading the World Cup scoring charts with nine goals in three group games — face World Cup debutants Cape Verde at Hard Rock Stadium in Miami Gardens tomorrow (July 3) in the Round of 32; Cape Verde's remarkable three-draw group stage earned them a historic first-ever knockout berth.",
+        "summary": "Lionel Messi's Argentina \u2014 leading the World Cup scoring charts with nine goals in three group games \u2014 face World Cup debutants Cape Verde at Hard Rock Stadium in Miami Gardens tomorrow (July 3) in the Round of 32; Cape Verde's remarkable three-draw group stage earned them a historic first-ever knockout berth.",
         "source_name": "Al Jazeera",
         "source_url": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina",
         "is_social": false
@@ -62,7 +172,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "June Jobs Report Released Early Today; S&P 500 Dips in Holiday-Shortened Session",
-        "summary": "The June nonfarm payrolls report was released this morning (July 2) a day early due to the Independence Day holiday — economists expected 115,000 new jobs and unemployment holding at 4.3%; the S&P 500 eased ~0.08% as traders digested the numbers before markets close entirely on July 3 for the holiday.",
+        "summary": "The June nonfarm payrolls report was released this morning (July 2) a day early due to the Independence Day holiday \u2014 economists expected 115,000 new jobs and unemployment holding at 4.3%; the S&P 500 eased ~0.08% as traders digested the numbers before markets close entirely on July 3 for the holiday.",
         "source_name": "Kiplinger",
         "source_url": "https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect",
         "is_social": false
@@ -70,7 +180,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "AAPL Holds Near $294 in Quiet Pre-Holiday Week; July 30 Earnings Are the Next Catalyst",
-        "summary": "Apple stock has recovered from mid-June lows near $275 to trade around $294-295, with investors largely on hold through the July 4 weekend; the fiscal Q3 earnings call on July 30 is the next major event, where analysts project $1.89 EPS and ~$110.8B in revenue — results that will test whether the stock can reclaim its early-June highs above $315.",
+        "summary": "Apple stock has recovered from mid-June lows near $275 to trade around $294-295, with investors largely on hold through the July 4 weekend; the fiscal Q3 earnings call on July 30 is the next major event, where analysts project $1.89 EPS and ~$110.8B in revenue \u2014 results that will test whether the stock can reclaim its early-June highs above $315.",
         "source_name": "MarketBeat",
         "source_url": "https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/",
         "is_social": false
@@ -78,7 +188,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Spotify (SPOT) at $460 With Strong Q1 Beat Behind It; July 29 Earnings Approaching",
-        "summary": "Spotify shares are trading near $460 as of July 1, with a Buy consensus from 20+ analysts and an average price target of $594; Q1 2026 EPS came in at $3.45 versus the $2.95 forecast — a 17% beat — and Audiobooks+ is on track to hit $100M ARR this month, giving investors multiple tailwinds heading into the July 29 earnings report.",
+        "summary": "Spotify shares are trading near $460 as of July 1, with a Buy consensus from 20+ analysts and an average price target of $594; Q1 2026 EPS came in at $3.45 versus the $2.95 forecast \u2014 a 17% beat \u2014 and Audiobooks+ is on track to hit $100M ARR this month, giving investors multiple tailwinds heading into the July 29 earnings report.",
         "source_name": "Spotify SEC Filing",
         "source_url": "https://www.sec.gov/Archives/edgar/data/0001639920/000114036126004482/ef20065075_ex99-1.htm",
         "is_social": false
@@ -86,7 +196,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "NJ 30-Year Fixed Mortgage Rate Eases to 6.25% at the Start of July",
-        "summary": "New Jersey's 30-year fixed mortgage rate has slipped to approximately 6.25% as of July 1 — down from the 6.69–6.88% range seen in late June — translating to a monthly payment of roughly $2,995 on a median NJ home ($569K with 20% down); would-be buyers and refinancers may want to act before any potential Fed rate hikes later this year.",
+        "summary": "New Jersey's 30-year fixed mortgage rate has slipped to approximately 6.25% as of July 1 \u2014 down from the 6.69\u20136.88% range seen in late June \u2014 translating to a monthly payment of roughly $2,995 on a median NJ home ($569K with 20% down); would-be buyers and refinancers may want to act before any potential Fed rate hikes later this year.",
         "source_name": "Money",
         "source_url": "https://money.com/current-mortgage-rates/",
         "is_social": false
@@ -94,7 +204,7 @@
       {
         "topic_id": "nj-local",
         "headline": "Maplewoodstock Reveals Full Lineup for July 11-12: Lettuce, Anders Osborne, Slap Dragon Headline",
-        "summary": "The free, all-ages Maplewoodstock Music + Art Festival at Maplewood's Memorial Park (July 11-12, noon to 9:30pm nightly) has released its headliner lineup — funk/jazz act Lettuce, blues guitarist Anders Osborne, and Slap Dragon — alongside 50+ art vendors, a Kid Zone, food trucks, and a beer garden; it's a short drive from Montclair and totally free.",
+        "summary": "The free, all-ages Maplewoodstock Music + Art Festival at Maplewood's Memorial Park (July 11-12, noon to 9:30pm nightly) has released its headliner lineup \u2014 funk/jazz act Lettuce, blues guitarist Anders Osborne, and Slap Dragon \u2014 alongside 50+ art vendors, a Kid Zone, food trucks, and a beer garden; it's a short drive from Montclair and totally free.",
         "source_name": "New Jersey Stage",
         "source_url": "https://www.newjerseystage.com/articles2/2026/05/01/2026-maplewoodstock-music-plus-art-festival-to-take-place-july-11-12/",
         "is_social": false
@@ -102,23 +212,23 @@
       {
         "topic_id": "nj-local",
         "headline": "July 4th Weekend: Bloomfield and West Orange Host Free Family Celebrations Near Montclair",
-        "summary": "Beyond Montclair's own Saturday morning parade, nearby options include Bloomfield's Foley Field (The Infernos band plus fireworks at dusk, July 4) and West Orange High School's free community festival (food trucks, DJ, Kids Zone, 12-6pm July 4) — plenty of free family-friendly choices within a short drive for the long Independence Day weekend.",
+        "summary": "Beyond Montclair's own Saturday morning parade, nearby options include Bloomfield's Foley Field (The Infernos band plus fireworks at dusk, July 4) and West Orange High School's free community festival (food trucks, DJ, Kids Zone, 12-6pm July 4) \u2014 plenty of free family-friendly choices within a short drive for the long Independence Day weekend.",
         "source_name": "NJ Family",
         "source_url": "https://www.njfamily.com/best-things-to-do-in-new-jersey-this-4th-of-july-weekend-july-3-5-2026/",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Montclair Flea Open This Holiday Weekend at Lackawanna Plaza — Saturday and Sunday",
-        "summary": "The Montclair Flea returns to 1 Lackawanna Plaza on Saturday July 4 and Sunday July 5 (11am-5pm both days), with curated art, vintage goods, and food — a rain-or-shine family-friendly option in downtown Montclair that complements the morning parade and gives something to do before heading to evening fireworks.",
+        "headline": "Montclair Flea Open This Holiday Weekend at Lackawanna Plaza \u2014 Saturday and Sunday",
+        "summary": "The Montclair Flea returns to 1 Lackawanna Plaza on Saturday July 4 and Sunday July 5 (11am-5pm both days), with curated art, vintage goods, and food \u2014 a rain-or-shine family-friendly option in downtown Montclair that complements the morning parade and gives something to do before heading to evening fireworks.",
         "source_name": "Lackawanna Station",
         "source_url": "https://www.lackawanna.com/events",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Vintage Racer Group Weekend at NJ Motorsports Park July 10-12 — One Week Away",
-        "summary": "Classic and vintage car racing arrives at NJ Motorsports Park in Millville next Thursday through Saturday (July 10-12) with the Vintage Racer Group, featuring road and sidecar racing on Thunderbolt Raceway — just ahead of the New Jersey Lottery SpeedTour bringing F4 U.S. and Formula Americas open-wheel racing July 31-August 2.",
+        "headline": "Vintage Racer Group Weekend at NJ Motorsports Park July 10-12 \u2014 One Week Away",
+        "summary": "Classic and vintage car racing arrives at NJ Motorsports Park in Millville next Thursday through Saturday (July 10-12) with the Vintage Racer Group, featuring road and sidecar racing on Thunderbolt Raceway \u2014 just ahead of the New Jersey Lottery SpeedTour bringing F4 U.S. and Formula Americas open-wheel racing July 31-August 2.",
         "source_name": "NJ Motorsports Park",
         "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
         "is_social": false
@@ -132,7 +242,7 @@
       {
         "topic_id": "bjj",
         "headline": "ADCC 2026 Roster Takes Twin Hits as Mica Galvao and Giancarlo Bodoni Both Withdraw",
-        "summary": "Mica Galvao has withdrawn from ADCC 2026 in Krakow following the arrest of Melqui Galvao, while Giancarlo Bodoni is also out after undergoing two surgeries earlier this year — the most significant dual roster setback to hit the September event since invitations went out.",
+        "summary": "Mica Galvao has withdrawn from ADCC 2026 in Krakow following the arrest of Melqui Galvao, while Giancarlo Bodoni is also out after undergoing two surgeries earlier this year \u2014 the most significant dual roster setback to hit the September event since invitations went out.",
         "source_name": "BJJ Doc",
         "source_url": "https://bjjdoc.com/2026/06/30/adcc-2026-suffers-serious-setback-mica-galvao-giancarlo-bodoni-are-out/",
         "is_social": false
@@ -140,7 +250,7 @@
       {
         "topic_id": "bjj",
         "headline": "Gracie Barra Wins Team Title at IBJJF American Nationals; Grand Slam Contenders Clay, Hopstock, Jaworski Take Gold Again",
-        "summary": "Gracie Barra claimed the overall team title at the IBJJF American Nationals (June 25–27, Las Vegas), while Grand Slam frontrunners Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all won gold again to stay on course for the No-Gi Grand Slam crown.",
+        "summary": "Gracie Barra claimed the overall team title at the IBJJF American Nationals (June 25\u201327, Las Vegas), while Grand Slam frontrunners Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all won gold again to stay on course for the No-Gi Grand Slam crown.",
         "source_name": "FloGrappling",
         "source_url": "https://www.flograppling.com/events/15616472-2026-american-national-ibjjf-jiu-jitsu-championship",
         "is_social": false
@@ -148,7 +258,7 @@
       {
         "topic_id": "bjj",
         "headline": "Polaris Announces First-Ever Mainland Europe Events: Open Spain in Barcelona and Open Netherlands in Utrecht",
-        "summary": "Polaris is expanding beyond the UK for the first time, debuting Polaris Open Spain in Barcelona on August 29 followed by Polaris Open Netherlands in Utrecht on October 24 — opening the promotion's open-tournament circuit to continental European competitors and fans.",
+        "summary": "Polaris is expanding beyond the UK for the first time, debuting Polaris Open Spain in Barcelona on August 29 followed by Polaris Open Netherlands in Utrecht on October 24 \u2014 opening the promotion's open-tournament circuit to continental European competitors and fans.",
         "source_name": "Polaris Pro Grappling",
         "source_url": "https://www.polarisprograppling.com/events",
         "is_social": false
@@ -163,8 +273,8 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Mbappé Brace Destroys Sweden 3-0 at MetLife, Sets All-Time World Cup Knockout Goals Record",
-        "summary": "Kylian Mbappé scored in the 45th and 74th minutes and Bradley Barcola added a third as France cruised past Sweden 3-0 at MetLife Stadium on June 30; Mbappé's 6-goal tournament total sets the all-time World Cup knockout stage scoring record and France advance to face Paraguay in the Round of 16.",
+        "headline": "Mbapp\u00e9 Brace Destroys Sweden 3-0 at MetLife, Sets All-Time World Cup Knockout Goals Record",
+        "summary": "Kylian Mbapp\u00e9 scored in the 45th and 74th minutes and Bradley Barcola added a third as France cruised past Sweden 3-0 at MetLife Stadium on June 30; Mbapp\u00e9's 6-goal tournament total sets the all-time World Cup knockout stage scoring record and France advance to face Paraguay in the Round of 16.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/49227768/france-sweden-live-world-cup-2026-latest-updates-commentary-score-result",
         "is_social": false
@@ -172,23 +282,23 @@
       {
         "topic_id": "soccer",
         "headline": "Haaland's 86th-Minute Goal Gives Norway Historic First-Ever World Cup Knockout Win Over Ivory Coast",
-        "summary": "Erling Haaland netted in the 86th minute to give Norway a dramatic 2-1 win over Ivory Coast in the Round of 32 on June 30 — Norway's first-ever victory in a World Cup knockout match — sending them through to the Round of 16.",
+        "summary": "Erling Haaland netted in the 86th minute to give Norway a dramatic 2-1 win over Ivory Coast in the Round of 32 on June 30 \u2014 Norway's first-ever victory in a World Cup knockout match \u2014 sending them through to the Round of 16.",
         "source_name": "FIFA",
         "source_url": "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021514",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Files FIFA Complaint Against Barcelona and Also Rejects Real Madrid's €150M Álvarez Bid",
-        "summary": "Atlético CEO Miguel Ángel Gil Marín formally lodged a FIFA and RFEF complaint accusing Barcelona of illegally approaching Julián Álvarez; separately, Atlético also rejected a €150M bid from Real Madrid for the striker, publicly mocking both clubs, even as Barcelona prepares a revised offer of up to €135–150M.",
+        "headline": "Atl\u00e9tico Files FIFA Complaint Against Barcelona and Also Rejects Real Madrid's \u20ac150M \u00c1lvarez Bid",
+        "summary": "Atl\u00e9tico CEO Miguel \u00c1ngel Gil Mar\u00edn formally lodged a FIFA and RFEF complaint accusing Barcelona of illegally approaching Juli\u00e1n \u00c1lvarez; separately, Atl\u00e9tico also rejected a \u20ac150M bid from Real Madrid for the striker, publicly mocking both clubs, even as Barcelona prepares a revised offer of up to \u20ac135\u2013150M.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Lee Kang-in Agrees Personal Terms With Atlético Madrid on Deal Through 2031",
-        "summary": "Lee Kang-in has agreed personal terms with Atlético Madrid on a contract through 2031 for a fee of approximately €35M, with his PSG exit now confirmed; if completed, he would become the first Asian player ever to represent Atlético.",
+        "headline": "Lee Kang-in Agrees Personal Terms With Atl\u00e9tico Madrid on Deal Through 2031",
+        "summary": "Lee Kang-in has agreed personal terms with Atl\u00e9tico Madrid on a contract through 2031 for a fee of approximately \u20ac35M, with his PSG exit now confirmed; if completed, he would become the first Asian player ever to represent Atl\u00e9tico.",
         "source_name": "Yahoo Sports",
         "source_url": "https://sports.yahoo.com/articles/kang-lee-agrees-join-atletico-014004950.html",
         "is_social": false
@@ -196,14 +306,14 @@
       {
         "topic_id": "financial-freedom",
         "headline": "U.S. Futures Dip at Q3's Open as Wall Street Digests Blockbuster 9.6% First-Half S&P Gain",
-        "summary": "Index futures opened Q3 in the red on July 1 — S&P 500 futures off ~0.3% — as investors paused after the S&P's 9.6% H1 gain and Nasdaq's 12.8% surge; key ADP June jobs data and ISM Manufacturing PMI were due to set the tone for VTI and U.S. equity ETFs entering the holiday-shortened week.",
+        "summary": "Index futures opened Q3 in the red on July 1 \u2014 S&P 500 futures off ~0.3% \u2014 as investors paused after the S&P's 9.6% H1 gain and Nasdaq's 12.8% surge; key ADP June jobs data and ISM Manufacturing PMI were due to set the tone for VTI and U.S. equity ETFs entering the holiday-shortened week.",
         "source_name": "CNBC",
         "source_url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
         "is_social": false
       },
       {
         "topic_id": "financial-freedom",
-        "headline": "Apple Confirms July 30 Earnings Date; Wall Street Models $1.89 EPS and 14–17% Revenue Growth",
+        "headline": "Apple Confirms July 30 Earnings Date; Wall Street Models $1.89 EPS and 14\u201317% Revenue Growth",
         "summary": "Apple set its fiscal Q3 2026 earnings call for July 30 after the close, with the Street expecting $1.89 EPS and ~$110.8B in revenue following last quarter's $111.2B (+17% YoY); Wedbush holds a $400 price target and 28 of 47 analysts rate the stock a Buy at an average target near $315.",
         "source_name": "Chartmill",
         "source_url": "https://www.chartmill.com/stock/quote/AAPL/earnings-estimates",
@@ -212,7 +322,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Spotify Audiobooks+ Hits $100M ARR Milestone Just Ahead of July 29 Earnings",
-        "summary": "Spotify's Audiobooks+ add-on is reaching $100M in annualized recurring revenue in July 2026 — up from near-zero two years ago with 1 million subscribers — as the market awaits Q2 2026 earnings on July 29, when analysts will scrutinize whether higher AI compute spending is resolving into margin expansion.",
+        "summary": "Spotify's Audiobooks+ add-on is reaching $100M in annualized recurring revenue in July 2026 \u2014 up from near-zero two years ago with 1 million subscribers \u2014 as the market awaits Q2 2026 earnings on July 29, when analysts will scrutinize whether higher AI compute spending is resolving into margin expansion.",
         "source_name": "Publishers Weekly",
         "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/100487-spotify-audiobooks-on-track-to-hit-100-million-revenue-as-listeners-grow.html",
         "is_social": false
@@ -220,7 +330,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "NJ Stay NJ Senior Property Tax Credit Sends Second Quarterly Checks This Month; Mortgage Rates Near 6.27%",
-        "summary": "New Jersey's Stay NJ program — which rebates 50% of property taxes (up to $6,500) for eligible homeowners 65+ — begins its second quarterly installment this month alongside Senior Freeze payments starting July 15; NJ 30-year purchase mortgage rates are sitting near 6.27% APR as Q3 opens.",
+        "summary": "New Jersey's Stay NJ program \u2014 which rebates 50% of property taxes (up to $6,500) for eligible homeowners 65+ \u2014 begins its second quarterly installment this month alongside Senior Freeze payments starting July 15; NJ 30-year purchase mortgage rates are sitting near 6.27% APR as Q3 opens.",
         "source_name": "NJ Spotlight News",
         "source_url": "https://www.njspotlightnews.org/2026/02/stay-nj-seniors-property-tax-relief-payments-start-arriving-this-week/",
         "is_social": false
@@ -228,7 +338,7 @@
       {
         "topic_id": "nj-local",
         "headline": "Count Basie Orchestra Opens Montclair Jazz Festival Soundcheck Series Tonight at Lackawanna Station",
-        "summary": "The Legendary Count Basie Orchestra under guest conductor John Faddis kicks off the 2026 Montclair Jazz Festival Soundcheck Series tonight at Lackawanna Station — with the Alvin Ailey Dance Company joining in honor of America's 250th — building to the August 15 Downtown Jamboree with Dianne Reeves and Christian McBride.",
+        "summary": "The Legendary Count Basie Orchestra under guest conductor John Faddis kicks off the 2026 Montclair Jazz Festival Soundcheck Series tonight at Lackawanna Station \u2014 with the Alvin Ailey Dance Company joining in honor of America's 250th \u2014 building to the August 15 Downtown Jamboree with Dianne Reeves and Christian McBride.",
         "source_name": "Jazz House Kids",
         "source_url": "https://jazzhousekids.org/montclair/montclair-jazz-festival/jazz-house-kids-announces-full-lineup-and-details-for-17th-annual-montclair-jazz-festival/",
         "is_social": false
@@ -236,7 +346,7 @@
       {
         "topic_id": "nj-local",
         "headline": "Brookdale Park Free 'Music Through the Decades' Concert and Fireworks Happening Tonight",
-        "summary": "Essex County's free summer concert featuring Van Martin, The Discoteks, and The Empire begins at 7 p.m. tonight at Brookdale Park's Watchung Avenue meadow, with a fireworks spectacular to follow — no tickets needed, bring a blanket.",
+        "summary": "Essex County's free summer concert featuring Van Martin, The Discoteks, and The Empire begins at 7 p.m. tonight at Brookdale Park's Watchung Avenue meadow, with a fireworks spectacular to follow \u2014 no tickets needed, bring a blanket.",
         "source_name": "Patch",
         "source_url": "https://patch.com/new-jersey/bloomfield/calendar/event/20260701/9d03c435-dbe6-412b-8447-df14af6d2170/free-summer-concert-fireworks-in-brookdale-park",
         "is_social": false
@@ -252,7 +362,7 @@
       {
         "topic_id": "nj-local",
         "headline": "Montclair's July 4th Parade, Picnic, and Fireworks at Yogi Berra Stadium This Saturday",
-        "summary": "This Saturday's annual Montclair Independence Day celebration features an 11 a.m. parade down Bloomfield Avenue and Valley Road to Edgemont Park, a family picnic, and an evening fireworks show at Yogi Berra Stadium on the Montclair State campus — all free and a short drive from anywhere in town.",
+        "summary": "This Saturday's annual Montclair Independence Day celebration features an 11 a.m. parade down Bloomfield Avenue and Valley Road to Edgemont Park, a family picnic, and an evening fireworks show at Yogi Berra Stadium on the Montclair State campus \u2014 all free and a short drive from anywhere in town.",
         "source_name": "Township of Montclair",
         "source_url": "https://www.montclairnjusa.org/Visitors/Things-to-Do/Special-Events/July-4th-Celebrations",
         "is_social": false
@@ -266,7 +376,7 @@
       {
         "topic_id": "bjj",
         "headline": "Clay, Hopstock, and Jaworski All Win Gold at No-Gi Brasileiros, Keeping Grand Slam Bids Alive",
-        "summary": "The CBJJ No-Gi Brasileiros (June 27–28), streaming live on FloGrappling for the first time, saw defending world champions Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all win gold to stay on track for the 2025–26 No-Gi Grand Slam, with Clay and Jaworski also claiming the open-class titles.",
+        "summary": "The CBJJ No-Gi Brasileiros (June 27\u201328), streaming live on FloGrappling for the first time, saw defending world champions Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all win gold to stay on track for the 2025\u201326 No-Gi Grand Slam, with Clay and Jaworski also claiming the open-class titles.",
         "source_name": "FloGrappling",
         "source_url": "https://www.flograppling.com/articles/16048170-grappling-bulletin-no-gi-brasileiros-polaris-bracket-american-nationals",
         "is_social": false
@@ -274,7 +384,7 @@
       {
         "topic_id": "bjj",
         "headline": "ADCC Amateur World Championship to Debut Alongside Main Event in Krakow This September",
-        "summary": "For the first time, the ADCC Amateur World Championship will run concurrently with the main ADCC Worlds at Tauron Arena in Krakow, Poland on September 12–13, giving up-and-coming competitors a chance to perform on the same stage as the sport's elite.",
+        "summary": "For the first time, the ADCC Amateur World Championship will run concurrently with the main ADCC Worlds at Tauron Arena in Krakow, Poland on September 12\u201313, giving up-and-coming competitors a chance to perform on the same stage as the sport's elite.",
         "source_name": "ADCC Combat",
         "source_url": "https://adcombat.com/adcc-events/adcc-amateur-world-championship-2026/",
         "is_social": false
@@ -289,24 +399,24 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Barcelona's €100M Álvarez Bid Rejected; Clubs Meet as Atlético Privately Concedes Exit Is Near",
-        "summary": "Atlético turned down Barcelona's initial €100M bid for Julián Álvarez and are holding firm at €150M, but direct club-to-club meetings are now confirmed; Atlético privately concede the departure is near-inevitable after Simeone reportedly lost patience following the player's public transfer request.",
+        "headline": "Barcelona's \u20ac100M \u00c1lvarez Bid Rejected; Clubs Meet as Atl\u00e9tico Privately Concedes Exit Is Near",
+        "summary": "Atl\u00e9tico turned down Barcelona's initial \u20ac100M bid for Juli\u00e1n \u00c1lvarez and are holding firm at \u20ac150M, but direct club-to-club meetings are now confirmed; Atl\u00e9tico privately concede the departure is near-inevitable after Simeone reportedly lost patience following the player's public transfer request.",
         "source_name": "World Soccer Talk",
         "source_url": "https://worldsoccertalk.com/news/julian-alvarez-reportedly-set-to-leave-atletico-madrid-after-2026-world-cup-despite-clubs-stance/",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "World Cup R32: Germany Out on Penalties to Paraguay, Morocco Shocks Netherlands — France Faces Sweden Tonight at MetLife",
-        "summary": "Paraguay pulled off a massive Round of 32 upset, beating Germany 4–3 on penalties after a 1–1 draw, while Morocco similarly shocked the Netherlands 3–2 in a shootout; France plays Sweden tonight (June 30) at MetLife Stadium in East Rutherford at 5pm ET.",
+        "headline": "World Cup R32: Germany Out on Penalties to Paraguay, Morocco Shocks Netherlands \u2014 France Faces Sweden Tonight at MetLife",
+        "summary": "Paraguay pulled off a massive Round of 32 upset, beating Germany 4\u20133 on penalties after a 1\u20131 draw, while Morocco similarly shocked the Netherlands 3\u20132 in a shootout; France plays Sweden tonight (June 30) at MetLife Stadium in East Rutherford at 5pm ET.",
         "source_name": "Yahoo Sports",
         "source_url": "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Goretzka Officially a Free Agent Today; Atlético Mulls Bid but Wage Demands Likely a Dealbreaker",
-        "summary": "Leon Goretzka's Bayern Munich contract expired June 30, making him a free agent with Atlético Madrid among interested clubs; however, his ~€15M/year salary demands are beyond what Atlético can accommodate, with Sporting's Morten Hjulmand remaining the club's top midfield target.",
+        "headline": "Goretzka Officially a Free Agent Today; Atl\u00e9tico Mulls Bid but Wage Demands Likely a Dealbreaker",
+        "summary": "Leon Goretzka's Bayern Munich contract expired June 30, making him a free agent with Atl\u00e9tico Madrid among interested clubs; however, his ~\u20ac15M/year salary demands are beyond what Atl\u00e9tico can accommodate, with Sporting's Morten Hjulmand remaining the club's top midfield target.",
         "source_name": "TribalFootball",
         "source_url": "https://www.tribalfootball.com/article/soccer-laliga-atletico-madrid-offered-leon-goretzka-as-free-agent-option-6e78d8b0-8650-42a8-a5d3-3f3b25579c26",
         "is_social": false
@@ -314,7 +424,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "S&P 500 Closes Q2 at 7,436, Up ~9% YTD as VTI Posts 8.6% First-Half Gain",
-        "summary": "The S&P 500 ended Q2 2026 at approximately 7,436 — up about 9% year-to-date and only 3% off all-time highs despite a rough June; VTI gained roughly 8.6% in H1 with a 12-month total return near 32%, rewarding long-term index investors who held through the tech selloff.",
+        "summary": "The S&P 500 ended Q2 2026 at approximately 7,436 \u2014 up about 9% year-to-date and only 3% off all-time highs despite a rough June; VTI gained roughly 8.6% in H1 with a 12-month total return near 32%, rewarding long-term index investors who held through the tech selloff.",
         "source_name": "Yahoo Finance",
         "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-9-2026-wall-093200956.html",
         "is_social": false
@@ -330,15 +440,15 @@
       {
         "topic_id": "financial-freedom",
         "headline": "SPOT Down 43% YTD Entering Q3, but 778M MAU Guidance and July 29 Earnings Could Flip Sentiment",
-        "summary": "Spotify shares remain deeply in the red for 2026, but Q2 guidance targets 778M monthly active users and €4.8B in revenue (+15% y/y) with gross margin near 33.1%; with 34+ analysts maintaining buy ratings and earnings due July 29 before market open, the report is the next major inflection point.",
+        "summary": "Spotify shares remain deeply in the red for 2026, but Q2 guidance targets 778M monthly active users and \u20ac4.8B in revenue (+15% y/y) with gross margin near 33.1%; with 34+ analysts maintaining buy ratings and earnings due July 29 before market open, the report is the next major inflection point.",
         "source_name": "MarketBeat",
         "source_url": "https://www.marketbeat.com/stocks/NYSE/SPOT/earnings/",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Free Concert and Fireworks at Brookdale Park Tomorrow, July 1 — All Ages Welcome",
-        "summary": "Essex County's free Summer Concert Series kicks off July 1 at 7pm at Brookdale Park (Watchung Ave, Bloomfield) with \"Music Through the Decades\" — Van Martin, The Discoteks, and The Empire — followed by a fireworks spectacular; bring a blanket and enjoy the show at no cost.",
+        "headline": "Free Concert and Fireworks at Brookdale Park Tomorrow, July 1 \u2014 All Ages Welcome",
+        "summary": "Essex County's free Summer Concert Series kicks off July 1 at 7pm at Brookdale Park (Watchung Ave, Bloomfield) with \"Music Through the Decades\" \u2014 Van Martin, The Discoteks, and The Empire \u2014 followed by a fireworks spectacular; bring a blanket and enjoy the show at no cost.",
         "source_name": "Essex County Parks",
         "source_url": "https://essexcountyparks.org/parks/brookdale-park/calendar/summer-music-the-infernos-and-fireworks-spectacular",
         "is_social": false
@@ -346,7 +456,7 @@
       {
         "topic_id": "nj-local",
         "headline": "Free Outdoor Screening of 'Love, Simon' in Montclair This Wednesday, July 1",
-        "summary": "A free outdoor showing of \"Love, Simon\" (2018, PG-13) is scheduled for July 1 at 50 South Fullerton Ave in Montclair — a family-friendly pre-holiday film night ideal for tweens and teens.",
+        "summary": "A free outdoor showing of \"Love, Simon\" (2018, PG-13) is scheduled for July 1 at 50 South Fullerton Ave in Montclair \u2014 a family-friendly pre-holiday film night ideal for tweens and teens.",
         "source_name": "Patch Montclair",
         "source_url": "https://patch.com/new-jersey/montclair/calendar",
         "is_social": false
@@ -354,7 +464,7 @@
       {
         "topic_id": "nj-local",
         "headline": "World Cup Knockout Week at MetLife: France Tonight, Spain July 2, Argentina July 3",
-        "summary": "Families near Montclair can catch back-to-back World Cup knockout matches at MetLife Stadium in East Rutherford: France vs. Sweden tonight (June 30, 5pm ET), Spain vs. Austria on July 2, and Argentina vs. Cape Verde on July 3 — all within a 30-minute drive.",
+        "summary": "Families near Montclair can catch back-to-back World Cup knockout matches at MetLife Stadium in East Rutherford: France vs. Sweden tonight (June 30, 5pm ET), Spain vs. Austria on July 2, and Argentina vs. Cape Verde on July 3 \u2014 all within a 30-minute drive.",
         "source_name": "NBC Sports",
         "source_url": "https://www.nbcsports.com/soccer/news/2026-world-cup-round-of-32-confirmed-schedule-predictions-for-knockout-round",
         "is_social": false
@@ -391,16 +501,16 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Lee Kang-in's Move to Atlético Madrid Enters Final Stage as PSG Lines Up Replacement",
-        "summary": "Atlético and PSG are closing in on a deal for Lee Kang-in worth roughly €30-35M, with PSG now arranging personal terms with Monaco's Maghnes Akliouche as his direct replacement, a clear sign the transfer fee is largely settled.",
+        "headline": "Lee Kang-in's Move to Atl\u00e9tico Madrid Enters Final Stage as PSG Lines Up Replacement",
+        "summary": "Atl\u00e9tico and PSG are closing in on a deal for Lee Kang-in worth roughly \u20ac30-35M, with PSG now arranging personal terms with Monaco's Maghnes Akliouche as his direct replacement, a clear sign the transfer fee is largely settled.",
         "source_name": "Get French Football News",
         "source_url": "https://www.getfootballnewsfrance.com/2026/psg-lead-race-to-sign-monacos-maghnes-akliouche/",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Madrid Enters Race for Udinese Defender Oumar Solet, Threatening to Gazump Inter Milan",
-        "summary": "Atlético are preparing a roughly €25M bid for Udinese centre-back Oumar Solet, jumping ahead of Inter Milan, whose lower offer has stalled while the Serie A club waits on outgoing sales to fund the move.",
+        "headline": "Atl\u00e9tico Madrid Enters Race for Udinese Defender Oumar Solet, Threatening to Gazump Inter Milan",
+        "summary": "Atl\u00e9tico are preparing a roughly \u20ac25M bid for Udinese centre-back Oumar Solet, jumping ahead of Inter Milan, whose lower offer has stalled while the Serie A club waits on outgoing sales to fund the move.",
         "source_name": "Sportingpedia",
         "source_url": "https://www.sportingpedia.com/2026/06/24/atletico-madrid-set-sights-on-solet-as-inter-face-another-transfer-setback/",
         "is_social": false
@@ -493,16 +603,16 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Julián Álvarez Publicly Confirms He Wants to Leave Atlético Madrid",
-        "summary": "Álvarez told ESPN he has informed Atlético's hierarchy of his desire for a transfer, with Barcelona his preferred destination; Atleti's CEO is refusing to sell and has threatened a FIFA complaint against Barcelona over an alleged improper approach.",
+        "headline": "Juli\u00e1n \u00c1lvarez Publicly Confirms He Wants to Leave Atl\u00e9tico Madrid",
+        "summary": "\u00c1lvarez told ESPN he has informed Atl\u00e9tico's hierarchy of his desire for a transfer, with Barcelona his preferred destination; Atleti's CEO is refusing to sell and has threatened a FIFA complaint against Barcelona over an alleged improper approach.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/49147171/alvarez-says-move-atletico-madrid-best-everyone",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Madrid Closing In on Lee Kang-in, but Juventus Threatens to Hijack Deal",
-        "summary": "Atlético and PSG midfielder Lee Kang-in have reportedly agreed personal terms, but Juventus has emerged as a late complication as the clubs negotiate a transfer fee nearing €35 million.",
+        "headline": "Atl\u00e9tico Madrid Closing In on Lee Kang-in, but Juventus Threatens to Hijack Deal",
+        "summary": "Atl\u00e9tico and PSG midfielder Lee Kang-in have reportedly agreed personal terms, but Juventus has emerged as a late complication as the clubs negotiate a transfer fee nearing \u20ac35 million.",
         "source_name": "Star News Korea",
         "source_url": "https://www.starnewskorea.com/en/sports/2026/06/26/2026062608034579653",
         "is_social": false
@@ -596,7 +706,7 @@
       {
         "topic_id": "bjj",
         "headline": "Craig Jones Admits He Used PEDs, Says He Was '100% Cheating'",
-        "summary": "Just days after announcing B-Team's revival, Craig Jones gave a blunt interview admitting to long-term steroid use — including injecting before EBI in Tijuana — and said he considers it cheating but stays open about it because 'the next generation is gonna take it anyway.'",
+        "summary": "Just days after announcing B-Team's revival, Craig Jones gave a blunt interview admitting to long-term steroid use \u2014 including injecting before EBI in Tijuana \u2014 and said he considers it cheating but stays open about it because 'the next generation is gonna take it anyway.'",
         "source_name": "BJJ Eastern Europe",
         "source_url": "https://www.bjjee.com/bjj-news/craig-jones-admits-he-used-peds-and-says-he-was-100-cheating/",
         "is_social": false
@@ -619,24 +729,24 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Álex Baena's Strike Sends Spain Top of Group, Knocks Out Uruguay",
-        "summary": "Atlético midfielder Álex Baena scored the only goal in the 42nd minute as Spain beat Uruguay 1-0 in Guadalajara, topping Group H and eliminating Uruguay from the World Cup while Cape Verde also advanced to the Round of 32.",
+        "headline": "\u00c1lex Baena's Strike Sends Spain Top of Group, Knocks Out Uruguay",
+        "summary": "Atl\u00e9tico midfielder \u00c1lex Baena scored the only goal in the 42nd minute as Spain beat Uruguay 1-0 in Guadalajara, topping Group H and eliminating Uruguay from the World Cup while Cape Verde also advanced to the Round of 32.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/49190654/uruguay-spain-live-world-cup-2026-latest-updates-commentary-score-result",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Set to Sign Stuttgart Midfielder Enzo Millot by Triggering €23M Release Clause",
-        "summary": "Atlético have agreed personal terms with Stuttgart's Enzo Millot and plan to trigger his €23 million release clause, with Simeone targeting the playmaker — who scored 12 goals last season — as the club's eighth summer signing.",
+        "headline": "Atl\u00e9tico Set to Sign Stuttgart Midfielder Enzo Millot by Triggering \u20ac23M Release Clause",
+        "summary": "Atl\u00e9tico have agreed personal terms with Stuttgart's Enzo Millot and plan to trigger his \u20ac23 million release clause, with Simeone targeting the playmaker \u2014 who scored 12 goals last season \u2014 as the club's eighth summer signing.",
         "source_name": "TribalFootball",
         "source_url": "https://www.tribalfootball.com/article/soccer-laliga-atletico-madrid-to-match-buyout-clause-for-stuttgart-midfielder-millot-b9a6df09-1f30-4853-ab73-cf62d29422c4",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Dembélé Hat Trick Powers France Past Norway 4-1 as Sørloth Watches From the Bench",
-        "summary": "Ousmane Dembélé scored three first-half goals as France routed Norway 4-1 at the World Cup; Norway rested Atlético's Alexander Sørloth and Erling Haaland but still advanced to the Round of 32 as Group I runner-up.",
+        "headline": "Demb\u00e9l\u00e9 Hat Trick Powers France Past Norway 4-1 as S\u00f8rloth Watches From the Bench",
+        "summary": "Ousmane Demb\u00e9l\u00e9 scored three first-half goals as France routed Norway 4-1 at the World Cup; Norway rested Atl\u00e9tico's Alexander S\u00f8rloth and Erling Haaland but still advanced to the Round of 32 as Group I runner-up.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/match/_/gameId/760475/france-norway",
         "is_social": false
@@ -644,7 +754,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Nasdaq Logs Fifth Straight Losing Session as Tech Selloff Caps Worst Week in Months",
-        "summary": "The Nasdaq fell for a fifth consecutive session Friday — down roughly 5% on the week — as Sandisk and Micron led chip-stock losses on AI-spending jitters and a report that OpenAI may delay its IPO, even as SpaceX shares rose ahead of a fast-tracked Russell 1000 addition.",
+        "summary": "The Nasdaq fell for a fifth consecutive session Friday \u2014 down roughly 5% on the week \u2014 as Sandisk and Micron led chip-stock losses on AI-spending jitters and a report that OpenAI may delay its IPO, even as SpaceX shares rose ahead of a fast-tracked Russell 1000 addition.",
         "source_name": "TheStreet",
         "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026",
         "is_social": false
@@ -729,8 +839,8 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Madrid Officially Completes Grimaldo Signing From Leverkusen",
-        "summary": "Atlético confirmed Alejandro Grimaldo as a new player on a deal through 2029 (plus an optional fourth year) for a fixed €15M fee plus variables, with the left-back saying he's 'always liked Atlético' ahead of his move to the Metropolitano.",
+        "headline": "Atl\u00e9tico Madrid Officially Completes Grimaldo Signing From Leverkusen",
+        "summary": "Atl\u00e9tico confirmed Alejandro Grimaldo as a new player on a deal through 2029 (plus an optional fourth year) for a fixed \u20ac15M fee plus variables, with the left-back saying he's 'always liked Atl\u00e9tico' ahead of his move to the Metropolitano.",
         "source_name": "Esto es Atleti",
         "source_url": "https://www.estoesatleti.es/articulo/fichajes/alejandro-grimaldo-nuevo-jugador-atletico-madrid/20260624183226039484.html",
         "is_social": false
@@ -745,16 +855,16 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético's Sørloth and Norway Face Mbappé's France for Group I Top Spot",
-        "summary": "Fresh off a brace against Senegal, Atlético striker Alexander Sørloth lines up with Norway against France on June 26 in Foxborough with first place in Group I on the line ahead of the World Cup Round of 32.",
+        "headline": "Atl\u00e9tico's S\u00f8rloth and Norway Face Mbapp\u00e9's France for Group I Top Spot",
+        "summary": "Fresh off a brace against Senegal, Atl\u00e9tico striker Alexander S\u00f8rloth lines up with Norway against France on June 26 in Foxborough with first place in Group I on the line ahead of the World Cup Round of 32.",
         "source_name": "Al Jazeera",
         "source_url": "https://www.aljazeera.com/sports/2026/6/25/norway-vs-france-at-world-cup-2026-mbappe-vs-haaland-team-news-lineups",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Juventus Push to Seal Sørloth Exit From Atlético Amid Nico González Swap Talk",
-        "summary": "Juventus and Alexander Sørloth's camp have personal terms agreed on a contract through 2029, but Juventus and Atlético are still negotiating a fee (Atlético want around €35M, Juve nearer €30M), with a possible Nico González swap also on the table.",
+        "headline": "Juventus Push to Seal S\u00f8rloth Exit From Atl\u00e9tico Amid Nico Gonz\u00e1lez Swap Talk",
+        "summary": "Juventus and Alexander S\u00f8rloth's camp have personal terms agreed on a contract through 2029, but Juventus and Atl\u00e9tico are still negotiating a fee (Atl\u00e9tico want around \u20ac35M, Juve nearer \u20ac30M), with a possible Nico Gonz\u00e1lez swap also on the table.",
         "source_name": "Into the Calderon",
         "source_url": "https://www.intothecalderon.com/atletico-madrid-transfer-news-rumors/26009/nico-swap-on-the-table-as-juventus-reach-sorloth-contract-agreement",
         "is_social": false
@@ -863,24 +973,24 @@
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético and Leverkusen Reach Full Club-to-Club Agreement on Grimaldo, Beyond Personal Terms",
-        "summary": "Atlético Madrid and Bayer Leverkusen have closed a club-to-club deal for left-back Alejandro Grimaldo in the €20-25M range, with the player signing through 2029 plus an option — multiple outlets now call it done pending his medical and official presentation once Spain's World Cup run ends.",
+        "headline": "Atl\u00e9tico and Leverkusen Reach Full Club-to-Club Agreement on Grimaldo, Beyond Personal Terms",
+        "summary": "Atl\u00e9tico Madrid and Bayer Leverkusen have closed a club-to-club deal for left-back Alejandro Grimaldo in the \u20ac20-25M range, with the player signing through 2029 plus an option \u2014 multiple outlets now call it done pending his medical and official presentation once Spain's World Cup run ends.",
         "source_name": "El Desmarque",
         "source_url": "https://www.eldesmarque.com/futbol/mercado-de-fichajes/20260624/atletico-madrid-fichaje-cerrado-alex-grimaldo-precio-superior_18_019539448.html",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético to File Formal FIFA Complaint Against Barcelona Over Álvarez Tampering",
-        "summary": "Atlético CEO Miguel Ángel Gil Marín announced the club will lodge a complaint with FIFA accusing Barcelona of negotiating with Julián Álvarez — under contract until 2030 — during the protected period, escalating the saga from rhetoric into formal regulatory action.",
+        "headline": "Atl\u00e9tico to File Formal FIFA Complaint Against Barcelona Over \u00c1lvarez Tampering",
+        "summary": "Atl\u00e9tico CEO Miguel \u00c1ngel Gil Mar\u00edn announced the club will lodge a complaint with FIFA accusing Barcelona of negotiating with Juli\u00e1n \u00c1lvarez \u2014 under contract until 2030 \u2014 during the protected period, escalating the saga from rhetoric into formal regulatory action.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Correction: Bernardo Silva Signed With Real Madrid, Not Atlético, on a Free Transfer",
-        "summary": "Real Madrid officially confirmed Bernardo Silva on a free transfer after his Manchester City exit, signing a two-year deal under Mourinho — closing the door on Atlético's reported pursuit and contradicting the prior report that they were leading the chase.",
+        "headline": "Correction: Bernardo Silva Signed With Real Madrid, Not Atl\u00e9tico, on a Free Transfer",
+        "summary": "Real Madrid officially confirmed Bernardo Silva on a free transfer after his Manchester City exit, signing a two-year deal under Mourinho \u2014 closing the door on Atl\u00e9tico's reported pursuit and contradicting the prior report that they were leading the chase.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/48937163/real-madrid-confirm-bernardo-silva-signing-man-city-exit",
         "is_social": false
@@ -888,7 +998,7 @@
       {
         "topic_id": "soccer",
         "headline": "World Cup 2026: Group Stage Winding Down, Knockouts Begin Sunday",
-        "summary": "The 2026 World Cup has passed its midpoint with Argentina (Álvarez, Messi) already through after beating Austria 2-0, while Spain — with Grimaldo on the squad — face Uruguay Friday in their final group match ahead of the Round of 32 starting June 28.",
+        "summary": "The 2026 World Cup has passed its midpoint with Argentina (\u00c1lvarez, Messi) already through after beating Austria 2-0, while Spain \u2014 with Grimaldo on the squad \u2014 face Uruguay Friday in their final group match ahead of the Round of 32 starting June 28.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
         "is_social": false
@@ -912,7 +1022,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "VTI Hits Fresh High as Vanguard Overtakes iShares as Largest ETF Provider",
-        "summary": "VTI traded around $364.64 Thursday, riding the broader Micron-fueled rally, while Vanguard has reportedly overtaken iShares to become the largest ETF provider overall — a notable shift for index investors who rely on funds like VTI.",
+        "summary": "VTI traded around $364.64 Thursday, riding the broader Micron-fueled rally, while Vanguard has reportedly overtaken iShares to become the largest ETF provider overall \u2014 a notable shift for index investors who rely on funds like VTI.",
         "source_name": "TipRanks",
         "source_url": "https://www.tipranks.com/news/vanguard-total-stock-market-vti-etf-daily-update-june-16-2026",
         "is_social": false
@@ -958,15 +1068,15 @@
       {
         "topic_id": "bjj",
         "headline": "Tainan Dalpra Wins Fourth IBJJF World Title With All-Submission Run in Under Six Minutes Total",
-        "summary": "At the 2026 IBJJF World Championship in Long Beach, AOJ's Tainan Dalpra captured his fourth middleweight world title by submitting all four opponents in just six minutes of total mat time — one of the most dominant Worlds performances in the sport's history. Dalpra and Gabi Pessanha were the only two athletes to complete the full IBJJF Grand Slam in 2026, and both are now eyeing ADCC 2026 in Poland this September where they could pursue a rare Super Grand Slam. Dalpra also became the first male athlete to earn two IBJJF Grand Slam titles in a single season.",
+        "summary": "At the 2026 IBJJF World Championship in Long Beach, AOJ's Tainan Dalpra captured his fourth middleweight world title by submitting all four opponents in just six minutes of total mat time \u2014 one of the most dominant Worlds performances in the sport's history. Dalpra and Gabi Pessanha were the only two athletes to complete the full IBJJF Grand Slam in 2026, and both are now eyeing ADCC 2026 in Poland this September where they could pursue a rare Super Grand Slam. Dalpra also became the first male athlete to earn two IBJJF Grand Slam titles in a single season.",
         "source_name": "IBJJF",
         "source_url": "https://ibjjf.com/news/2026-world-championship-black-belt-recap",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Madrid on Verge of Signing Bayer Leverkusen's Grimaldo as Left-Back Replacement",
-        "summary": "Atlético Madrid are reportedly close to finalizing a deal for Spanish left-back Alejandro Grimaldo from Bayer Leverkusen, with Leverkusen executives in Madrid to accelerate talks and a deal potentially wrapping up on June 24. Grimaldo, 30, had been pushing for a return to La Liga this summer with his Leverkusen contract expiring in 2027, and Atlético turned to him after missing out on Chelsea's Marc Cucurella to Real Madrid. The move would give Simeone a proven Bundesliga attacking full-back as the club simultaneously manages the ongoing Julián Álvarez transfer saga.",
+        "headline": "Atl\u00e9tico Madrid on Verge of Signing Bayer Leverkusen's Grimaldo as Left-Back Replacement",
+        "summary": "Atl\u00e9tico Madrid are reportedly close to finalizing a deal for Spanish left-back Alejandro Grimaldo from Bayer Leverkusen, with Leverkusen executives in Madrid to accelerate talks and a deal potentially wrapping up on June 24. Grimaldo, 30, had been pushing for a return to La Liga this summer with his Leverkusen contract expiring in 2027, and Atl\u00e9tico turned to him after missing out on Chelsea's Marc Cucurella to Real Madrid. The move would give Simeone a proven Bundesliga attacking full-back as the club simultaneously manages the ongoing Juli\u00e1n \u00c1lvarez transfer saga.",
         "source_name": "Tribuna.com",
         "source_url": "https://tribuna.com/en/news/2026-06-24-atletico-madrid-close-to-finalising-agreement-for-grimaldos-signing-reports/",
         "is_social": false
@@ -974,7 +1084,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Markets Attempt Rebound Wednesday After Two-Day Tech Rout; Micron Earnings Loom as Key AI Test",
-        "summary": "After the S&P 500 fell 1.44% and the Nasdaq dropped 2.21% on Tuesday — led by a collapse in chip stocks including Micron (-13%), AMD (-5.8%), and Qualcomm (-8%) — futures pointed higher Wednesday morning as traders look to bargain-hunt. All eyes are on Micron's after-bell earnings report, where analysts expect roughly $35 billion in sales, as a critical read on AI infrastructure demand. Adding to macro uncertainty, BofA and Deutsche Bank now both forecast the Fed will raise rates three times in 2026 under Chair Kevin Warsh, with hikes projected in September, October, and December.",
+        "summary": "After the S&P 500 fell 1.44% and the Nasdaq dropped 2.21% on Tuesday \u2014 led by a collapse in chip stocks including Micron (-13%), AMD (-5.8%), and Qualcomm (-8%) \u2014 futures pointed higher Wednesday morning as traders look to bargain-hunt. All eyes are on Micron's after-bell earnings report, where analysts expect roughly $35 billion in sales, as a critical read on AI infrastructure demand. Adding to macro uncertainty, BofA and Deutsche Bank now both forecast the Fed will raise rates three times in 2026 under Chair Kevin Warsh, with hikes projected in September, October, and December.",
         "source_name": "24/7 Wall St.",
         "source_url": "https://247wallst.com/investing/2026/06/24/stock-market-live-june-24-2026-sp-500-spy-attempting-to-regain-momentum/",
         "is_social": false
@@ -989,15 +1099,15 @@
       },
       {
         "topic_id": "nj-local",
-        "headline": "Montclair Flea Returns This Weekend at Lackawanna Plaza — Family-Friendly Vendors, Food, and Vintage Finds",
-        "summary": "The Montclair Flea is back at 1 Lackawanna Plaza on Saturday June 27 (11am–5pm) and Sunday June 28 (11am–5pm), featuring curated vendors with art, vintage items, food, and drinks — described as a fun, rain-or-shine outing for the whole family. It's a great low-key option for a 12-year-old who enjoys browsing unique finds, grabbing a bite, or soaking up the outdoor scene in downtown Montclair. The event runs through the summer and holiday season as well.",
+        "headline": "Montclair Flea Returns This Weekend at Lackawanna Plaza \u2014 Family-Friendly Vendors, Food, and Vintage Finds",
+        "summary": "The Montclair Flea is back at 1 Lackawanna Plaza on Saturday June 27 (11am\u20135pm) and Sunday June 28 (11am\u20135pm), featuring curated vendors with art, vintage items, food, and drinks \u2014 described as a fun, rain-or-shine outing for the whole family. It's a great low-key option for a 12-year-old who enjoys browsing unique finds, grabbing a bite, or soaking up the outdoor scene in downtown Montclair. The event runs through the summer and holiday season as well.",
         "source_name": "Lackawanna Station",
         "source_url": "https://www.lackawanna.com/events",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Montclair Pride Festival Moved to August 1 — Free All-Day Event with Live Music, Drag, Food Trucks, and Family Zone",
+        "headline": "Montclair Pride Festival Moved to August 1 \u2014 Free All-Day Event with Live Music, Drag, Food Trucks, and Family Zone",
         "summary": "Out Montclair has officially rescheduled the 2026 Montclair Pride Festival from June 13 to Saturday, August 1, citing financial and operational requirements needed to safely produce the event and keep it free and accessible. The downtown Montclair festival will feature live music, drag performances, food trucks, a family zone, bar areas, and an evening street-dance party. Families with kids can enjoy the family zone, and the rescheduled date gives more time to plan a summer outing.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/montclair-pride-festival-2026/",
@@ -1012,22 +1122,22 @@
       {
         "topic_id": "bjj",
         "headline": "Diego 'Pato' Oliveira Retires from Gi Competition After Winning Record Fifth World Title",
-        "summary": "Diego 'Pato' Oliveira capped the 2026 IBJJF World Championship by leaving his black belt on the mat — the traditional signal of retirement — moments after winning his fifth world title at light-featherweight, surpassing the records of both Robson Moura and his coach Guilherme Mendes. The 27-year-old AOJ athlete dominated his bracket with three submission wins and a 9-0 finals victory over Khaled Mohammad. His departure leaves a massive hole at the weight class, though questions remain about whether he'll continue competing in no-gi and professional events. Tainan Dalpra (4th world title, all submissions) and Gabi Pessanha (12th world title, double gold) were the other marquee stories from the event.",
+        "summary": "Diego 'Pato' Oliveira capped the 2026 IBJJF World Championship by leaving his black belt on the mat \u2014 the traditional signal of retirement \u2014 moments after winning his fifth world title at light-featherweight, surpassing the records of both Robson Moura and his coach Guilherme Mendes. The 27-year-old AOJ athlete dominated his bracket with three submission wins and a 9-0 finals victory over Khaled Mohammad. His departure leaves a massive hole at the weight class, though questions remain about whether he'll continue competing in no-gi and professional events. Tainan Dalpra (4th world title, all submissions) and Gabi Pessanha (12th world title, double gold) were the other marquee stories from the event.",
         "source_name": "Jits Magazine",
         "source_url": "https://jitsmagazine.com/diego-pato-oliveira-announces-retirement-from-gi-competition/",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Julián Álvarez Publicly States He Wants to Leave Atlético Madrid to 'Fulfil His Dream' — Barcelona Understood to Be Destination",
-        "summary": "In a significant escalation of the transfer saga, Atlético Madrid striker Julián Álvarez said after Argentina's 2-0 World Cup win over Austria on June 22 that he wants to leave the club to fulfill his dream — widely understood to be a move to Barcelona. Atlético have dug in and do not want to sell the 26-year-old, who finished the 2025/26 season with 20 goals and nine assists across all competitions. Arsenal are also reportedly interested, but Álvarez's preference is Barcelona, who have been pursuing him all summer despite previously strained relations with Atlético. This is a new development from the previously reported smear-campaign dispute: now the player himself has broken his silence publicly.",
+        "headline": "Juli\u00e1n \u00c1lvarez Publicly States He Wants to Leave Atl\u00e9tico Madrid to 'Fulfil His Dream' \u2014 Barcelona Understood to Be Destination",
+        "summary": "In a significant escalation of the transfer saga, Atl\u00e9tico Madrid striker Juli\u00e1n \u00c1lvarez said after Argentina's 2-0 World Cup win over Austria on June 22 that he wants to leave the club to fulfill his dream \u2014 widely understood to be a move to Barcelona. Atl\u00e9tico have dug in and do not want to sell the 26-year-old, who finished the 2025/26 season with 20 goals and nine assists across all competitions. Arsenal are also reportedly interested, but \u00c1lvarez's preference is Barcelona, who have been pursuing him all summer despite previously strained relations with Atl\u00e9tico. This is a new development from the previously reported smear-campaign dispute: now the player himself has broken his silence publicly.",
         "source_name": "Sky Sports",
         "source_url": "https://www.skysports.com/transfer/news/12691/13556913/julian-alvarez-atletico-madrid-striker-says-he-wants-to-leave-club-to-fulfil-his-dream",
         "is_social": false
       },
       {
         "topic_id": "financial-freedom",
-        "headline": "Tech Stocks Tumble Tuesday as Global Selloff Spreads — Nasdaq Down Over 800 Points",
+        "headline": "Tech Stocks Tumble Tuesday as Global Selloff Spreads \u2014 Nasdaq Down Over 800 Points",
         "summary": "A broad technology selloff accelerated on June 23, with Nasdaq 100 futures falling nearly 3% and South Korea's Kospi plunging roughly 10%, led by memory-chip giants Samsung and SK Hynix. In the U.S., chip stocks including Micron, Intel, and Qualcomm led premarket losses, while Alphabet shares continued sliding after two high-profile AI researchers departed for rivals (OpenAI and Anthropic). Market concerns center on the rising cost of AI infrastructure, potential Fed rate hikes later in 2026, and an Iran nuclear situation that remains uncertain. Defensive names and VTI's broad market exposure may cushion some of the blow, but investors in growth-heavy ETFs should expect continued volatility this week.",
         "source_name": "24/7 Wall St.",
         "source_url": "https://247wallst.com/investing/2026/06/23/stock-market-live-june-23-2026-sp-500-spy-futures-under-significant-pressure/",
@@ -1036,23 +1146,23 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Apple Facing Analyst Scrutiny as CEO Confirms iPhone Price Hikes to Offset Memory Costs",
-        "summary": "Apple (AAPL) shares are trading around $294–297, down roughly 6% from their 2026 high of $317.40, as CEO Tim Cook confirmed rising memory and storage chip costs are forcing product price increases across the lineup. KGI Securities downgraded the stock to Hold (price target $315), while Wedbush maintained Outperform with a $400 target, citing strong pricing power and supply-chain resilience. BofA argues Apple's AI strategy reset announced at WWDC is being 'underappreciated' by the market. Investors are also watching a reported Intel chip manufacturing partnership and a CEO succession expected in September 2026, both of which add near-term uncertainty.",
+        "summary": "Apple (AAPL) shares are trading around $294\u2013297, down roughly 6% from their 2026 high of $317.40, as CEO Tim Cook confirmed rising memory and storage chip costs are forcing product price increases across the lineup. KGI Securities downgraded the stock to Hold (price target $315), while Wedbush maintained Outperform with a $400 target, citing strong pricing power and supply-chain resilience. BofA argues Apple's AI strategy reset announced at WWDC is being 'underappreciated' by the market. Investors are also watching a reported Intel chip manufacturing partnership and a CEO succession expected in September 2026, both of which add near-term uncertainty.",
         "source_name": "CNBC",
         "source_url": "https://www.cnbc.com/quotes/AAPL",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Montclair Launches Car-Free Church Street Pilot — Monthly Pedestrian Weekends Through October",
-        "summary": "Montclair has kicked off a new pilot program closing Church Street to vehicles from 10 a.m. to 10 p.m. on select weekends through October, turning the restaurant- and shop-lined block into a pedestrian plaza. The first closure ran June 19–21; the next is July 17–19. Township officials plan to bring performances and activations to the space, and local advocates point to research showing pedestrian streets boost restaurant and retail sales. The car-free weekends are a great family outing option, with outdoor dining, shops, and the nearby Clairidge movie theater all accessible on foot.",
+        "headline": "Montclair Launches Car-Free Church Street Pilot \u2014 Monthly Pedestrian Weekends Through October",
+        "summary": "Montclair has kicked off a new pilot program closing Church Street to vehicles from 10 a.m. to 10 p.m. on select weekends through October, turning the restaurant- and shop-lined block into a pedestrian plaza. The first closure ran June 19\u201321; the next is July 17\u201319. Township officials plan to bring performances and activations to the space, and local advocates point to research showing pedestrian streets boost restaurant and retail sales. The car-free weekends are a great family outing option, with outdoor dining, shops, and the nearby Clairidge movie theater all accessible on foot.",
         "source_name": "Montclair Local",
         "source_url": "https://montclairlocal.news/2026/06/montclairs-church-street-pedestrianization-to-bring-car-free-weekends/",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Maplewoodstock Music + Arts Festival Returns July 11–12 with 22 Bands, Kid Zone, and Food Vendors",
-        "summary": "The beloved Maplewoodstock festival celebrates its 21st edition on July 11–12 at Maplewood's Memorial Park, featuring 22 live bands, over 60 art vendors, a beer garden, and a dedicated kid zone. Organizers expect more than 14,000 attendees at the free community event, which is run entirely by volunteers and benefits arts education in local schools. The two-day outdoor event is a short drive from Montclair and is family-friendly, making it an ideal summer outing for parents and kids alike.",
+        "headline": "Maplewoodstock Music + Arts Festival Returns July 11\u201312 with 22 Bands, Kid Zone, and Food Vendors",
+        "summary": "The beloved Maplewoodstock festival celebrates its 21st edition on July 11\u201312 at Maplewood's Memorial Park, featuring 22 live bands, over 60 art vendors, a beer garden, and a dedicated kid zone. Organizers expect more than 14,000 attendees at the free community event, which is run entirely by volunteers and benefits arts education in local schools. The two-day outdoor event is a short drive from Montclair and is family-friendly, making it an ideal summer outing for parents and kids alike.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/maplewoodstock-festival-memorial-park-maplewood-nj-2026/",
         "is_social": false
@@ -1066,15 +1176,15 @@
       {
         "topic_id": "bjj",
         "headline": "Gabrieli Pessanha Sets Women's Record with 12th World Title at IBJJF Mundials; Teen Brown Belt Earns Instant Black Belt Promotion",
-        "summary": "The 2026 IBJJF World Championship (May 28–31, Long Beach) produced two other standout stories beyond Diego Pato's record fifth title. Gabrieli Pessanha swept both the super-heavyweight and absolute women's divisions to become the most decorated female competitor in IBJJF Worlds history with 12 world titles. Meanwhile, teen prodigy Hazel Butcher-Salazar went six-for-six with all submissions in the women's brown belt divisions, winning double gold at heavyweight and absolute — and was immediately promoted to black belt on the podium afterward.",
+        "summary": "The 2026 IBJJF World Championship (May 28\u201331, Long Beach) produced two other standout stories beyond Diego Pato's record fifth title. Gabrieli Pessanha swept both the super-heavyweight and absolute women's divisions to become the most decorated female competitor in IBJJF Worlds history with 12 world titles. Meanwhile, teen prodigy Hazel Butcher-Salazar went six-for-six with all submissions in the women's brown belt divisions, winning double gold at heavyweight and absolute \u2014 and was immediately promoted to black belt on the podium afterward.",
         "source_name": "Jits Magazine",
         "source_url": "https://jitsmagazine.com/ibjjf-world-championship-2026-full-results-and-highlights/",
         "is_social": false
       },
       {
         "topic_id": "soccer",
-        "headline": "Atlético Publicly Blasts Barcelona Over Julián Álvarez 'Smear Campaign' as Player Reportedly Eyes Camp Nou Move",
-        "summary": "Atlético Madrid escalated their war of words with Barcelona over Julián Álvarez, publicly declaring the Argentine striker is 'not for sale' and accusing Barça of a 'relentless smear campaign' after months of transfer speculation. Atlético officials stated there had been 'no offer, no meeting, and no negotiation,' while absolving Álvarez of personal blame and praising his professionalism. Despite this, reports from Mundo Deportivo and ESPN indicate Álvarez has told both Arsenal and PSG that his priority is a move to Barcelona, with Atlético holding firm that any deal would require meeting his €500m release clause.",
+        "headline": "Atl\u00e9tico Publicly Blasts Barcelona Over Juli\u00e1n \u00c1lvarez 'Smear Campaign' as Player Reportedly Eyes Camp Nou Move",
+        "summary": "Atl\u00e9tico Madrid escalated their war of words with Barcelona over Juli\u00e1n \u00c1lvarez, publicly declaring the Argentine striker is 'not for sale' and accusing Bar\u00e7a of a 'relentless smear campaign' after months of transfer speculation. Atl\u00e9tico officials stated there had been 'no offer, no meeting, and no negotiation,' while absolving \u00c1lvarez of personal blame and praising his professionalism. Despite this, reports from Mundo Deportivo and ESPN indicate \u00c1lvarez has told both Arsenal and PSG that his priority is a move to Barcelona, with Atl\u00e9tico holding firm that any deal would require meeting his \u20ac500m release clause.",
         "source_name": "ESPN",
         "source_url": "https://www.espn.com/soccer/story/_/id/48927451/transfer-rumors-news-julian-alvarez-pushing-barcelona-move",
         "is_social": false
@@ -1082,7 +1192,7 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Markets Open Cautiously Monday as US-Iran Peace Roadmap Takes Shape and Fed Hawkishness Looms",
-        "summary": "US stock futures edged slightly higher Monday as Iran confirmed 'encouraging progress' in peace talks in Switzerland, with negotiators agreeing on a roadmap to a final deal within 60 days. Oil prices fell — Brent crude dropped ~1.7% toward $79/barrel — as hopes grew that the Strait of Hormuz would normalize. However, markets remained restrained heading into a key week: the Fed left rates unchanged last week but signaled a more hawkish stance, with nearly half of FOMC members now expecting at least one rate hike before year-end, and the PCE inflation report is due later this week.",
+        "summary": "US stock futures edged slightly higher Monday as Iran confirmed 'encouraging progress' in peace talks in Switzerland, with negotiators agreeing on a roadmap to a final deal within 60 days. Oil prices fell \u2014 Brent crude dropped ~1.7% toward $79/barrel \u2014 as hopes grew that the Strait of Hormuz would normalize. However, markets remained restrained heading into a key week: the Fed left rates unchanged last week but signaled a more hawkish stance, with nearly half of FOMC members now expecting at least one rate hike before year-end, and the PCE inflation report is due later this week.",
         "source_name": "Yahoo Finance",
         "source_url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html",
         "is_social": false
@@ -1090,14 +1200,14 @@
       {
         "topic_id": "financial-freedom",
         "headline": "Spotify Shares Up Sharply After Landmark AI Music Deal with UMG and Bullish Long-Term Targets; Multiple Buy Ratings",
-        "summary": "Spotify (SPOT) surged roughly 13–15% in late May after announcing a major AI licensing deal with Universal Music Group and unveiling its first investor day since 2022, where it set a long-term ambition of 1 billion users and $100 billion in revenue. The deal allows Spotify Premium subscribers to create AI-generated covers and remixes of songs by participating UMG artists via a paid add-on, with a revenue-share model for artists. As of mid-June, SPOT carries a Buy consensus from 22+ analysts (Morgan Stanley and Bernstein among recent reiterations), with a Wall Street average price target around $609–$681; next earnings are due July 28.",
+        "summary": "Spotify (SPOT) surged roughly 13\u201315% in late May after announcing a major AI licensing deal with Universal Music Group and unveiling its first investor day since 2022, where it set a long-term ambition of 1 billion users and $100 billion in revenue. The deal allows Spotify Premium subscribers to create AI-generated covers and remixes of songs by participating UMG artists via a paid add-on, with a revenue-share model for artists. As of mid-June, SPOT carries a Buy consensus from 22+ analysts (Morgan Stanley and Bernstein among recent reiterations), with a Wall Street average price target around $609\u2013$681; next earnings are due July 28.",
         "source_name": "TechCrunch",
         "source_url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
         "is_social": false
       },
       {
         "topic_id": "nj-local",
-        "headline": "Montclair Film's Free 'Movie Night Under the Stars' Is Underway for Summer 2026 — Cars, Best in Show, and More in Local Parks",
+        "headline": "Montclair Film's Free 'Movie Night Under the Stars' Is Underway for Summer 2026 \u2014 Cars, Best in Show, and More in Local Parks",
         "summary": "Montclair Film's beloved annual outdoor cinema series kicked off June 14 and runs through August, with all screenings completely free to the public. The 2026 lineup opened with Disney/Pixar's Cars (celebrating its 20th anniversary) at Nishuane Park, and continues with Best in Show (dogs welcome!) and a third animal-themed film later in the season. Families are encouraged to bring blankets and lawn chairs; registration is not required but recommended at montclairfilm.org to receive weather alerts and schedule updates.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/montclair-film-outdoor-movies-2026/",
@@ -1106,7 +1216,7 @@
       {
         "topic_id": "nj-local",
         "headline": "39 Days of Free Soccer Watch Parties at Lackawanna Station and World Cup Fans Swarming NJ Delis",
-        "summary": "Montclair's Lackawanna Station is hosting 'Summer of Soccer' — 39 consecutive days of free World Cup watch parties and tournament play running through the summer, making it a great option for soccer-loving families. Separately, NJ officials are working on transportation fixes after World Cup travel to MetLife Stadium exposed transit strain, with NJ Transit's $98 match-day fare continuing to draw criticism. On a lighter note, World Cup tourists have become obsessed with New Jersey delis while visiting the region for the tournament.",
+        "summary": "Montclair's Lackawanna Station is hosting 'Summer of Soccer' \u2014 39 consecutive days of free World Cup watch parties and tournament play running through the summer, making it a great option for soccer-loving families. Separately, NJ officials are working on transportation fixes after World Cup travel to MetLife Stadium exposed transit strain, with NJ Transit's $98 match-day fare continuing to draw criticism. On a lighter note, World Cup tourists have become obsessed with New Jersey delis while visiting the region for the tournament.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/montclair-essex-county-news-june-21st-2026/",
         "is_social": false
