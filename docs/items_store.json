@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-04",
+    "guid": "briefing-2026-07-04",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Full 128-Competitor Roster Confirmed: Three Defending Champs Out, Ruotolo Twins and All UFC BJJ Champions Also Missing",
+        "summary": "With all 128 slots confirmed for September's ADCC Worlds in Krakow, the bracket shows historic star-power gaps — defending 66kg champion Diogo Reis joins Mica Galvao (77kg) and Giancarlo Bodoni (88kg) among withdrawals, while neither Kade nor Tye Ruotolo, Nick Rodriguez, nor any current UFC BJJ titleholder will compete.",
+        "source_name": "MMA Mania",
+        "source_url": "https://www.mmamania.com/bjj-news/454741/adcc-2026-fight-card-3-adcc-champs-out-no-ufc-bjj-champs-but-wanted-rape-suspect-still-in",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Croatia Open Qualifier Live Today in Zadar; Miami-Dade Open Follows July 11",
+        "summary": "The ADCC global qualifier roadshow reaches the Croatia Open today at Kresimir Cosic Sports Hall in Zadar, with athletes competing for spots at September's Krakow World Championship; the Miami-Dade Open on July 11 is the next stop on the buildup schedule.",
+        "source_name": "ADCC Combat",
+        "source_url": "https://adcombat.com/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Kaynan Duarte vs. Yuri Simoes Superfight Gains New Weight as ADCC 2026 Field Thins",
+        "summary": "With three defending champions and the Ruotolo twins absent from Krakow's 128-person bracket, the Kaynan Duarte vs. Yuri Simoes superfight for Gordon Ryan's vacated title has become the clearest marquee contest — and the match most likely to define who rules the super-heavyweight division for the next era.",
+        "source_name": "ADCC Combat",
+        "source_url": "https://adcombat.com/adcc-events/adcc-super-fight/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Argentina Survive World Cup Scare, Beat Cape Verde 3–2 AET: Messi Scores as Islanders Equalize Twice",
+        "summary": "Argentina survived their most dramatic World Cup test in years on July 3, winning 3-2 in extra time after Cape Verde equalized twice; Messi and Lautaro Martinez scored for Argentina, but Lopes Cabral's stunning long-range curler deep in extra time was only canceled by a last-gasp Diney Borges own goal.",
+        "source_name": "Al Jazeera",
+        "source_url": "https://www.aljazeera.com/sports/2026/7/4/messi-scores-again-but-argentina-given-world-cup-upset-fright-by-cape-verde",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup R16 Double-Header Today: Canada vs. Morocco in Houston (1pm ET), France vs. Paraguay in Philadelphia (5pm ET)",
+        "summary": "The 2026 World Cup Round of 16 opens with two July 4th games: Canada faces Morocco at NRG Stadium in Houston, and France — led by Mbappé's record six knockout-stage goals — takes on tournament upset-specialists Paraguay at Lincoln Financial Field in Philadelphia.",
+        "source_name": "Al Jazeera",
+        "source_url": "https://www.aljazeera.com/sports/2026/7/3/fifa-world-cup-2026-round-of-16-bracket-friday-schedule-predictions",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Transfer Roundup: Lee Kang-in Official Announcement Imminent; Álvarez–Barcelona Deadlock Continues",
+        "summary": "Atlético Madrid's official announcement of Lee Kang-in's signing from PSG (≈€30M, 5-year deal) is expected within days, making him the club's first Asian player; separately, Barcelona president Laporta confirmed the €100M bid for Julián Álvarez remains on the table while Atlético holds firm at €150M.",
+        "source_name": "Football Transfers",
+        "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/07/julian-alvarez-barcelona-on-alert-as-atletico-madrid-update-arrives",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Closes at $308.63, Best Session of 2026 (+4.84%): Foldable iPhone Ultra Plans and Google Cloud AI Deal Drive Pre-Holiday Surge",
+        "summary": "Apple shares surged 4.84% on July 3 to close at $308.63 — the stock’s best single-day gain of 2026 — after reports Apple targets 10 million units of a foldable ‘iPhone Ultra’ (~$2,500) and disclosed a new Google Cloud AI partnership; Q3 earnings on July 30 are the next major test.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/02/apple-foldable-iphone-production-memory-shortage-china-chipmakers-cxmt-ymtc.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple in Talks to Source Chips From Two Pentagon-Blacklisted Chinese Makers (CXMT and YMTC) to Ease Global Memory Crunch",
+        "summary": "Apple is negotiating supply agreements with both CXMT and YMTC — two Chinese chipmakers on the Pentagon’s entity list — to ease the AI-driven memory shortage that has forced price hikes across its product line; the strategy requires U.S. government clearance and carries significant bipartisan political risk.",
+        "source_name": "Bloomberg",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ 30-Year Mortgage Rate Edges Up to 6.36% as of July 3; Markets Closed for Independence Day with Dow at All-Time Record",
+        "summary": "New Jersey’s 30-year fixed mortgage rate ticked up to 6.36% (refinance 6.88%) as of July 3, reversing last week’s dip to 6.25% and translating to ~$2,995/month on a median NJ home with 20% down; U.S. equity markets are closed today for the holiday with the Dow at an all-time record and VTI near multi-month highs.",
+        "source_name": "NerdWallet",
+        "source_url": "https://www.nerdwallet.com/mortgages/mortgage-rates/new-jersey",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Livingston’s 89th Annual July 4 Celebration Features NJ’s Largest Auto Show (9am) and Fireworks at 9:15pm",
+        "summary": "Livingston’s 89th Independence Day celebration opens with what organizers call New Jersey’s largest annual auto show at 9am, followed by food, music, and family activities, capped by fireworks at 9:15pm — about 12 miles from Montclair and a great day-trip option for motorsport and car enthusiasts.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/4th-of-july-celebrations-and-festivals/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Elizabeth’s July 4 Celebration Combines America’s 250th Birthday Events With World Cup 2026 Fan Zone Watch Party",
+        "summary": "Elizabeth’s all-day July 4 celebration at Veterans Memorial Waterfront Park combines America’s 250th anniversary programming with a 2026 World Cup Fan Zone watch party — live entertainment, food vendors, kids’ activities, and fireworks at dusk — one of NJ’s most unique holiday options this year.",
+        "source_name": "Elizabeth NJ 250",
+        "source_url": "https://goelizabethnj250.com/event/elizabeth-4th-of-july-celebration-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "America’s 250th: Trenton Opens Old Barracks Museum With Revolutionary War Reenactments; Princeton Morven Museum Hosts Free Festival",
+        "summary": "Trenton’s Old Barracks Museum reopens today with Revolutionary War reenactments, a multicultural parade, and walking tours marking America’s 250th birthday; Princeton’s Morven Museum hosts a free outdoor festival with music and artmaking — both excellent day-trip options for curious kids, about 45 minutes from Montclair.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/4th-of-july-celebrations-and-festivals/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "guid": "briefing-2026-07-03",
     "stories": [
