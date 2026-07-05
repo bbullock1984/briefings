@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-05",
+    "guid": "briefing-2026-07-05",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ACBJJ 21 Live Today in Moscow: Khasan Magomedsharipov Headlines vs. Raul Rosas Jr. in Short-Notice Main Event",
+        "summary": "Zabit Magomedsharipov's younger brother Khasan takes center stage today at ACBJJ 21 in Moscow, facing UFC bantamweight contender Raul Rosas Jr. in the main event after Zabit's late injury withdrawal; Khasan enters on one week's notice following a first-round submission win at PFL San Diego, making this one of summer's most compelling short-notice grappling matchups.",
+        "source_name": "MiddleEasy",
+        "source_url": "https://middleeasy.com/mma-news/zabit-magomedsharipov-raul-rosas-jr-acbjj-21",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Miami-Dade Open July 11: Last Major North American Qualifier Six Days Away",
+        "summary": "The ADCC Miami-Dade Open at the Miami-Dade County Fair & Exposition on July 11 is one of the final qualifying events before September's ADCC World Championship in Krakow; weigh-ins run July 10 from 4–7pm with competition starting at 8am on the 11th, where winners earn coveted berths at the sport's most prestigious championship.",
+        "source_name": "ADCC Combat",
+        "source_url": "https://adcombat.com/adcc-events/adcc-usa-miami-open-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Morocco 3-0 Canada, France 1-0 Paraguay: World Cup R16 Day 1 Delivers African Dominance and Mbappé Ice",
+        "summary": "Morocco demolished co-host Canada 3-0 on July 4 with Azzedine Ounahi netting a brace; France edged Paraguay 1-0 via Kylian Mbappé's converted penalty, sending Les Bleus to the quarterfinals for a record fourth consecutive World Cup.",
+        "source_name": "CNN",
+        "source_url": "https://www.cnn.com/2026/07/04/sport/round-of-16-canada-morocco-paraguay-france",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup R16 Day 2: Brazil vs. Norway at MetLife (4pm ET), Mexico vs. England at Azteca (8pm ET)",
+        "summary": "The Round of 16 continues today with two marquee clashes: Brazil meet Norway at MetLife Stadium in East Rutherford at 4pm ET, and Mexico host England at the historic Estadio Azteca in Mexico City at 8pm ET — the first World Cup match at the Azteca since 1986.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/760504/norway-brazil",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Simeone Breaks Silence on Álvarez: Future 'Will Be Resolved This Summer' as World Cup Winds Down",
+        "summary": "Atlético head coach Diego Simeone addressed the Julián Álvarez situation publicly for the first time, saying the striker's future 'will be resolved this summer' while keeping him in current plans — the clearest signal yet from the dugout that a departure is probable once the World Cup concludes.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49256845/diego-simeone-julian-alvarez-central-atletico-madrid-plans-barcelona-interest",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Activates Korean Market Push as Lee Kang-in Signing Awaits Final Stamp",
+        "summary": "With Lee Kang-in's move from PSG to Atlético all but sealed at ~€30M on a deal through 2031, the club is already building marketing partnerships targeting South Korea's football fanbase — setting up a lucrative commercial audience ahead of his debut as the first-ever Asian player in club history.",
+        "source_name": "The Korea Herald",
+        "source_url": "https://www.koreaherald.com/article/10794780",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Markets Reopen Monday With Dow at Record; July 6 Week: ISM Services, Fed Minutes, Chip Sector Recovery in Focus",
+        "summary": "U.S. markets resume Monday July 6 after the holiday close with the Dow at an all-time record and VTI near multi-month highs; key watchpoints this week include ISM Services (Monday), Fed meeting minutes (Wednesday), and whether the semiconductor selloff — Micron –7%, SanDisk –14% last week — stabilizes heading into Q3.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify (SPOT): Bernstein Reaffirms Buy; 778M MAU Target and July 29 Earnings Are the Next Inflection Point",
+        "summary": "Bernstein maintained its Buy rating on Spotify (SPOT) on July 2, citing Q2 guidance of 778M monthly active users and 33%+ gross margins; the July 29 earnings call — the quarter after a 17% EPS beat in Q1 — is the pivotal test for whether the stock's recent recovery can accelerate into H2.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-resilient-beyond-143147142.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "VTI Posts 22.75% One-Year Total Return Through Holiday Close; Index Investors Enter Q3 on Solid Ground",
+        "summary": "Vanguard Total Stock Market ETF (VTI) closed the Independence Day holiday period with a 22.75% one-year total return including dividends, holding 3,449 stocks with $657.9B in total assets; the fund enters Q3 benefiting from the Dow's record highs and broad market breadth even as tech-sector volatility picked up late in Q2.",
+        "source_name": "StockAnalysis",
+        "source_url": "https://stockanalysis.com/etf/vti/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "World Cup R16 at MetLife Today: Brazil vs. Norway at 4pm ET — Holiday Weekend Soccer 12 Miles from Montclair",
+        "summary": "The World Cup Round of 16 brings Brazil vs. Norway to MetLife Stadium in East Rutherford at 4pm ET today — just 12 miles from Montclair and accessible via NJ Transit — a natural last-minute family outing for soccer fans before the tournament's big games shift westward.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/760504/norway-brazil",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "State Theatre NJ Free Summer Movies Begin Tuesday July 7 in New Brunswick — Weekly Tuesdays Through July 28",
+        "summary": "State Theatre New Jersey in New Brunswick launches its free Summer Movies Series this Tuesday July 7, with morning and evening screenings on a 46-foot screen; the series runs July 7, 14, 21, and 28 — about 12 miles from Montclair and a great free school-break option for families with kids.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/event-calendar/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Branchburg's America 250 Celebration Today at White Oak Park: Rock Wall, Ninja Course, Live Music, Fireworks Through 9pm",
+        "summary": "Branchburg wraps its Semiquincentennial celebration today July 5 at White Oak Park (12pm–9pm) with live music, food trucks, and a full kids zone including a rock wall, bungee trampoline, ninja warrior obstacle course, and pony rides — a great final 4th-of-July-weekend outing about 35 miles from Montclair.",
+        "source_name": "NJ Is Not Boring",
+        "source_url": "https://newjerseyisntboring.com/njibs-guide-to-new-jersey-free-events-july-2026/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-04",
     "guid": "briefing-2026-07-04",
     "stories": [
