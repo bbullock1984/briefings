@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-06",
+    "guid": "briefing-2026-07-06",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Rosas Jr. Submits Khasan at ACBJJ 21 via RNC; Zabit Reignites Rivalry With Ringside Face-Off",
+        "summary": "Raul Rosas Jr. captured the ACBJJ 21 All Stars Championship in Moscow on July 5, finishing short-notice replacement Khasan Magomedsharipov with a rear naked choke; after watching his brother lose, Zabit Magomedsharipov appeared ringside for a face-off with Rosas Jr., strongly signaling the originally planned matchup is being rebooked.",
+        "source_name": "Bloody Elbow",
+        "source_url": "https://bloodyelbow.com/2026/07/05/zabit-magomedsharipov-reignites-raul-rosas-jr-match-with-face-off-after-ufc-star-beats-his-brother/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Miami-Dade Open This Saturday July 11 — Registration Closes Thursday, 9 Points for 1st Place",
+        "summary": "The last major North American ADCC qualifier before September's Krakow World Championship is five days away at the Miami-Dade County Fair & Exposition; registration closes Thursday July 9 ($150), and first-place finishers earn 9 ADCC world ranking points — crucial currency for athletes still chasing invitations to Krakow.",
+        "source_name": "ADCC Combat",
+        "source_url": "https://adcombat.com/adcc-events/adcc-usa-miami-open-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Jorge Masvidal Booked for Submission Grappling Match vs. UFC's Shara Magomedov",
+        "summary": "Former UFC BMF champion Jorge Masvidal is scheduled to compete in a submission grappling match against rising UFC middleweight Shara 'Bullet' Magomedov, the latest high-profile MMA crossover adding marquee appeal to the fast-growing professional no-gi grappling circuit.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/jorge-masvidal-scheduled-for-submission-grappling-match-vs-shara-magomedov/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Norway Shocks Brazil 2-0 at MetLife, England Beats Mexico 3-2 at Azteca — R16 Day 2 Results",
+        "summary": "Alexander Sørloth and Erling Haaland powered Norway to a stunning 2-0 elimination of Brazil at MetLife Stadium — knocking out the tournament favorite — while England survived a 3-2 thriller against Mexico at the Azteca; Atlético striker Sørloth is now a World Cup quarterfinal participant.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Today's World Cup R16: Portugal vs. Spain at AT&T Stadium Dallas (3pm ET); USA vs. Belgium in Seattle (8pm ET)",
+        "summary": "Two marquee Round of 16 clashes headline Monday's slate: Ronaldo's Portugal faces Atlético's Alex Baena and Spain in an all-Iberian derby at AT&T Stadium in Dallas (3pm ET, FS1), followed by host USA against Belgium at Lumen Field in Seattle (8pm ET, Fox).",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/760506/spain-portugal",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Sørloth's Norway Upsets Brazil, Boosting His Exit Value; Lee Kang-in Atlético Deal Still Awaiting Official Announcement",
+        "summary": "Alexander Sørloth's starring World Cup run — culminating in Norway's 2-0 upset of Brazil — is expected to raise his price in exit talks with Juventus (~€30-35M); separately, Lee Kang-in's agreed move from PSG to Atlético (~€30M, 5-year deal) was described as 'on the verge' by French Football Weekly on July 5, with the official announcement now overdue.",
+        "source_name": "French Football Weekly",
+        "source_url": "https://frenchfootballweekly.com/2026/07/05/psg-kang-in-lee-on-the-verge-of-joining-atletico-de-madrid/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Near $308 With Wedbush's $400 Target Intact; Foldable iPhone Ultra Is the H2 Bull Thesis Into July 30 Earnings",
+        "summary": "Apple shares are holding near $308 — up roughly 7% in the holiday week — as Wedbush maintains its $400 price target built around a 10-million-unit production ramp of the foldable 'iPhone Ultra' (~$2,500) and the new Google Cloud AI partnership; fiscal Q3 earnings on July 30 are the next major catalyst.",
+        "source_name": "MarketBeat",
+        "source_url": "https://www.marketbeat.com/stocks/NASDAQ/AAPL/forecast/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "PSE&G Electric Bills Down 1.8% Since June 1; NJ Homeowners Can Save an Additional 11% by Switching to a Competitive Supplier",
+        "summary": "Average PSE&G residential electricity bills fell $3.23/month (about 1.8%) starting June 1 with summer credits also in effect; NJ homeowners can cut supply costs a further 11% by switching to a competitive third-party provider at roughly 17.6 cents/kWh versus PSE&G's 19.9 cents — a meaningful saving ahead of peak summer usage.",
+        "source_name": "NJ1015",
+        "source_url": "https://nj1015.com/new-jersey-electricity-bills-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify SPOT Down 33% YTD Entering Q3 — Analysts See July 29 Earnings as Reset Catalyst",
+        "summary": "Spotify shares enter Q3 2026 down roughly 33% year-to-date, but multiple analysts — including Bernstein (Buy, reaffirmed July 3) — view the July 29 earnings report as a potential sentiment reset: Q2 guidance targets 778M monthly active users, 33%+ gross margins, and growing Audiobooks+ revenue, all of which could drive a sharp re-rating if met.",
+        "source_name": "MarketBeat",
+        "source_url": "https://www.marketbeat.com/stocks/NYSE/SPOT/earnings/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Bastille Day Weekend July 11-12: French Cinema at The Clairidge, Garden Party at Van Vleck House",
+        "summary": "L'Alliance French Institute is hosting a Bastille Day Weekend in Montclair: Martin Provost's film 'Bonnard: Pierre et Marthe' screens at The Clairidge Saturday July 11 at 7pm; Sunday July 12 brings a town-wide French Shopping Day, outdoor story time at Watchung Booksellers, and a garden party with food and live music at Van Vleck House &amp; Gardens (5-9pm).",
+        "source_name": "The Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/things-to-do-events-montclair-north-jersey-july-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Maplewoodstock Music + Arts Festival This Weekend July 11-12 — 22 Bands, 60+ Vendors, Free for All Ages",
+        "summary": "Maplewoodstock's 21st edition arrives at Maplewood's Memorial Park (580 Valley Street) Saturday-Sunday July 11-12, noon to 9:30pm, headlined by Lettuce, Anders Osborne, and Slap Dragon; the free, all-ages event features 60+ art vendors, a Kid Zone, beer garden, and food trucks — a 5-minute drive from Montclair and one of North Jersey's best summer traditions.",
+        "source_name": "The Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/maplewoodstock-festival-memorial-park-maplewood-nj-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Flea Returns This Weekend — Saturday &amp; Sunday July 11-12 at Lackawanna Plaza, 11am-5pm",
+        "summary": "The Montclair Flea is back at 1 Lackawanna Plaza on Saturday and Sunday July 11-12 (11am-5pm), with curated art, vintage goods, and local food vendors in downtown Montclair — a rain-or-shine family outing that pairs naturally with the Summer of Soccer watch parties still running next door at Lackawanna Station.",
+        "source_name": "Lackawanna Station",
+        "source_url": "https://www.lackawanna.com/events",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-05",
     "guid": "briefing-2026-07-05",
     "stories": [
