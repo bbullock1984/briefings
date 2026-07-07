@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-07-07",
+    "guid": "briefing-2026-07-07",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Mikey Musumeci Accepts Bryce Mitchell's Grappling Challenge After 'Gay' Comment",
+        "summary": "Bryce Mitchell publicly challenged Mikey Musumeci while saying he refuses to watch BJJ because it's \"gay\"; Musumeci fired back with a full acceptance and jokingly ruled out leg locks and guard pulling, and Mitchell confirmed the match is on — though no date or promotion has been announced.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/mikey-musumeci-accepts-bryce-mitchells-grappling-challenge-im-not-worried/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Quietly Removes Izaak Michell From Krakow Roster Amid Active Arrest Warrants",
+        "summary": "ADCC has removed Izaak Michell from its official Krakow competitor list after months of controversy — including Craig Jones withdrawing his $48k equal-pay pledge in protest — following reports that Michell faces two active Texas arrest warrants related to sexual assault allegations.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/adcc-2026-removes-izaak-michell-from-competitor-list/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 in Krakow Selling Just 4 Tickets per Day at 15,000-Seat Venue",
+        "summary": "With Gordon Ryan absent and multiple high-profile stars out, ticket sales for September's ADCC World Championship at the 15,030-seat Tauron Arena Kraków are averaging only ~4 per day; analysts cite weak main-event appeal (Simoes vs. Duarte superfight), steep pricing relative to Polish wages, and the Michell controversy as compounding factors.",
+        "source_name": "BJJ World",
+        "source_url": "https://bjj-world.com/adcc-2026-crisis-ticket-sales-crawl/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Spain 1-0 Portugal: Merino Header Ends Ronaldo's World Cup in Dallas",
+        "summary": "Mikel Merino came off the bench to head in a stoppage-time winner at AT&T Stadium, eliminating Portugal and likely ending Cristiano Ronaldo's World Cup career at age 41; Spain advances to the quarterfinals to face Belgium on July 10 in Los Angeles.",
+        "source_name": "Al Jazeera",
+        "source_url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Belgium 4-1 USA: De Ketelaere Brace Ends Host Nation's World Cup Dream in Seattle",
+        "summary": "Charles De Ketelaere scored twice and set up another as Belgium dominated the USMNT 4-1, with Romelu Lukaku adding a stoppage-time fourth; Belgium meets Spain in the quarterfinals on July 10 in Los Angeles.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/soccer/live/usas-world-cup-dream-ends-in-4-1-belgium-rout-after-embarrassing-defensive-mistakes-212025916.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup QF Bracket Confirmed: France-Morocco, Spain-Belgium, Norway-England Headline",
+        "summary": "The quarterfinal schedule is set: France vs. Morocco (July 9, Boston), Spain vs. Belgium (July 10, Los Angeles), and Norway vs. England (July 11, Miami); Atlético striker Alexander Sørloth and Norway are in the final eight.",
+        "source_name": "Al Jazeera",
+        "source_url": "https://www.aljazeera.com/sports/2026/7/6/which-teams-are-in-the-world-cup-quarterfinals-and-whats-the-schedule",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Romano Issues 'Here We Go' on Lee Kang-in to Atlético Madrid — Official Announcement Imminent",
+        "summary": "Transfer insider Fabrizio Romano confirmed all parties agreed on a €35m plus €5m add-ons deal with a five-year contract, with Lee turning down a Middle East offer to join Atlético; the official club announcement is the only remaining step.",
+        "source_name": "Seoul Economic Daily",
+        "source_url": "https://en.sedaily.com/sports/2026/07/07/here-we-go-lee-kang-ins-atletico-madrid-move-appears",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Dow Hits 53,000 for the First Time; Foxconn Beat Sparks AI Optimism, VTI Reaches ~$372",
+        "summary": "U.S. equities opened Q3 strong Monday with the Dow closing above 53,000 for the first time, the S&P 500 up 0.7%, and the Nasdaq up 1.1%, driven by Foxconn's stronger-than-expected quarterly sales; VTI advanced to ~$372, near its 52-week high of $374.70.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple and Broadcom Extend Custom Chip Partnership Through 2031; AAPL Climbs to ~$313",
+        "summary": "Apple and Broadcom extended their chip supply deal covering custom ASICs, cellular modem components, and Wi-Fi/Bluetooth silicon across multiple iPhone generations; AAPL rose ~1% to ~$313 and Broadcom jumped over 3%, removing near-term supply uncertainty heading into July 30 Q3 earnings.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "BofA Names Spotify a Top Q3 Pick With $685 Price Target — 41% Upside Implied",
+        "summary": "Bank of America analyst Jessica Reif Ehrlich issued a Buy call on Spotify with a $685 price target, citing a compelling product roadmap and new subscription pricing tiers — implying ~41% upside — landing three weeks ahead of the July 29 earnings report.",
+        "source_name": "CNBC",
+        "source_url": "https://stocktwits.com/news-articles/markets/equity/spot-stock-is-down-16-in-2026-bof-a-names-spotify-among-top-picks-for-q3/cZm15dSR7kU",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ 30-Year Mortgage Rate at 6.03% — Nearly 60 Basis Points Below the National Average",
+        "summary": "New Jersey's 30-year fixed purchase rate stands at 6.03% versus the national average of 6.61% as of July 6, with the 15-year fixed at 5.38%; NJ homeowners who financed near the 2023 peak of ~8% have a real refinance window, though those with sub-4% pandemic-era mortgages should stay put.",
+        "source_name": "Bankrate",
+        "source_url": "https://www.bankrate.com/mortgages/mortgage-rates/new-jersey/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "State Theatre NJ Free Summer Movies Kicks Off Today With 'A Minecraft Movie' — Two Showings",
+        "summary": "The State Theatre's free Tuesday summer series begins today (July 7) in New Brunswick with A Minecraft Movie at 10:30 AM and 6:30 PM; the full July lineup continues with Lilo & Stitch (July 14), Zootopia 2 (July 21), and How to Train Your Dragon (July 28) — all free, with evening shows featuring movie-themed arts and crafts at 5:30 PM.",
+        "source_name": "BroadwayWorld NJ",
+        "source_url": "https://www.broadwayworld.com/new-jersey/article/State-Theatre-New-Jersey-to-Launch-Free-Summer-Movie-Series-With-A-MINECRAFT-MOVIE-and-More-20260617",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Vintage Race Cars at NJMP This Weekend — VRG Glasstown Speedfest July 10-12 in Millville",
+        "summary": "The Vintage Racer Group debuts at NJ Motorsports Park with a three-day event on the Lightning Circuit in Millville (July 10-12), featuring classic sports racers in nearly 3 hours of track time per day — a rare chance to watch authentic vintage road racing about 90 minutes from Montclair.",
+        "source_name": "NJ Motorsports Park",
+        "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Iron Chef Morimoto Opens MM by Morimoto in Montclair July 31 — Reservations Open July 16",
+        "summary": "Iron Chef Masaharu Morimoto is opening MM by Morimoto at 193 Glenridge Ave, Montclair — a nearly 13,000-sq-ft, 200-seat Japanese steakhouse with an omakase bar, Japanese A5 Wagyu, tuna pizza, and premium fish flown from Japan; reservations on Resy open July 16, two weeks before the July 31 dinner launch.",
+        "source_name": "Jersey Digs",
+        "source_url": "https://jerseydigs.com/mm-by-morimoto-montclair/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "guid": "briefing-2026-07-06",
     "stories": [
