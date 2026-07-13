@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-07-13",
+    "guid": "briefing-2026-07-13",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Polaris 38: Szczecinski Wins Welterweight GP, Sarah Galvao Captures Bantamweight Title",
+        "summary": "At Polaris 38 on July 11, Mateusz Szczecinski won the welterweight grand prix with three straight wins and a $30,000 prize; Sarah Galvao submitted Zara Di Tofano with an arm-triangle choke to claim the Polaris bantamweight championship.",
+        "source_name": "Jits Magazine",
+        "source_url": "https://jitsmagazine.com/polaris-38-welterweight-grand-prix-full-results-and-highlights/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Kade Ruotolo Returns From Injury to Defend ONE Lightweight Title This Thursday; Crevar–Clymer Also on Card",
+        "summary": "After withdrawing injured in June, Kade Ruotolo is back to defend his ONE Lightweight Submission Grappling World Title at ONE: The Inner Circle on July 17 in Bangkok — with women's #1 P4P Helena Crevar vs. ADCC West Coast Trials winner Paige Ivette Clymer on the same card.",
+        "source_name": "MMA Sucka",
+        "source_url": "https://mmasucka.com/news/kade-ruotolo-set-for-title-defense-helena-crevar-returns-at-the-inner-circle/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Miami Open Concluded July 11 — Last Major North American Qualifier Before Krakow Worlds",
+        "summary": "The ADCC Miami-Dade Open wrapped Saturday July 11 at the Miami-Dade County Fair & Exposition, awarding 9 world ranking points to first-place finishers in the final major North American qualifier before September's ADCC World Championship in Krakow, Poland.",
+        "source_name": "ADCC Combat",
+        "source_url": "https://adcombat.com/adcc-events/adcc-usa-miami-open-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup SFs Kick Off Tomorrow: France vs. Spain (July 14, Dallas, 3pm ET) and England vs. Argentina (July 15, Atlanta)",
+        "summary": "The 2026 World Cup semifinals feature the first-ever bracket with FIFA's top-four ranked nations — France (1st) vs. Spain (3rd) at AT&T Stadium tomorrow at 3pm ET on Fox, and Argentina (2nd) vs. England (4th) Wednesday in Atlanta; winners meet at MetLife Stadium, NJ on July 19.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/soccer/article/world-cup-semifinals-bracket-full-schedule-matchups-and-path-to-the-final-164942403.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup Final at MetLife July 19: BTS, Shakira, Justin Bieber Halftime Show; Resale From $8K",
+        "summary": "The 2026 FIFA World Cup Final comes to MetLife Stadium in East Rutherford, NJ on July 19 at 3pm ET — 12 miles from Montclair — with a halftime show featuring BTS, Shakira, and Justin Bieber; secondary market resale starts at roughly $8,000–$9,775 for upper-deck seats.",
+        "source_name": "MetLife Stadium",
+        "source_url": "https://www.metlifestadium.com/events/detail/fifa-world-cup-2026-final",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Sørloth Exit From Atlético Expected After Norway's QF Loss to England — Juventus Deal Nears Completion",
+        "summary": "Alexander Sørloth's Norway fell 2-1 to England in the quarterfinals on July 11 (Jude Bellingham scored twice), ending his World Cup; the result clears the way for his Juventus transfer — Atlético and Juventus remain about €5M apart on a fee of ~€30–35M, with a deal expected imminently.",
+        "source_name": "Into the Calderon",
+        "source_url": "https://www.intothecalderon.com/atletico-madrid-transfer-news-rumors/26009/nico-swap-on-the-table-as-juventus-reach-sorloth-contract-agreement",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Álvarez Transfer on Hold Until Argentina's World Cup Run Ends; Barcelona Readying Post-Tournament Bid",
+        "summary": "With Julián Álvarez still competing with Argentina (SF vs. England, July 15), Barcelona has paused formal transfer negotiations until the World Cup concludes; the club is expected to submit a revised bid close to €130M after Argentina's exit or the final.",
+        "source_name": "Football Transfers",
+        "source_url": "https://www.footballtransfers.com/en/transfer-news/es-primera-division/2026/07/julian-alvarez-transfer-news-atletico-madrid-star-confirms-transfer-wish-barcelona-summer-2026",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Big Week: June CPI Tuesday, Fed Chair Warsh Inaugural Testimony, Q2 Earnings Season Kicks Off",
+        "summary": "Markets face a critical week with June CPI data Tuesday (consensus +3.8% YoY, down from May's 4.2%), new Fed Chair Kevin Warsh's inaugural congressional testimony Tuesday–Wednesday, and Q2 earnings season launching with JPMorgan, Goldman Sachs, Citigroup, BofA, Netflix, and TSMC all reporting.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Sues OpenAI for AI Hardware Trade Secret Theft — AAPL at $315, July 30 Earnings Next",
+        "summary": "Apple filed a landmark lawsuit against OpenAI on July 10, alleging former Apple execs at Jony Ive's io Products directed job candidates to bring Apple parts and download confidential specs; AAPL closed near $315 and the July 30 fiscal Q3 earnings call is the next major catalyst.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify SPOT Down 38% From ATH but Consensus Target $678 — July 29 Earnings the Reset Catalyst",
+        "summary": "Spotify shares are roughly 38% below their all-time high, but JPMorgan raised its target to $650 and Wells Fargo to $600, pushing the Street consensus to $678 (~40% upside from current levels); Q2 earnings are due July 29 before market open, with analysts watching MAU (target 778M) and gross margins (target 33%+).",
+        "source_name": "Benzinga",
+        "source_url": "https://www.benzinga.com/markets/equities/26/07/60269832/spotify-stock-is-down-38-from-all-time-high-but-one-analyst-sees-a-40-upside",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ ANCHOR Payments Start September 15 — Up to $1,500 for Homeowners; Mortgage Rate Rises to 6.49%",
+        "summary": "New Jersey's ANCHOR property tax relief program will begin distributing 2026 payments on September 15, with eligible homeowners receiving up to $1,500 ($1,750 with senior bonus); separately, NJ's 30-year fixed mortgage rate has risen to 6.49% this week ahead of Tuesday's critical June CPI report.",
+        "source_name": "Kiplinger",
+        "source_url": "https://www.kiplinger.com/taxes/new-jersey-anchor-program-payments",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "World Cup Final at MetLife July 19 — Six Days Away, NJ's Biggest Sports Event in 32 Years",
+        "summary": "The 2026 FIFA World Cup Final comes to MetLife Stadium in East Rutherford on July 19 at 3pm ET — 12 miles from Montclair — with BTS, Shakira, and Justin Bieber performing at halftime; the largest sporting event ever held in NJ and the last chance to see the World Cup in person this summer.",
+        "source_name": "MetLife Stadium",
+        "source_url": "https://www.metlifestadium.com/events/detail/fifa-world-cup-2026-final",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Adventure Aquarium 'Shark & Ray Summer Adventure' Opens Today — July 13 Through August 16 in Camden",
+        "summary": "Adventure Aquarium's Shark & Ray Summer Adventure kicks off today in Camden, featuring the Northeast's largest shark collection alongside daily marine biologist talks, hands-on ray encounters, sing-alongs, and dance parties — a family-friendly destination about 90 minutes from Montclair.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/event-calendar/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Jazz Soundcheck TOMORROW July 14: Michele Rosewoman & Quintessence at Lackawanna Station — Free",
+        "summary": "The Montclair Jazz Festival's free outdoor Soundcheck Series continues Monday July 14 with pianist Michele Rosewoman and her acclaimed Afro-Cuban ensemble Quintessence at Lackawanna Station; free and open to all, part of the summer series leading to the August 15 Downtown Jamboree.",
+        "source_name": "Montclair Jazz Festival",
+        "source_url": "https://www.montclairjazzfestival.org/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Car-Free Church Street Weekend Returns July 17–19 — Outdoor Dining, Shops, No Traffic",
+        "summary": "Montclair's second pedestrian weekend of 2026 closes Church Street to vehicles from 10am–10pm July 17–19, turning the restaurant-lined block into an outdoor plaza — a great family outing near The Clairidge theater, running concurrently with the World Cup Final weekend.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/06/montclairs-church-street-pedestrianization-to-bring-car-free-weekends/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "guid": "briefing-2026-07-08",
     "stories": [
