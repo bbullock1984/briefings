@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-15",
+    "guid": "briefing-2026-07-15",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ONE Inner Circle 22 Friday: Crevar vs. Clymer Is a Keenan-vs-Danaher Coaching Clash Nine Weeks Before ADCC",
+        "summary": "ONE Championship has published a full profile of debutant Paige Ivette Clymer ahead of Friday's submission grappling match against Helena Crevar, describing her as a relentless Legion AJJ pressure passer trained by Keenan Cornelius — setting up a philosophically fascinating Keenan vs. Danaher coaching matchup nine weeks before both women compete at ADCC Krakow.",
+        "source_name": "ONE Championship",
+        "source_url": "https://www.onefc.com/features/5-things-to-know-about-paige-ivette-clymer-ahead-of-her-one-debut-at-the-inner-circle-22/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Krakow Ticket Sales Near 4 Per Day; Duarte-Simoes Superfight Is Now the Event's Clear Top Billing",
+        "summary": "With three defending champions absent, the Ruotolo twins out, and Gordon Ryan retired, the 15,030-seat Tauron Arena Kraków remains far from sold out ahead of the September 12-13 World Championships; the Kaynan Duarte vs. Yuri Simoes openweight superfight for Gordon Ryan's vacated title and 14-year-old Joslyn Molina's -65kg appearance are the event's most compelling drawing cards.",
+        "source_name": "BJJ World",
+        "source_url": "https://bjj-world.com/adcc-2026-crisis-ticket-sales-crawl/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Jacob Rodriguez Returns to Competition July 24 After 17-Month Hiatus at Pit Submission Series",
+        "summary": "Former ADCC silver medalist Jacob Rodriguez will end a 17-month absence from professional grappling on July 24 at the Pit Submission Series — a notable return arriving just seven weeks before ADCC Krakow, where he is expected to compete.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/jacob-rodriguez-returns-to-competition-after-a-17-month-hiatus/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Spain 2-0 France: Yamal Draw Earns Penalty, Porro Finishes — La Roja in First World Cup Final Since 2010",
+        "summary": "Lamine Yamal drew a Digne foul for Oyarzabal's 22nd-minute penalty, then Pedro Porro added a 58th-minute strike as Spain dominated France 2-0 at AT&T Stadium on Monday — sending La Roja to the July 19 MetLife Final for the first time since 2010 and ending Mbappé's tournament without a showpiece.",
+        "source_name": "NBC News",
+        "source_url": "https://www.nbcnews.com/sports/soccer/live-blog/spain-france-world-cup-2026-july-14-live-updates-rcna587324",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "England vs. Argentina SF Today 3pm ET in Atlanta: Messi's 21 World Cup Goals vs. Kane — MetLife Spot on the Line",
+        "summary": "The second 2026 World Cup semifinal kicks off today (3pm ET on Fox) at Mercedes-Benz Stadium in Atlanta, with Lionel Messi — sole holder of the all-time World Cup goals record at 21 — leading Argentina against Harry Kane and England, who seek their first Final appearance since 1966 and would face Spain at MetLife on Saturday.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/760515/argentina-england",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético Transfer Desk: Arsenal Enters Álvarez Race — Formal Talks Expected This Week as Argentina's WC Run Ends Today",
+        "summary": "The Hard Tackle reports Atlético Madrid is open to selling Julián Álvarez to Arsenal, making the Premier League club the third major suitor alongside Barcelona and PSG; with Argentina's World Cup run ending today in the semifinal, formal transfer negotiations are expected to begin imminently with the fee target in the €130-150M range.",
+        "source_name": "The Hard Tackle",
+        "source_url": "https://thehardtackle.com/transfer-news/2026/07/14/atletico-madrid-ready-to-sell-julian-alvarez-to-arsenal/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "VTI Near $372 Midweek as Warsh Enters Day 2 of Fed Testimony; July 30 Apple Earnings Now Top Market Catalyst",
+        "summary": "VTI holds near $372 — close to its 52-week high of $374.70 — as new Fed Chair Kevin Warsh enters the second day of his inaugural congressional testimony; with June CPI digested and bank earnings mostly in, Apple's July 30 Q3 print is now the single most closely-watched near-term catalyst for both tech and the broader market.",
+        "source_name": "Tickeron",
+        "source_url": "https://tickeron.com/ticker/VTI/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL 15 Days to Earnings: Near ATH at $317, China iPhone Shipments Up 20-25%; Analysts Target $1.88 EPS",
+        "summary": "Apple shares trade near $317 — modestly below last week's all-time high of $323.45 — as the July 30 Q3 earnings date approaches; analysts project $1.88 EPS (up ~20% YoY) on ~$108.9B revenue, with fresh data showing iPhone China shipments up 20-25% YoY in Q2 adding a positive pre-earnings signal.",
+        "source_name": "MarketBeat",
+        "source_url": "https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ 30-Year Refinance Rate Ticks to 6.66% — Still a Viable Window for Homeowners Who Locked In Near 2023's 8% Peak",
+        "summary": "New Jersey's 30-year fixed refinance rate edged to 6.66% (15-year: 5.86%) as of July 14, slightly above the 6.13% reading earlier in the month; homeowners who financed near the 2023 peak of ~8% still have a meaningful rate-reduction window, though economists caution that a hawkish Fed September pivot could push rates higher.",
+        "source_name": "Bankrate",
+        "source_url": "https://www.bankrate.com/mortgages/mortgage-rates/new-jersey/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Act Now: MM by Morimoto Reservations Open TOMORROW on Resy — Montclair's Most Anticipated Restaurant Opening of 2026",
+        "summary": "Reservations for MM by Morimoto open on Resy tomorrow (July 16), two weeks before the July 31 dinner launch at 193 Glenridge Ave, Montclair — the 200-seat Japanese steakhouse from Iron Chef Masaharu Morimoto features A5 Wagyu, omakase bar, tuna pizza, and fish flown from Japan, and is expected to be one of North Jersey's most in-demand tables.",
+        "source_name": "Jersey Digs",
+        "source_url": "https://jerseydigs.com/mm-by-morimoto-montclair/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Final Weekend: Free Outdoor 'Much Ado About Nothing' at Van Vleck House & Gardens Through Saturday July 18",
+        "summary": "The Studio Players' outdoor Shakespeare production runs through this Saturday July 18 at Van Vleck House & Gardens in Montclair — free admission, no tickets required, and perfect for a summer evening family outing before World Cup Final weekend.",
+        "source_name": "Experience Montclair",
+        "source_url": "https://experiencemontclair.org/events-calendar",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Seussical Jr. at UCPAC July 17-19 — Family Musical This Weekend in Cranford, 20 Minutes From Montclair",
+        "summary": "CAU Community Players bring Seussical Jr. to the Union County Performing Arts Center in Cranford this Friday through Sunday (July 17-19) — the beloved Dr. Seuss mashup featuring Cat in the Hat and Horton, a great family theater option for kids 10-13 about 20 minutes from Montclair.",
+        "source_name": "NJ Stage",
+        "source_url": "https://www.newjerseystage.com/articles2/2026/07/14/events-this-week-in-new-jersey-from-july-14-20-2026/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "guid": "briefing-2026-07-14",
     "stories": [
