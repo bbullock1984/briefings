@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-16",
+    "guid": "briefing-2026-07-16",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ONE Inner Circle 22 TONIGHT: Helena Crevar Brings 20-Match Submission Streak vs. Paige Ivette Clymer in Bangkok",
+        "summary": "Women's world #1 pound-for-pound Helena Crevar (355-7, 315 submission wins, 20 consecutive finishes) takes on ADCC West Coast Trials winner Paige Ivette Clymer in a 10-minute openweight grappling match at Lumpinee Stadium tonight — her final competitive appearance before ADCC Krakow September 12-13.",
+        "source_name": "Combat Press",
+        "source_url": "https://combatpress.com/2026/07/helena-crevar-eyes-another-one-submission-win-at-the-inner-circle-22/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Musumeci-Mitchell Grappling Match Still Homeless at 8 Weeks — Both Committed, No Promotion Has Stepped Up",
+        "summary": "Nearly two months after Bryce Mitchell challenged Mikey Musumeci and the flyweight champion publicly accepted, no organization has agreed to host the crossover grappling bout; both fighters remain publicly committed, but the match is stuck in limbo with the ADCC Krakow prep calendar filling up around them.",
+        "source_name": "Low Kick MMA",
+        "source_url": "https://www.lowkickmma.com/mikey-musumeci-accept-bryce-mitchell-match-trolls-gay-comment/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 2 Confirmed July 31: Champion Andrew Tackett Defends Against Renato Canuto in Growing No-Gi Series",
+        "summary": "UFC's no-gi grappling series returns July 31 with champion Andrew Tackett putting his belt on the line against Brazilian submission grappling veteran Renato Canuto — the second event in a planned 14-card 2026 schedule that's rapidly positioning itself alongside ADCC and Polaris as a major destination for elite grapplers.",
+        "source_name": "MMA Mania",
+        "source_url": "https://www.mmamania.com/bjj-news/390491/stacked-ufc-bjj-3-fight-card-set-14-events-planned-for-2026-bjj-beat/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Argentina Stun England 2-1 With Late Comeback — Messi Assists Both Goals, Final is Spain vs. Argentina July 19 at MetLife",
+        "summary": "Lionel Messi assisted both goals as Argentina overturned a 1-0 deficit in the final seven minutes — Enzo Fernandez's 85th-minute strike and Lautaro Martinez's 92nd-minute header — to set up a World Cup Final against Spain at MetLife Stadium on July 19, in what may be Messi's last World Cup match.",
+        "source_name": "NPR",
+        "source_url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup Final Preview: Spain (1 Goal Conceded) vs. Argentina at MetLife July 19 — Yamal vs. Messi Is the Dream Subplot",
+        "summary": "Spain — who conceded just once in seven games — are slight favorites over defending champions Argentina in Sunday's 3pm ET final at MetLife Stadium; Lamine Yamal, who publicly dreamed of facing Messi in a final, gets his wish, while Messi's record 21 World Cup goals and Argentina's late-game resilience make the outcome far from certain.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/articles/where-world-cup-final-details-210655149.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Álvarez Wants Barcelona but Atlético Won't Sell to LaLiga Rivals — Arsenal Now the Most Realistic Destination",
+        "summary": "With Argentina's World Cup over, the Álvarez transfer crystallized: the striker prefers Barcelona but Atlético categorically refuses to sell to a domestic rival, making Arsenal — who are pushing to finalize a deal before pre-season begins next week — the most realistic path despite Álvarez's reluctance to move to England.",
+        "source_name": "Football Transfers",
+        "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/07/arsenal-transfer-news-julian-alvarez-barcelona-decision",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Hits 15th 2026 ATH at $327.50, Up 20% YTD — Analysts Say $340 Makes Apple Second $5T Company After Nvidia",
+        "summary": "Apple shares closed Wednesday at a new all-time high of $327.50 — up 20% year-to-date and the 15th record close of 2026 — with the market cap approaching $5 trillion; analysts say a move to ~$340 (less than 4% away) would make Apple only the second company after Nvidia to cross the $5T threshold, with July 30 Q3 earnings as the next major catalyst.",
+        "source_name": "The Motley Fool",
+        "source_url": "https://www.fool.com/investing/2026/07/15/prediction-apple-will-become-just-the-second-compa/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify Q2 Earnings Expected Monday July 20 Before Open — EPS $3.29 Target, SPOT Near $480",
+        "summary": "Multiple financial calendars point to Monday July 20 as Spotify's Q2 earnings date (before market open), with consensus expecting EPS of $3.29 — a 785% year-over-year jump — alongside updates on AI remixing features and monthly active user trajectory; SPOT trades near $480, recovering from year-to-date lows, with the analyst consensus target at $678 (~41% upside).",
+        "source_name": "Earnings Whispers",
+        "source_url": "https://www.earningswhispers.com/calendar/20260720/1",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "VTI Tracks Near 52-Week High $374.70 on AAPL-Led Rally; NJ 30-Year Refinance Holds at 6.65%",
+        "summary": "The Vanguard Total Stock Market ETF trades near its 52-week high of $374.70 as Apple's record week lifts the full market alongside continued broad breadth; New Jersey's 30-year fixed refinance rate holds at approximately 6.65% (15-year: 5.86%), keeping a refinance window open for the 52% of NJ homeowners who are equity-rich.",
+        "source_name": "Bankrate",
+        "source_url": "https://www.bankrate.com/mortgages/mortgage-rates/new-jersey/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "MM by Morimoto Reservations Now Live on Resy — Book Immediately for Iron Chef's Montclair Opening July 31",
+        "summary": "Reservations for MM by Morimoto at 193 Glenridge Ave opened today on Resy for the July 31 dinner launch — the 12,779-sq-ft Iron Chef Masaharu Morimoto concept features A5 Wagyu, an omakase bar, and premium fish flown from Japan; book now as Montclair's most anticipated 2026 restaurant opening is expected to fill within hours.",
+        "source_name": "The Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/mm-by-morimoto-montclair-nj/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "World Cup Final Sunday at MetLife 3pm ET — Free Watch Options: Newark Fan Village, American Dream, NJ Transit Guide",
+        "summary": "Sunday's World Cup Final (Spain vs. Argentina, 3pm ET on Fox) is 12 miles from Montclair at MetLife Stadium; for fans without tickets ($8,000+), free options include the Newark Fan Village (Ferry Street, Ironbound district, large screen, food hall) and the American Dream Fan Fest across from MetLife — NJ Transit runs enhanced Meadowlands trains from Penn Station from 11:30am every 15-20 minutes.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/2026-fifa-world-cup-in-new-jersey-fan-fests-watch-parties-and-family-events/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Shrek: The Musical Opens This Friday July 17 at Algonquin Arts Theatre in Manasquan — Runs Through July 26",
+        "summary": "The Algonquin Arts Theatre in Manasquan launches Shrek: The Musical this Friday July 17 through July 26 — the fast-paced, laugh-out-loud Broadway adaptation is a great family outing about 45 minutes from Montclair, pairing well with a Jersey Shore beach day or World Cup Final watch plans this weekend.",
+        "source_name": "WJRZ",
+        "source_url": "https://wjrz.com/2026/07/15/things-to-do-in-new-jersey-this-weekend-july-17-july-19/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "guid": "briefing-2026-07-15",
     "stories": [
