@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-17",
+    "guid": "briefing-2026-07-17",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Crevar Extends to 21 Straight Submissions at ONE Inner Circle 22, Stops Clymer in Bangkok",
+        "summary": "Helena Crevar picked up her 21st consecutive submission victory at ONE Inner Circle 22 in Bangkok, finishing Paige Ivette Clymer by inside heel hook at Lumpinee Stadium to complete her pre-ADCC season with eight weeks remaining before the September 12-13 World Championship in Krakow.",
+        "source_name": "ONE Championship",
+        "source_url": "https://www.onefc.com/news/the-inner-circle-22-and-one-friday-fights-162-results-and-highlights-for-every-match/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Krakow Roster Finalized: Gabi Garcia Returns for Women's Heavyweight, Andrey and Gamrot Complete 128-Person Field",
+        "summary": "The full 128-person ADCC 2026 World Championship bracket is confirmed for Krakow with notable late additions: submission grappling legend Gabi Garcia accepted a surprise women's heavyweight invite, while Fabricio Andrey (66kg) and UFC veteran Mateusz Gamrot (77kg) fill the final men's slots despite the headline absences of three defending champions.",
+        "source_name": "Yardbarker",
+        "source_url": "https://www.yardbarker.com/mma/articles/adcc_2026_fight_card_full_list_of_confirmed_competitors/s1_17349_44019756",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 2 Grows to Two-Title Event July 31: Fowler vs. Garmo Added for Inaugural Light Heavyweight Championship",
+        "summary": "The July 31 UFC BJJ 2 card expanded to a double-championship event with Mason Fowler facing David Garmo for the first-ever light heavyweight belt alongside the welterweight main event between champion Andrew Tackett and Renato Canuto; both title bouts stream live and free on UFC's YouTube channel at 8pm ET.",
+        "source_name": "UFC",
+        "source_url": "https://www.ufc.com/news/ufc-bjj-2-be-headlined-two-thrilling-title-matches",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup Final Preview: Spain's Record Defense vs. Messi's Last Stand — Sunday 3pm ET at MetLife",
+        "summary": "Spain enter Sunday's MetLife Final as marginal favorites with a tournament-record six clean sheets and just one goal conceded in seven games; Argentina counter with Lionel Messi widely expected to be playing his last World Cup match, and the resilience of a team that came from 1-0 down to beat England in added time — back-to-back champions Argentina seek what would be a feat unseen since Brazil in 1962.",
+        "source_name": "NBC Sports",
+        "source_url": "https://www.nbcsports.com/watch/soccer/world-cup/2026-world-cup-final-spain-vs-argentina-preview-predictions-storylines",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Arsenal's Final Push: Gunners in Direct Talks to Sign Álvarez Before July 20 Pre-Season as Clock Runs Out",
+        "summary": "Arsenal sporting director Berta is in direct talks to finalize a deal for Julián Álvarez before the Gunners' July 20 pre-season kicks off — Atlético Madrid have green-lit the sale to Arsenal but refuse to deal with Barcelona (a La Liga rival), giving Arsenal the path to a ~£100M signing even as Álvarez himself reportedly prefers a Barcelona move that Atlético won't allow.",
+        "source_name": "Goal.com",
+        "source_url": "https://www.goal.com/en/lists/arsenal-attempting-to-get-julian-alvarez-transfer-over-the-line-before-pre-season-atletico-madrid-refuse-to-do-business-with-barcelona/blt6108c4374c4814fd",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "La Roja Lands in Montclair: Team Spain Checks Into MC Hotel Ahead of Sunday's World Cup Final",
+        "summary": "After flying from Dallas overnight, Team Spain settled into the MC Hotel on Valley Road in Montclair — the World Cup's go-to base for MetLife-area teams — with fans lining up outside for glimpses of Lamine Yamal and teammates; the hotel's Allegory bar and Splendid Rooftop are closed to the public through Sunday July 19 for Spain's full venue buyout.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/07/montclair-welcomes-spain-to-mc-hotel-ahead-of-world-cup-final-photos/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Chip Selloff Hits Markets Thursday — Nasdaq Falls 1.47%, VTI Retreats as TSMC Capex Hike Rattles AI Investors",
+        "summary": "Stocks fell Thursday after TSMC raised its 2026 capex forecast to $60-64B (up from $52-56B), stoking concerns about AI spending sustainability; the Nasdaq dropped 1.47% to 25,882 and the S&P 500 fell 0.51% to 7,534, dragging VTI back from near its 52-week high of $374.70 — AAPL held relatively firm near $327 heading into the July 30 Q3 earnings report.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-slip-after-samsung-results-spark-chip-sell-off-223015294.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "SPOT Climbs to $493.95 as August 4 Earnings Approach — 785% EPS Growth Targeted, 37% Analyst Price Upside",
+        "summary": "Spotify shares rose 2.26% to $493.95 as the August 4 Q2 earnings date draws closer, with consensus expecting EPS of $3.29 — up 785% year-over-year — and revenue of $5.6B; the analyst price target consensus of $678 implies roughly 37% upside from current levels, with the call expected to update on AI remixing capabilities and monthly active user trajectory.",
+        "source_name": "TipRanks",
+        "source_url": "https://www.tipranks.com/stocks/spot/earnings",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "OBBBA's New $40K SALT Cap Now Effective for 2026: NJ Homeowners Who Itemize Can Deduct Full Property Tax for First Time Since 2017",
+        "summary": "The One Big Beautiful Budget Act (OBBBA) raised the federal SALT deduction cap from $10,000 to $40,000 (effective 2025-2029), letting most NJ homeowners who itemize fully deduct their state and local taxes on federal returns — potentially saving hundreds to thousands annually; the deduction phases out above $500K MAGI and reverts to $10,000 in 2030 without further Congressional action.",
+        "source_name": "Wiss",
+        "source_url": "https://wiss.com/salt-deduction-cap-40000-nj-ny-taxpayers/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "World Cup Final Watch in Montclair This Sunday: Varitage Brew Works Takes Party Outdoors With Giant LED Wall",
+        "summary": "For the best local World Cup Final watch party Sunday, Varitage Brew Works (58 Washington St., Bloomfield) is moving to the outdoor Washington Street Rock Lot with a double-sided LED wall; within Montclair itself, Egan &amp; Sons, Montclair Brewery, and Just Jake's are all screening the 3pm ET Spain vs. Argentina final — arrive early for seating.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/07/where-to-watch-the-world-cup-final-watch-parties-in-montclair-and-essex-county/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Rutgers 'Watch Party at The Yard' for World Cup Final July 19 — Free, Family-Friendly in New Brunswick",
+        "summary": "Rutgers University is hosting a free World Cup Final watch party at The Yard in New Brunswick on Sunday July 19 (3pm ET) — about 25 minutes from Montclair with ample parking and NJ Transit access from Penn Station; a great family-friendly option if Montclair bars fill up for the Spain vs. Argentina final.",
+        "source_name": "Rutgers University",
+        "source_url": "https://www.rutgers.edu/event/watch-party-yard-fifa-world-cup-2026-final",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "FilmOneFest Tomorrow Night: Outdoor Short Films With Manhattan Skyline in Jersey City, July 18 6pm–11pm",
+        "summary": "Saturday July 18, FilmOneFest hosts an outdoor short film showcase in Jersey City (6pm–11pm) with a Manhattan skyline backdrop — a great movie night for families about 30 minutes from Montclair near Liberty State Park, and a perfect complement to World Cup Final weekend.",
+        "source_name": "NJ Stage",
+        "source_url": "https://www.newjerseystage.com/articles2/2026/07/14/events-this-week-in-new-jersey-from-july-14-20-2026/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "guid": "briefing-2026-07-16",
     "stories": [
