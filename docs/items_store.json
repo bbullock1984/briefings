@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-18",
+    "guid": "briefing-2026-07-18",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Jacob Rodriguez vs. Vagner Rocha Set for Pit Submission Series July 24 — Family Rivalry Adds Stakes to Return",
+        "summary": "Jacob Rodriguez's comeback from a 17-month absence will be against Vagner Rocha at Pit Submission Series 7 on July 24 — a bout loaded with intergenerational history: Vagner fought Jacob's brother Nicky Rodriguez in 2023, and Jacob beat Vagner's son Achilles by rear-naked choke at ADCC 2024; the result will be a key form guide seven weeks before ADCC Krakow.",
+        "source_name": "Jits Magazine",
+        "source_url": "https://jitsmagazine.com/bjj-and-mma-stars-mix-on-pit-submission-series-7-card/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "F2W 321 Tonight in San Diego, F2W 322 in Fresno July 25 — Summer No-Gi Season Hits Full Swing",
+        "summary": "Fight to Win rolls through California with F2W 321 in San Diego tonight (July 18) and F2W 322 in Fresno next Saturday (July 25), maintaining its weekly showcase for elite no-gi talent as the grappling scene enters its final pre-ADCC Krakow push.",
+        "source_name": "Fight 2 Win",
+        "source_url": "https://www.f2wbjj.com/category/upcoming-events/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Eight Weeks to ADCC Krakow: 128-Person Field Finalized, All Divisional Storylines in Focus",
+        "summary": "With the full ADCC 2026 roster locked and eight weeks until the September 12-13 World Championship, the key storylines are set: Kaynan Duarte vs. Yuri Simoes in the vacated absolute superfight, Joslyn Molina (14) making history in -65kg, and Gabi Garcia returning for a seventh ADCC — all at Tauron Arena Krakow.",
+        "source_name": "ADCC News",
+        "source_url": "https://adcombat.com/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup Final Sunday 3pm ET: Spain and Argentina Confirm Starting Lineups — Messi's Last Dance at MetLife",
+        "summary": "Spain's 4-3-3 will feature Lamine Yamal, Mikel Oyarzabal, and Alex Baena up front with Rodri, Fabian Ruiz, and Dani Olmo in midfield; Argentina counter with Messi, Julian Alvarez, and Giuliano Simeone attacking and Mac Allister, Enzo Fernandez, and Paredes behind — kick-off Sunday 3pm ET on Fox at MetLife Stadium.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49382572/spain-vs-argentina-fifa-world-cup-2026-final-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico CEO Slams All Alvarez Exit Routes: 'We Won't Accept 200M Euros' — Hardline Stand on Eve of World Cup Final",
+        "summary": "Atletico Madrid CEO Miguel Angel Gil confirmed Friday the club will not sell Julian Alvarez this summer for any price — rejecting reported 100M+ euro offers from both Barcelona and Arsenal and restating the 500M euro release clause stands — a bombshell reversal that ends the transfer saga just hours before Alvarez starts in Sunday's Final.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Messi's Last World Cup by the Numbers: 8 Goals, 25 Career WC Goals, 4th Final at Age 39",
+        "summary": "Heading into Sunday's Final, Lionel Messi leads the tournament with 8 goals and extends his own record for all-time World Cup goals to 25 across four tournaments, becoming the first player to reach four World Cup Finals — at 39, this is almost certainly his farewell, with Argentina aiming to become the first back-to-back champions since Brazil in 1962.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Markets Rebound Friday: Nasdaq +0.9%, S&P 500 +0.38% to 7,543 — AAPL Near $327 Heading Into July 30 Earnings",
+        "summary": "U.S. stocks closed the week on a positive note Friday as the Nasdaq gained 0.9% to 26,107 and the S&P 500 rose 0.38% to 7,543, largely recovering from Thursday's chip selloff; VTI held firm in the $370-373 range and AAPL consolidated near $327 — just 4% below the approximately $340 level that would push Apple's market cap past $5 trillion ahead of the July 30 Q3 earnings report.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ Property Tax Bills in Mailboxes by July 31 — File PAS-1 Now for September 15 ANCHOR Payments",
+        "summary": "New Jersey municipalities must mail 2026 final and 2027 preliminary property tax bills by July 31; homeowners who have not yet filed the combined PAS-1 application (ANCHOR, Senior Freeze, and Stay NJ) should do so immediately — the portal opened July 1 and ANCHOR direct deposits begin September 15, worth up to $1,750 with the senior bonus.",
+        "source_name": "NJ Division of Taxation",
+        "source_url": "https://www.nj.gov/treasury/taxation/relief.shtml",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ Mansion Tax Now Hits Sellers of $2M+ Homes — Graduated Rates From 2% to 3.5% Now in Effect",
+        "summary": "Under New Jersey's FY2026 budget, the mansion tax now falls on sellers with a graduated structure: 2% for homes sold at $2M-$2.5M, rising to 3.5% for properties above $3.5M — a meaningful cost shift for high-equity homeowners and investors weighing a 2026 sale in Essex County and other high-value NJ markets.",
+        "source_name": "Wiss",
+        "source_url": "https://wiss.com/new-jerseys-fy-2026-budget/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Zootopia 2 Free at State Theatre NJ This Tuesday July 21 — Two Showings, Reserve Tickets Now at stnj.org",
+        "summary": "State Theatre New Jersey in New Brunswick screens Zootopia 2 for free on Tuesday July 21 at 10:30am and 6:30pm, with movie-themed crafts starting at 5:30pm before the evening show — the penultimate film in the summer series before How to Train Your Dragon closes it on July 28; free tickets require advance reservation at stnj.org.",
+        "source_name": "State Theatre NJ",
+        "source_url": "https://www.stnj.org/events/detail/zootopia2",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "'Best in Show' Free Outdoor Movie at Anderson Park July 26 — Montclair Film Series, Bring the Dog",
+        "summary": "Montclair Film's Movie Night Under the Stars screens Christopher Guest's 'Best in Show' (2000) free at Anderson Park (274 Bellevue Ave, Montclair) on Sunday July 26 at 7pm, with a dog parade before the film — a laid-back family evening in the park; registration recommended at montclairfilm.org, rain date is August 2.",
+        "source_name": "Montclair Film",
+        "source_url": "https://www.montclairfilm.org/events/best-in-show/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Flea Returns July 25-26 at Lackawanna Plaza — Art, Vintage, Food, 11am-5pm Both Days",
+        "summary": "The Montclair Flea's next edition runs Saturday-Sunday July 25-26 at 1 Lackawanna Plaza (11am-5pm), featuring curated vendors with art, vintage goods, and local food — a rain-or-shine family outing in downtown Montclair that pairs well with a post-World-Cup-Final lunch or dinner on Church Street.",
+        "source_name": "Lackawanna Station",
+        "source_url": "https://www.lackawanna.com/events",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "guid": "briefing-2026-07-17",
     "stories": [
