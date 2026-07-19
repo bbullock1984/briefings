@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-19",
+    "guid": "briefing-2026-07-19",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "F2W 321 San Diego Wraps Last Night; F2W 322 Fresno This Saturday — California No-Gi Double-Header Complete",
+        "summary": "Fight to Win completed its San Diego stop (F2W 321) last night as results filter in, closing out the California portion of the pre-ADCC summer circuit; F2W 322 heads to Fresno this coming Saturday July 25, keeping weekly no-gi action on the calendar with six weeks remaining before the September 12–13 ADCC World Championship in Krakow.",
+        "source_name": "Fight 2 Win",
+        "source_url": "https://www.f2wbjj.com/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "'Two Siblings of Champions' Round Out UFC BJJ 2 Undercard — Full 10-Fight Free Card Set for July 31",
+        "summary": "UFC has published its complete 10-bout card for UFC BJJ 2 (July 31, free on YouTube at 8pm ET), adding undercard fighters described as siblings of existing champions — injecting family-rivalry storylines alongside the main events: welterweight champion Andrew Tackett vs. Renato Canuto and Mason Fowler vs. David Garmo for the inaugural UFC BJJ light heavyweight title.",
+        "source_name": "MMA Mania",
+        "source_url": "https://www.mmamania.com/bjj-news/390491/ufc-bjj-2-everything-to-know-two-title-bouts-siblings-free-event",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Seven Weeks to ADCC Krakow — The Divisional Races Beyond the Duarte-Simões Superfight",
+        "summary": "With seven weeks until the September 12–13 ADCC World Championship at Tauron Arena Kraków, the headline Kaynan Duarte vs. Yuri Simões superfight is set but divisional races remain wide open — particularly in women's -60kg where Helena Crevar enters as an overwhelming favorite after extending her submission streak to 21, and in -66kg where 14-year-old Joslyn Molina faces a world-class adult field.",
+        "source_name": "ADCC News",
+        "source_url": "https://adcombat.com/adcc-events/adcc-submission-fighting-world-championship-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup Final Day — Spain vs. Argentina Kicks Off 3pm ET at MetLife: Your Complete Watch Guide",
+        "summary": "The 2026 FIFA World Cup Final is today at MetLife Stadium (12 miles from Montclair), kicking off at 3pm ET on Fox; for local fans, Varitage Brew Works (Bloomfield) has an outdoor LED wall, Egan & Sons and Montclair Brewery are screening the match, and the free FIFA Fan Festival at Liberty State Park opens at 9am — plus NJ Transit runs Meadowlands trains from Penn Station every 15-20 minutes from 11:30am.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/match/_/gameId/760517/argentina-spain",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atlético President Confirms Álvarez Stays — Real Madrid's €150M Bid Rejected; 'He Will Play for Us Next Season'",
+        "summary": "Atlético Madrid president Enrique Cerezo officially confirmed Sunday that Julián Álvarez will remain at the club for 2026-27 after the board rejected a €150M bid from Real Madrid — the highest reported offer yet — following earlier refusals of Barcelona and Arsenal bids; the statement makes clear the €500M release clause is the only exit route for the 26-year-old Argentine.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49382855/julian-alvarez-continue-atletico-madrid-player-says-club-president",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "England Beat France 2-1 in World Cup Third-Place Classic — Bronze for Three Lions, Mbappé Ends Without a Trophy",
+        "summary": "England claimed World Cup bronze by beating France 2-1 in a match broadcasters called an 'instant classic' — ending Kylian Mbappé's 2026 campaign without a winner's medal and giving England their best finish at a World Cup since their 1966 triumph; the result set the stage for today's Spain-Argentina final at MetLife.",
+        "source_name": "Fox News",
+        "source_url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Overtakes Nvidia as World's Most Valuable Company — $4.88T Market Cap, 11 Days to July 30 Earnings",
+        "summary": "Apple closed Friday as the world's most valuable company at $4.88T market cap, ending Nvidia's near-year-long reign as investors reassessed AI infrastructure spending risk; AAPL is up 20% YTD near $327-330 and has 11 days until its July 30 Q3 earnings report where analysts project $1.88 EPS on ~$108B revenue — a potential catalyst to push the cap past $5 trillion.",
+        "source_name": "9to5Mac",
+        "source_url": "https://9to5mac.com/2026/07/17/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Music Raises Individual Plan to $11.99 — First Price Hike in Four Years, Citing Rising Licensing Costs",
+        "summary": "Apple Music raised its individual subscription from $10.99 to $11.99 per month effective July 17, the first price increase in nearly four years; the family plan rose to $19.99, student to $6.99, and Apple One bundles adjusted upward — narrowing the gap with Spotify Premium ($12.99) and adding a potential competitive headwind for SPOT ahead of its August 4 earnings.",
+        "source_name": "MacRumors",
+        "source_url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Week Ahead: Markets Open Monday Near Highs — AAPL Pre-Earnings, VTI Steady, NJ 30-Year Refinance at 6.65%",
+        "summary": "US markets open Monday July 21 with S&P 500 near 7,543 and VTI around $371-373 after Friday's rebound; AAPL enters a pre-earnings quiet period (11 days to July 30 results) and SPOT is 16 days from its August 4 earnings; New Jersey's 30-year fixed refinance rate holds near 6.65% — still a viable window for homeowners who locked in near the 2023 peak, and the new $40K SALT cap adds further incentive to review 2026 tax positioning.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "LuminoCity Dino Safari at Freehold Raceway Mall Through August 16 — 70+ Roaring Dinosaurs, From $20",
+        "summary": "LuminoCity's Dino Safari Festival runs nightly at Freehold Raceway Mall (3710 US-9, Freehold, ~45 min from Montclair) through August 16, featuring 70+ life-size illuminated dinosaurs, a 25-foot Volcano Bounce Zone, and a neon DJ booth; evening hours are 5–9:30pm Sun-Thu and 5–10pm Fri-Sat, with general admission from $20 (children under 3 free) and a 25% early-bird discount available.",
+        "source_name": "LuminoCity Festival",
+        "source_url": "https://www.luminocityfestival.com/events/new-jersey-dino-safari",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Planning Board Seeks Public Input on 2026 Master Plan — Four Community Meetings Through August",
+        "summary": "Montclair's Planning Board is hosting four public meetings this July and August for residents to weigh in on the township's 10-year master plan reexamination, covering land use, housing, transportation, and economic development priorities; all residents are welcome regardless of ward, and feedback will shape the draft report presented to the board in fall 2026.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/07/master-plan-reexamination-meetings-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "How to Train Your Dragon Closes State Theatre NJ Free Summer Series July 28 — Reserve Now at stnj.org",
+        "summary": "The final film in State Theatre NJ's free Summer Movies Series is How to Train Your Dragon (DreamWorks, 2010) on Tuesday July 28 at 10:30am and 6:30pm in New Brunswick, with movie-themed crafts at 5:30pm before the evening show; this is the last free screening of the summer and follows Zootopia 2 (this Tuesday, July 21) — free tickets require advance reservation at stnj.org.",
+        "source_name": "State Theatre NJ",
+        "source_url": "https://www.stnj.org/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "guid": "briefing-2026-07-18",
     "stories": [
