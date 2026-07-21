@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-21",
+    "guid": "briefing-2026-07-21",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "PSS 7 Final Preview: Jacob Rodriguez vs. Vagner Rocha in Miami This Thursday — ADCC Stakes High for Both",
+        "summary": "Jacob Rodriguez steps back onto the mat Thursday (July 24) at Karate Combat's Pit Submission Series 7 in Miami for his return from a 17-month hiatus, facing veteran Vagner Rocha in a bout laden with family history — Rodriguez submitted Vagner's son Achilles by RNC at ADCC 2024 — with significant ADCC Krakow seeding implications for both men eight weeks before the September 12-13 world championship.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/jacob-rodriguez-set-to-face-vagner-rocha-in-karate-combat-62-comeback/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 66kg, 77kg and 88kg Slots Open After Three Champs Withdraw — Krakow Bracket Continues to Take Shape",
+        "summary": "With Diogo Reis (66kg), Mica Galvao (77kg), and Giancarlo Bodoni (88kg) officially off the September 12-13 ADCC World Championship roster, the promotion is working to finalize replacement invitees for each vacated seed — potentially reshuffling all three weight classes and opening title-shot opportunities for unseeded alternates who impressed at the 2026 regional trial circuit.",
+        "source_name": "MMA Mania",
+        "source_url": "https://www.mmamania.com/bjj-news/454741/adcc-2026-fight-card-3-adcc-champs-out-no-ufc-bjj-champs-but-wanted-rape-suspect-still-in",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "F2W 322 Fresno This Saturday July 26 — Submission Grappling Circuit Rolls On With ADCC Krakow Eight Weeks Out",
+        "summary": "Fight to Win 322 heads to Fresno on Saturday July 26 with a full no-gi card, keeping the weekly pre-ADCC grappling calendar intact as the circuit enters its final stretch before the September 12-13 World Championship; the promotion also confirmed its first-ever Brazil event is in the works, expanding its footprint ahead of what is shaping up to be grappling's biggest commercial year.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/articles/15949147-grappling-bulletin-ibjjf-worlds-ufc-bjj-8-f2w-brazil-and-more",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico Madrid Pre-Season Begins Today — World Cup Players on Extended Rest, Stockholm Friendly August 1 the Target Date",
+        "summary": "Atletico Madrid's 2026-27 pre-season training kicked off today (July 21) with a reduced group, as Spanish champions Baena, Grimaldo, Pubill, and Llorente plus Argentine finalists Alvarez, Almada, G. Simeone, and Molina remain on mandatory post-World-Cup rest; the full squad is expected to assemble by August 1 ahead of the Stockholm pre-season friendly against Manchester United at Strawberry Arena.",
+        "source_name": "Atletico Madrid Official",
+        "source_url": "https://en.atleticodemadrid.com/noticias/atleti-to-face-manchester-united-in-the-2026-27-pre-season",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Besiktas Enter Salah Race With First Formal Offer as Atletico Madrid Work on Salary Package",
+        "summary": "Turkish giants Besiktas have made the first formal offer for free-agent Mohamed Salah, entering a race that now includes Atletico Madrid, Saudi Pro League clubs, and reported interest from other European sides; Atletico are working to construct a salary package competitive enough to beat Saudi offers, believing Champions League football under Simeone is the key differentiator for the Egyptian captain.",
+        "source_name": "TNT Sports",
+        "source_url": "https://www.tntsports.co.uk/football/transfers/2026-2027/euro-transfer-news-mohamed-salah-besiktas-atletico-madrid-barcelona-julian-alvarez-como-chelsea-trevor-chalobah_sto23309448/story.shtml",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico 2026-27 Squad Crystallizes: Grimaldo and Hjulmand In, Sorloth to Juventus, Salah the Last Missing Piece",
+        "summary": "As pre-season begins, Atletico Madrid's 2026-27 shape is coming into focus: confirmed new arrivals Alejandro Grimaldo (LB, 22M euros) and Morten Hjulmand (DM, 40M euros) fill two key positions; Alexander Sorloth's move to Juventus is near with clubs around 5M euros apart on a ~35M euro fee; and Julian Alvarez stays after the 150M euro Real Madrid rejection — leaving Mohamed Salah as the one remaining transfer target before La Liga kicks off in late August.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/team/transfers/_/id/1068/atletico-madrid",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Alphabet and Tesla Headline Massive Earnings Week — S&P 500 Blended Growth 24.7%; AAPL Opens at $331.98",
+        "summary": "The busiest week of Q2 2026 earnings season opens with Alphabet (GOOGL) reporting Wednesday after close — analysts project $2.87 EPS on $116.8-120.2B revenue with Google Cloud up 63% YoY — and Tesla Thursday; S&P 500 blended earnings growth stands at 24.7% with 87% of early reporters beating estimates, lifting VTI near its 52-week high as AAPL opens at $331.98 today, nine days from its own July 30 earnings report.",
+        "source_name": "Forbes",
+        "source_url": "https://www.forbes.com/sites/bill_stone/2026/07/19/tesla-and-alphabet-headline-a-big-sp-500-earnings-week/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ 30-Year Refinance Rate Jumps to 7.02% — Up From 6.65% Last Week as Bond Markets Price Fewer Fed Cuts",
+        "summary": "New Jersey's average 30-year fixed mortgage refinance rate has risen to 7.02% (15-year: 6.04%), reversing last week's 6.65% level as bond markets price fewer near-term Fed rate cuts; NJ homeowners eyeing a refinance should monitor closely — a softer-than-expected Alphabet or Apple earnings print this week or next could pull rates back, while waiting risks further increases if economic data stays hot.",
+        "source_name": "Wirly",
+        "source_url": "https://wirly.com/guides/refinance-new-jersey",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "SPOT: 14 Days to August 4 Earnings — Jefferies Projects Steady Quarter; AI Remixing Timeline Is the Key Catalyst",
+        "summary": "With Spotify's Q2 report 14 days away (August 4, before market open), Jefferies projects a steady print — 33.1% gross margin and 17M net new MAUs — but views the quarter as unlikely to be 'narrative-changing'; the stock's path to its $678 analyst consensus price target (37% upside from ~$494) depends almost entirely on management providing a concrete rollout timeline for the AI remixing feature at the earnings call.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://ca.finance.yahoo.com/news/spotify-seen-delivering-steady-q2-190100686.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Colson Whitehead at Montclair State TOMORROW (July 22) — Two-Time Pulitzer Winner Presents Final Harlem Trilogy Novel",
+        "summary": "Two-time Pulitzer Prize winner Colson Whitehead appears at MSU's Memorial Auditorium (1 Normal Ave, Montclair) tomorrow July 22 at 7pm to discuss 'Cool Machine,' the conclusion to his Harlem Trilogy, in conversation with book critic Kate Tuttle; tickets are $45.99 and include a signed copy of the novel, with a post-show signing to follow — book now at tickettailor.com.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/06/colson-whitehead-daniel-mason-montclair-author-events/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Sourland Mountain Festival This Saturday July 25 in Ringoes — Family Scavenger Hunt, Live Music, Food at Unionville Vineyards",
+        "summary": "The 2026 Sourland Mountain Festival returns Saturday July 25 (3pm-dusk) at Unionville Vineyards, 9 Rocktown Road, East Amwell Township (~40 min from Montclair), with live music from regional bands, a family scavenger hunt, and local food and craft beer; only 1,000 tickets available, advance purchase recommended at sourlandmountainfest.com.",
+        "source_name": "Eventbrite",
+        "source_url": "https://www.eventbrite.com/e/2026-sourland-mountain-festival-tickets-1984728252631",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Jazz Soundcheck Monday July 28: Joel Ross' Good Vibes Honors Chicago at Lackawanna Plaza — Free, 6-10pm",
+        "summary": "The Montclair Jazz Festival's free weekly Soundcheck Series continues Monday July 28 with Grammy-nominated vibraphonist Joel Ross and his quartet Good Vibes performing at Lackawanna Station (1 Lackawanna Plaza), 6-10pm — part of the festival's 2026 'American Jazz Cities' theme honoring Chicago; free and open to all, no registration required.",
+        "source_name": "VisitNJ",
+        "source_url": "https://visitnj.org/nj-events/montclair-jazz-festival-downtown-jamboree-block-party",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "guid": "briefing-2026-07-20",
     "stories": [
