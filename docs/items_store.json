@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-23",
+    "guid": "briefing-2026-07-23",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "Mica Galvao Reinstated to ADCC Krakow 77kg Roster — Reversal Reshapes Most Contested Division",
+        "summary": "FloGrappling's latest Grappling Bulletin confirms Mica Galvao has returned to the ADCC 2026 Krakow roster following his earlier withdrawal, a significant reversal that reshapes the stacked 77kg bracket at the September 12-13 World Championship and gives the division its full complement of elite contenders.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/articles/16010369-grappling-bulletin-8-qualify-in-australia-mica-returns-finishers-more",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "17-Year-Old Matilda Reid Wins ADCC Asia & Oceania +65kg in Gold Coast — 8 Athletes Qualify for Krakow",
+        "summary": "Blue belt Matilda Reid, 17, dominated the +65kg bracket at the ADCC Asia & Oceania Trials in Gold Coast, Australia, defeating four more experienced opponents to claim the division title in what FloGrappling called the trials' standout result; all eight division champions — including Kaya Rudolph (-77kg, New Zealand) and Bekzat Kapashov (-66kg, Kazakhstan) — have punched their tickets to the September 12-13 World Championship.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/articles/16009759-2026-adcc-asia-oceania-trials-recap-8-qualify-in-australia",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 2 Co-Main Preview: Fowler vs. Garmo to Crown the First-Ever Light Heavyweight Champion",
+        "summary": "With eight days until UFC BJJ 2 (July 31, free on YouTube at 8pm ET), the Fowler-Garmo co-main event is shaping up as the bout to watch — Mason Fowler brings a three-fight UFC BJJ submission run against a surging David Garmo, and the inaugural light heavyweight title gives the matchup lasting significance beyond a single night.",
+        "source_name": "UFC",
+        "source_url": "https://www.ufc.com/news/ufc-bjj-2-tackett-vs-canuto-two-thrilling-title-fights-headline-stacked-grappling-card",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Koke Renews Contract With Atletico Madrid Until June 2027 — One-Club Captain Commits for La Liga Title Defense",
+        "summary": "Club captain Jorge Resurrección 'Koke' has signed a one-year contract extension keeping him at Atletico Madrid through June 2027, the club announced, with both parties activating an automatic renewal clause; the 34-year-old one-club man becomes the squad's continuity anchor in a summer that has seen significant turnover around him.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://ca.sports.yahoo.com/news/grit-heart-koke-stays-atl-101500820.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Lee Kang-in Joins Atletico's Pre-Season Training — First Asian Player in Club History Begins Work Under Simeone",
+        "summary": "South Korean midfielder Lee Kang-in — officially signed from PSG for approximately €35-40M in early July as Atletico's third summer arrival after Grimaldo and Hjulmand — is now integrating with the first-team squad in Majadahonda, giving Simeone a creative, high-energy option in midfield and making Kang-in the first Asian player in Atletico's history.",
+        "source_name": "Into the Calderon",
+        "source_url": "https://www.intothecalderon.com/atletico-madrid-transfer-news-rumors/26413/atletico-madrid-psg-35-million-lee-kang-in-agreement-la-liga-transfers",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico's 2026-27 Summer Scorecard: Three In, One Out, Salah Still Pursued Before La Liga Opener",
+        "summary": "As Atletico's pre-season ramps up toward the August 1 Stockholm friendly vs. Manchester United, the summer transfer picture is mostly set: Grimaldo, Hjulmand, and Kang-in are confirmed signings; Alexander Sorloth's Juventus exit is imminent; Julian Alvarez stays; and Mohamed Salah's free agency remains the one outstanding question Simeone hopes to resolve before the late-August La Liga opener.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/team/transfers/_/id/1068/atletico-madrid",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Alphabet Q2 Beats on Revenue and Cloud — But GOOGL Sinks ~5% After Hours on Record $200B Capex Guidance",
+        "summary": "Google parent Alphabet reported Q2 revenue of $119.8B (+24% YoY) with Google Cloud surging 82% to $24.8B, clearing analyst estimates on the top line — but shares fell roughly 5% in after-hours trading after management raised 2026 capex guidance to a projected $200B, an unprecedented scale of AI infrastructure spending that stoked investor concern about returns.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Holds Near $324 — 7 Days to July 30 Earnings as Alphabet's Capex Shock Complicates Apple's $5T Push",
+        "summary": "Apple shares are consolidating near $324 with exactly seven days until the July 30 Q3 earnings call ($1.88 EPS consensus, ~$109B revenue), but Alphabet's decline after a strong beat raises the bar for clarity — investors will now scrutinize Apple's AI capital spending commitments closely, and the $5T market-cap milestone requires a roughly 5% post-earnings move from current levels.",
+        "source_name": "TheStreet",
+        "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-22-2026",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "US-Iran Tensions Keep Oil Near $85-91; Markets Navigate Geopolitical Risk Ahead of Apple's July 30 Print",
+        "summary": "Crude oil (Brent) has been trading in an elevated $85-91 range as US military strikes against Iran and ongoing ceasefire mediation talks keep energy markets unsettled — adding an inflation premium that could influence the Fed's September rate path and creating a headwind for VTI just as it approaches 52-week highs in what is already the most important earnings week of the summer.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Theater Festival THIS SATURDAY July 25: Free Outdoor Seussical + Shakespeare at Brookdale Park, 2-8pm",
+        "summary": "The 2nd Annual Montclair Theater Festival returns to Brookdale Park this Saturday (July 25, 2-8pm), presented free by Vanguard Theater Company — the all-ages event features abridged professional productions of Seussical the Musical (6pm) and Shakespeare's The Tempest (3pm), plus pop-up performances from 20+ NJ theater companies, food trucks, artisan vendors, and hands-on activities for kids.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/2026/07/montclair-theater-festival-returns-for-its-second-year-this-weekend/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Monmouth County Fair Through Sunday July 26 in Freehold: Rides, Live Music, and Classic Fair Food",
+        "summary": "The 2026 Monmouth County Fair runs through Sunday July 26 at the East Freehold Showgrounds in Freehold (~45 minutes from Montclair), featuring carnival rides, competitive exhibits, live music, and local food vendors — a classic family summer fair that's one of NJ's longest-running county events.",
+        "source_name": "NJ Stage",
+        "source_url": "https://www.newjerseystage.com/articles2/2026/07/21/events-this-week-in-new-jersey-from-july-21-27-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Paper Mill Playhouse Summer Conservatory: 'New Voices of 2026' at Montclair's Memorial Auditorium This Week",
+        "summary": "Paper Mill Playhouse's prestigious Summer Musical Theater Conservatory presents 'New Voices of 2026: On Vacation' this week at Memorial Auditorium (1 Normal Ave, Montclair State University) — a professional-quality showcase of the next generation of musical theater talent that's ideal for theater-loving families with tweens; check papermill.org for show dates and times.",
+        "source_name": "NJ Stage",
+        "source_url": "https://www.newjerseystage.com/articles2/2026/07/21/this-week-in-theatre-previews-for-plays-taking-place-july-21-27-2026/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "guid": "briefing-2026-07-22",
     "stories": [
@@ -2743,60 +2845,6 @@
         "summary": "The beloved Maplewoodstock festival celebrates its 21st edition on July 11–12 at Maplewood's Memorial Park, featuring 22 live bands, over 60 art vendors, a beer garden, and a dedicated kid zone. Organizers expect more than 14,000 attendees at the free community event, which is run entirely by volunteers and benefits arts education in local schools. The two-day outdoor event is a short drive from Montclair and is family-friendly, making it an ideal summer outing for parents and kids alike.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/maplewoodstock-festival-memorial-park-maplewood-nj-2026/",
-        "is_social": false
-      }
-    ]
-  },
-  {
-    "date": "2026-06-22",
-    "guid": "briefing-2026-06-22",
-    "stories": [
-      {
-        "topic_id": "bjj",
-        "headline": "Gabrieli Pessanha Sets Women's Record with 12th World Title at IBJJF Mundials; Teen Brown Belt Earns Instant Black Belt Promotion",
-        "summary": "The 2026 IBJJF World Championship (May 28–31, Long Beach) produced two other standout stories beyond Diego Pato's record fifth title. Gabrieli Pessanha swept both the super-heavyweight and absolute women's divisions to become the most decorated female competitor in IBJJF Worlds history with 12 world titles. Meanwhile, teen prodigy Hazel Butcher-Salazar went six-for-six with all submissions in the women's brown belt divisions, winning double gold at heavyweight and absolute — and was immediately promoted to black belt on the podium afterward.",
-        "source_name": "Jits Magazine",
-        "source_url": "https://jitsmagazine.com/ibjjf-world-championship-2026-full-results-and-highlights/",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Atlético Publicly Blasts Barcelona Over Julián Álvarez 'Smear Campaign' as Player Reportedly Eyes Camp Nou Move",
-        "summary": "Atlético Madrid escalated their war of words with Barcelona over Julián Álvarez, publicly declaring the Argentine striker is 'not for sale' and accusing Barça of a 'relentless smear campaign' after months of transfer speculation. Atlético officials stated there had been 'no offer, no meeting, and no negotiation,' while absolving Álvarez of personal blame and praising his professionalism. Despite this, reports from Mundo Deportivo and ESPN indicate Álvarez has told both Arsenal and PSG that his priority is a move to Barcelona, with Atlético holding firm that any deal would require meeting his €500m release clause.",
-        "source_name": "ESPN",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48927451/transfer-rumors-news-julian-alvarez-pushing-barcelona-move",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Markets Open Cautiously Monday as US-Iran Peace Roadmap Takes Shape and Fed Hawkishness Looms",
-        "summary": "US stock futures edged slightly higher Monday as Iran confirmed 'encouraging progress' in peace talks in Switzerland, with negotiators agreeing on a roadmap to a final deal within 60 days. Oil prices fell — Brent crude dropped ~1.7% toward $79/barrel — as hopes grew that the Strait of Hormuz would normalize. However, markets remained restrained heading into a key week: the Fed left rates unchanged last week but signaled a more hawkish stance, with nearly half of FOMC members now expecting at least one rate hike before year-end, and the PCE inflation report is due later this week.",
-        "source_name": "Yahoo Finance",
-        "source_url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Spotify Shares Up Sharply After Landmark AI Music Deal with UMG and Bullish Long-Term Targets; Multiple Buy Ratings",
-        "summary": "Spotify (SPOT) surged roughly 13–15% in late May after announcing a major AI licensing deal with Universal Music Group and unveiling its first investor day since 2022, where it set a long-term ambition of 1 billion users and $100 billion in revenue. The deal allows Spotify Premium subscribers to create AI-generated covers and remixes of songs by participating UMG artists via a paid add-on, with a revenue-share model for artists. As of mid-June, SPOT carries a Buy consensus from 22+ analysts (Morgan Stanley and Bernstein among recent reiterations), with a Wall Street average price target around $609–$681; next earnings are due July 28.",
-        "source_name": "TechCrunch",
-        "source_url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Montclair Film's Free 'Movie Night Under the Stars' Is Underway for Summer 2026 — Cars, Best in Show, and More in Local Parks",
-        "summary": "Montclair Film's beloved annual outdoor cinema series kicked off June 14 and runs through August, with all screenings completely free to the public. The 2026 lineup opened with Disney/Pixar's Cars (celebrating its 20th anniversary) at Nishuane Park, and continues with Best in Show (dogs welcome!) and a third animal-themed film later in the season. Families are encouraged to bring blankets and lawn chairs; registration is not required but recommended at montclairfilm.org to receive weather alerts and schedule updates.",
-        "source_name": "The Montclair Girl",
-        "source_url": "https://www.themontclairgirl.com/montclair-film-outdoor-movies-2026/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "39 Days of Free Soccer Watch Parties at Lackawanna Station and World Cup Fans Swarming NJ Delis",
-        "summary": "Montclair's Lackawanna Station is hosting 'Summer of Soccer' — 39 consecutive days of free World Cup watch parties and tournament play running through the summer, making it a great option for soccer-loving families. Separately, NJ officials are working on transportation fixes after World Cup travel to MetLife Stadium exposed transit strain, with NJ Transit's $98 match-day fare continuing to draw criticism. On a lighter note, World Cup tourists have become obsessed with New Jersey delis while visiting the region for the tournament.",
-        "source_name": "The Montclair Girl",
-        "source_url": "https://www.themontclairgirl.com/montclair-essex-county-news-june-21st-2026/",
         "is_social": false
       }
     ]
