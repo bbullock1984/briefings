@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-24",
+    "guid": "briefing-2026-07-24",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Krakow Loses 4th Defending Champion — Fornarino Exits for UFC BJJ 10 Grand Prix; Michell Removed",
+        "summary": "Reigning ADCC -55kg double gold medalist Adele Fornarino has been pulled from the Krakow 2026 roster after choosing to compete in the inaugural Women's Flyweight Grand Prix at UFC BJJ 10 (August 20), while ADCC Asia & Oceania Trials winner Izaak Michell was simultaneously removed over an active Texas arrest warrant — the 4th and 5th departures from a September 12-13 bracket that has now lost five confirmed competitors in quick succession.",
+        "source_name": "MMA Mania",
+        "source_url": "https://www.mmamania.com/bjj-news/459197/adcc-2026-loses-double-champ-to-ufc-bjj-fugitive-izaak-michell-also-removed",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 10 Announces Inaugural Women's Flyweight Grand Prix for August 20 — Fornarino vs. Brunacio Headline",
+        "summary": "The UFC's no-gi grappling series announced a landmark addition to its August 20 card at the Meta Apex: the first-ever Women's Flyweight Grand Prix at UFC BJJ 10, with ADCC double champion Adele Fornarino facing Brazilian standout Carol Brunacio in the tournament semifinals — the winner of the four-woman bracket will be crowned the inaugural UFC BJJ Women's Flyweight Champion.",
+        "source_name": "Jits Magazine",
+        "source_url": "https://jitsmagazine.com/incredible-womens-flyweight-grand-prix-announced-for-ufc-bjj-10/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "PSS 7 Tonight in Miami: Jacob Rodriguez vs. Vagner Rocha Live at Karate Combat 62 — ADCC 7 Weeks Out",
+        "summary": "Tonight's Karate Combat 62 / Pit Submission Series 7 card in Miami features Jacob Rodriguez ending a 17-month competitive absence against veteran Vagner Rocha in the PSS main event — a high-stakes grappling match just seven weeks before ADCC Krakow, with both men expected to compete at the September 12-13 World Championship.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/articles/karate-combat-62-fight-card-220000535.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Reports: Arsenal and Atletico Reach Framework Agreement on Gyokeres-Alvarez Swap — Alvarez's Approval the Last Hurdle",
+        "summary": "Football365 reports Arsenal and Atletico Madrid have agreed on a deal structure — Viktor Gyokeres plus €50M cash for Julian Alvarez — but the transfer remains stalled as Alvarez still prefers a move to Barcelona, a destination Atletico refuses to facilitate regardless of the fee on offer.",
+        "source_name": "Football365",
+        "source_url": "https://www.football365.com/news/arsenal-julian-alvarez-reach-agreement-swap-gyokeres-accelerates",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Man United Stumble 1-0 to Wrexham in Pre-Season Opener Ahead of August 1 Atletico Stockholm Test",
+        "summary": "Manchester United began their 2026-27 pre-season with a 1-0 defeat to Championship club Wrexham in Helsinki, then face Rosenborg in Trondheim before traveling to Stockholm for the August 1 friendly against La Liga champions Atletico Madrid — a match that will serve as the first meaningful test for both clubs' summer signings.",
+        "source_name": "Sports Mole",
+        "source_url": "https://www.sportsmole.co.uk/football/man-utd/feature/man-united-pre-season-fixtures-schedule-how-to-watch-and-kickoff-times_600946.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico's New Trio Ready for Stockholm — Grimaldo, Hjulmand, and Kang-in Set for First Pre-Season Test",
+        "summary": "With world cup finalists returning to Majadahonda by July 28, Atletico Madrid's three summer signings — left-back Alejandro Grimaldo, holding midfielder Morten Hjulmand, and creative South Korean midfielder Lee Kang-in — will finally train with the full squad ahead of the August 1 Stockholm friendly, giving Simeone his first real look at the new-look La Liga champions in a competitive setting.",
+        "source_name": "Atletico Madrid Official",
+        "source_url": "https://en.atleticodemadrid.com/noticias/atleti-to-face-manchester-united-in-the-2026-27-pre-season",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Tesla Tanks 14.5% on Q2 Earnings Miss — S&P 500 Sinks 1.21%, Nasdaq Falls 2.15%, VTI Under Pressure",
+        "summary": "Tesla's Q2 report (July 23) beat on revenue ($28.2B, +26% YoY) but badly missed on profits — EPS $0.33 vs. $0.51 expected, operating margin collapsing to just 1.4% — sending TSLA down roughly 14.5% and dragging the S&P 500 -1.21% to 7,408 and Nasdaq -2.15% to 25,137; VTI came under pressure as the Mag 7 rotation continues, with Apple's July 30 print now the market's single most critical near-term catalyst.",
+        "source_name": "Teslarati",
+        "source_url": "https://www.teslarati.com/tesla-tsla-q2-2026-earnings-results/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL at $321.66 With 6 Days to Earnings — Citi Lifts Target to $365, Tim Cook's Final Call as CEO Approaches",
+        "summary": "Apple shares are consolidating at $321.66 (down 0.56% Thursday) with just six days until the July 30 Q3 earnings call where EPS consensus stands at $1.88 on ~$109B revenue; Citi analyst Asiya Merchant raised her price target to $365 on July 13 on margin optimism, and in a significant milestone, July 30 will mark Tim Cook's final earnings call before John Ternus takes over as Apple CEO.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "SPOT +2.97% Outperforms Falling Market — 11 Days to August 4 Earnings; NJ Refinance Rates Ease to 6.70%",
+        "summary": "Spotify shares gained 2.97% despite broad market weakness (11 days to August 4 Q2 earnings), with investor optimism building around cost discipline and operating income growth ahead of the report; separately, New Jersey's 30-year fixed refinance rate eased to 6.698% from its recent 7.02% peak — a modest relief for homeowners who've been waiting for a better entry window.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/spotify-spot-stock-falls-amid-214503445.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Free Outdoor Concert Tonight at Brookdale Park — The Infernos Headline Essex County Summer Music Series",
+        "summary": "Tonight (Friday July 24) the Essex County free summer music series presents The Infernos at Brookdale Park on the Bloomfield/Montclair border — a no-cost outdoor show perfect for families heading into the Montclair Theater Festival weekend, and part of a recurring county series running throughout July and August.",
+        "source_name": "Montclair Local",
+        "source_url": "https://montclairlocal.news/things-to-do-this-weekend-montclair/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Newark Museum of Art Family Days Close Sunday July 26 — ‘Stars Are Everywhere’ Clay Seastars Workshop This Weekend",
+        "summary": "The Newark Museum of Art's summer Family Fun Days run through this Sunday July 26 with a ‘Stars are everywhere’ theme — families can make textured Seastars from air-dry clay in hands-on workshops ideal for kids; it's a 30-minute drive from Montclair and a great complement to weekend theater festival or beach plans before the program wraps.",
+        "source_name": "NJ Weekend Guide",
+        "source_url": "https://nj-explorer.s3.us-west-2.amazonaws.com/nj-jul24-2026/index.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Storytime With a Twist at Bloomfield Library — Balloon Animal Crafts for Kids Tomorrow, July 25 at 11am",
+        "summary": "Bloomfield Public Library (minutes from Montclair) hosts Storytime with a Twist this Saturday July 25 at 11am, where children and caregivers read books together and then make their own balloon animals — a free, hands-on Saturday morning outing perfect for families looking for a calm alternative to the busy theater festival across town.",
+        "source_name": "Patch",
+        "source_url": "https://patch.com/new-jersey/montclair/calendar#expired_event",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "guid": "briefing-2026-07-23",
     "stories": [
@@ -2791,60 +2893,6 @@
         "summary": "Out Montclair has officially rescheduled the 2026 Montclair Pride Festival from June 13 to Saturday, August 1, citing financial and operational requirements needed to safely produce the event and keep it free and accessible. The downtown Montclair festival will feature live music, drag performances, food trucks, a family zone, bar areas, and an evening street-dance party. Families with kids can enjoy the family zone, and the rescheduled date gives more time to plan a summer outing.",
         "source_name": "The Montclair Girl",
         "source_url": "https://www.themontclairgirl.com/montclair-pride-festival-2026/",
-        "is_social": false
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "guid": "briefing-2026-06-23",
-    "stories": [
-      {
-        "topic_id": "bjj",
-        "headline": "Diego 'Pato' Oliveira Retires from Gi Competition After Winning Record Fifth World Title",
-        "summary": "Diego 'Pato' Oliveira capped the 2026 IBJJF World Championship by leaving his black belt on the mat — the traditional signal of retirement — moments after winning his fifth world title at light-featherweight, surpassing the records of both Robson Moura and his coach Guilherme Mendes. The 27-year-old AOJ athlete dominated his bracket with three submission wins and a 9-0 finals victory over Khaled Mohammad. His departure leaves a massive hole at the weight class, though questions remain about whether he'll continue competing in no-gi and professional events. Tainan Dalpra (4th world title, all submissions) and Gabi Pessanha (12th world title, double gold) were the other marquee stories from the event.",
-        "source_name": "Jits Magazine",
-        "source_url": "https://jitsmagazine.com/diego-pato-oliveira-announces-retirement-from-gi-competition/",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Julián Álvarez Publicly States He Wants to Leave Atlético Madrid to 'Fulfil His Dream' — Barcelona Understood to Be Destination",
-        "summary": "In a significant escalation of the transfer saga, Atlético Madrid striker Julián Álvarez said after Argentina's 2-0 World Cup win over Austria on June 22 that he wants to leave the club to fulfill his dream — widely understood to be a move to Barcelona. Atlético have dug in and do not want to sell the 26-year-old, who finished the 2025/26 season with 20 goals and nine assists across all competitions. Arsenal are also reportedly interested, but Álvarez's preference is Barcelona, who have been pursuing him all summer despite previously strained relations with Atlético. This is a new development from the previously reported smear-campaign dispute: now the player himself has broken his silence publicly.",
-        "source_name": "Sky Sports",
-        "source_url": "https://www.skysports.com/transfer/news/12691/13556913/julian-alvarez-atletico-madrid-striker-says-he-wants-to-leave-club-to-fulfil-his-dream",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Tech Stocks Tumble Tuesday as Global Selloff Spreads — Nasdaq Down Over 800 Points",
-        "summary": "A broad technology selloff accelerated on June 23, with Nasdaq 100 futures falling nearly 3% and South Korea's Kospi plunging roughly 10%, led by memory-chip giants Samsung and SK Hynix. In the U.S., chip stocks including Micron, Intel, and Qualcomm led premarket losses, while Alphabet shares continued sliding after two high-profile AI researchers departed for rivals (OpenAI and Anthropic). Market concerns center on the rising cost of AI infrastructure, potential Fed rate hikes later in 2026, and an Iran nuclear situation that remains uncertain. Defensive names and VTI's broad market exposure may cushion some of the blow, but investors in growth-heavy ETFs should expect continued volatility this week.",
-        "source_name": "24/7 Wall St.",
-        "source_url": "https://247wallst.com/investing/2026/06/23/stock-market-live-june-23-2026-sp-500-spy-futures-under-significant-pressure/",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Apple Facing Analyst Scrutiny as CEO Confirms iPhone Price Hikes to Offset Memory Costs",
-        "summary": "Apple (AAPL) shares are trading around $294–297, down roughly 6% from their 2026 high of $317.40, as CEO Tim Cook confirmed rising memory and storage chip costs are forcing product price increases across the lineup. KGI Securities downgraded the stock to Hold (price target $315), while Wedbush maintained Outperform with a $400 target, citing strong pricing power and supply-chain resilience. BofA argues Apple's AI strategy reset announced at WWDC is being 'underappreciated' by the market. Investors are also watching a reported Intel chip manufacturing partnership and a CEO succession expected in September 2026, both of which add near-term uncertainty.",
-        "source_name": "CNBC",
-        "source_url": "https://www.cnbc.com/quotes/AAPL",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Montclair Launches Car-Free Church Street Pilot — Monthly Pedestrian Weekends Through October",
-        "summary": "Montclair has kicked off a new pilot program closing Church Street to vehicles from 10 a.m. to 10 p.m. on select weekends through October, turning the restaurant- and shop-lined block into a pedestrian plaza. The first closure ran June 19–21; the next is July 17–19. Township officials plan to bring performances and activations to the space, and local advocates point to research showing pedestrian streets boost restaurant and retail sales. The car-free weekends are a great family outing option, with outdoor dining, shops, and the nearby Clairidge movie theater all accessible on foot.",
-        "source_name": "Montclair Local",
-        "source_url": "https://montclairlocal.news/2026/06/montclairs-church-street-pedestrianization-to-bring-car-free-weekends/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Maplewoodstock Music + Arts Festival Returns July 11–12 with 22 Bands, Kid Zone, and Food Vendors",
-        "summary": "The beloved Maplewoodstock festival celebrates its 21st edition on July 11–12 at Maplewood's Memorial Park, featuring 22 live bands, over 60 art vendors, a beer garden, and a dedicated kid zone. Organizers expect more than 14,000 attendees at the free community event, which is run entirely by volunteers and benefits arts education in local schools. The two-day outdoor event is a short drive from Montclair and is family-friendly, making it an ideal summer outing for parents and kids alike.",
-        "source_name": "The Montclair Girl",
-        "source_url": "https://www.themontclairgirl.com/maplewoodstock-festival-memorial-park-maplewood-nj-2026/",
         "is_social": false
       }
     ]
