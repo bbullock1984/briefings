@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-26",
+    "guid": "briefing-2026-07-26",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "F2W 322 Fresno Wraps Up Today — California No-Gi Summer Swing Complete, ADCC Camp Mode Begins",
+        "summary": "Fight to Win 322 concluded its Fresno card today (Saturday July 26), closing the California leg of the pre-ADCC summer circuit; with the West Coast swing complete, top ADCC-bound competitors now transition to full training-camp preparation for the September 12-13 World Championship in Krakow.",
+        "source_name": "Fight 2 Win",
+        "source_url": "https://www.f2wbjj.com/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 2 Five Days Out — Two Title Fights Free on YouTube Thursday July 31 at 8pm ET",
+        "summary": "UFC BJJ 2 is five days away at UFC Apex, Las Vegas, streaming free on YouTube at 8pm ET Thursday July 31, headlined by welterweight champion Andrew Tackett vs. Renato Canuto and Mason Fowler vs. David Garmo for the inaugural light heavyweight title — the last major grappling card before ADCC Krakow prep enters its final intensive phase.",
+        "source_name": "UFC",
+        "source_url": "https://www.ufc.com/news/ufc-bjj-2-tackett-vs-canuto-two-thrilling-title-fights-headline-stacked-grappling-card",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026: Full 128-Athlete Field Locked, Elite Grapplers Enter Camp Phase — Krakow 48 Days Away",
+        "summary": "All eight ADCC 2026 brackets are finalized with 128 confirmed athletes; with the pre-ADCC competition circuit winding down, top contenders including Kaynan Duarte, Yuri Simoes, and Gabi Garcia are entering dedicated training camps ahead of the September 12-13 World Championship at Tauron Arena Krakow — where 14-year-old Joslyn Molina will also make history in the women's -66kg division.",
+        "source_name": "ADCC News",
+        "source_url": "https://adcombat.com/adcc-events/adcc-submission-fighting-world-championship-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Salah Nearing Besiktas Deal on Ronaldo-Style Contract — Atletico's Free-Agent Target Slips Away",
+        "summary": "Mohamed Salah appears set to sign with Turkish club Besiktas on a 1+1 year contract at €12M annually, with CaughtOffside (July 25) confirming an agreement in principle and ESPN reporting he is 'nearing the move' — ending Atletico Madrid's months-long pursuit of the free-agent Egyptian forward and forcing the club to pivot their summer striker hunt.",
+        "source_name": "CaughtOffside",
+        "source_url": "https://www.caughtoffside.com/2026/07/25/just-in-mo-salah-blockbuster-move-agreement/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico's Striker Crisis: Salah Gone, Sorloth Departing — Gyokeres Swap With Arsenal Now the Only Path to a No. 9",
+        "summary": "With Salah trending to Besiktas and Alexander Sorloth still en route to Juventus (personal terms agreed, clubs ~€5M apart on fee), Atletico face a genuine striker void; ESPN and Into the Calderon report the club are now more open to the Gyokeres-for-Alvarez swap with Arsenal — but only if Alvarez goes to the Premier League, not Barcelona, as Atletico's stance on their La Liga rivals remains firm.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "World Cup Players Return Monday — Atletico Assembles Near-Full Squad for Stockholm With 6 Days to Go",
+        "summary": "Atletico Madrid's 13 World Cup participants — including Spanish champions Baena, Grimaldo, Llorente, and Pubill, plus Argentine finalists Alvarez, Almada, and Molina — are expected back at Majadahonda training by Monday July 28, giving Diego Simeone six days of near-full group sessions before the August 1 pre-season opener vs. Manchester United at Strawberry Arena, Stockholm.",
+        "source_name": "Atletico Madrid Official",
+        "source_url": "https://en.atleticodemadrid.com/noticias/atleti-to-face-manchester-united-in-the-2026-27-pre-season",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Biggest Earnings Week of 2026: Meta & Microsoft Wednesday, Amazon & Apple Thursday — Plus Fed Meeting, GDP and PCE Data",
+        "summary": "The most consequential week of 2026 earnings season begins Monday with Meta and Microsoft reporting Wednesday (July 29), followed by Amazon and Apple on Thursday (July 30) after the bell; the Fed concludes its Wednesday policy meeting (rate hold expected), Q2 GDP prints Thursday morning, and PCE inflation data follows Friday — a five-day gauntlet that will determine whether the tech-led market selloff of the past two weeks has run its course.",
+        "source_name": "CNBC",
+        "source_url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Enters Earnings Week Near $321 — 4 Days to Tim Cook's Farewell Call; ±5.38% Swing Priced In for July 30",
+        "summary": "Apple opens the critical week near $321 with the market pricing a ±$16.61 (±5.38%) swing around Thursday July 30's Q3 print ($1.88 EPS consensus, $108.9B revenue, +20% YoY); Tim Cook delivers his final earnings call as CEO before John Ternus succession, with a strong beat on services revenue and AI spend narrative needed to push AAPL toward the $5T market-cap milestone — roughly $19/share above Friday's close.",
+        "source_name": "Finance Calendar",
+        "source_url": "https://www.financecalendar.com/event/aapl-earnings-july-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ Refinance Holds at 6.698% as Fed Meets Wednesday; SPOT 9 Days Out — Analysts Shift Focus to Revenue Per User",
+        "summary": "New Jersey's 30-year fixed refinance APR holds at 6.698% (15-year: 5.83%) heading into the Fed's Wednesday rate decision, where a hold is expected to keep the improvement from the recent 7.02% peak intact; Spotify enters its final 9-day pre-earnings window ahead of its August 4 Q2 report ($3.29 EPS consensus, $5.6B revenue), with analysts now focused on revenue per user and operating income rather than raw subscriber additions.",
+        "source_name": "Bankrate",
+        "source_url": "https://www.stocktitan.net/news/SPOT/spotify-technology-s-a-to-announce-results-for-second-quarter-0i3vcrqh5nf3.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "MM by Morimoto and Pig & Butter Both Open This Thursday July 31 — Montclair's Biggest Dining Day in Years",
+        "summary": "Iron Chef Masaharu Morimoto's MM by Morimoto opens Thursday July 31 at 193 Glenridge Ave with exclusive fish from Japan, Wagyu beef, a custom omakase bar, and 200+ seats (book via Resy); simultaneously, Pig & Butter at 401 Orange Road celebrates its ribbon-cutting at 10am — two highly anticipated Montclair openings on the same day make July 31 a landmark moment for the local dining scene.",
+        "source_name": "Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/mm-by-morimoto-montclair-nj/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Nocturnal Animals at Van Vleck Gardens This Tuesday July 28 — Live Exotic Wildlife With Eyes of the Wild, 6–7pm",
+        "summary": "Van Vleck House & Gardens (21 Van Vleck St, Montclair) hosts 'Outdoor Adventures: Nocturnal Animals' this Tuesday July 28 from 6–7pm, featuring live nocturnal animals from Eyes of the Wild exotic animal rescue — a low-key weeknight family outing for children ages 5 and older in one of Montclair's most beautiful garden settings.",
+        "source_name": "MommyPoppins",
+        "source_url": "https://mommypoppins.com/new-york-city-kids/event/outdoor-adventures-nocturnal-animals-at-the-montclair-foundationvan-vleck",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Jazz Festival's Downtown Jamboree + Block Party Confirmed August 15 — 2026 Theme Honors American Jazz Cities",
+        "summary": "The Montclair Jazz Festival's signature all-day Downtown Jamboree + Block Party is confirmed for Saturday August 15, 2026, celebrating this year's 'American Jazz Cities' theme highlighting Chicago, New York, and New Orleans; the festival's free weekly Soundcheck Series at Lackawanna Station continues on Tuesday evenings through August as a warm-up to the big day.",
+        "source_name": "NJ Arts",
+        "source_url": "https://www.njarts.net/2026-montclair-jazz-festival-will-salute-american-jazz-cities/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "guid": "briefing-2026-07-25",
     "stories": [
