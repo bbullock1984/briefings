@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-28",
+    "guid": "briefing-2026-07-28",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 2 Three Days Out: Tackett Eyes Series History as Fighters Arrive in Las Vegas",
+        "summary": "Andrew Tackett heads to the UFC Apex for Thursday's free YouTube stream (8pm ET) with the chance to become the UFC BJJ series' first-ever title defender — no champion has successfully defended since the series launched in January 2026 — while Mason Fowler and David Garmo contest the inaugural light heavyweight title in the co-main.",
+        "source_name": "UFC",
+        "source_url": "https://www.ufc.com/news/ufc-bjj-2-tackett-vs-canuto-two-thrilling-title-fights-headline-stacked-grappling-card",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "FloGrappling Bulletin: IBJJF Worlds Delivers Memorable Performances — Gi Season Closes, No-Gi Takes Over",
+        "summary": "FloGrappling's latest Grappling Bulletin declares IBJJF Worlds an 'incredible event' with standout performances across divisions; with the gi season now complete, elite attention shifts entirely to UFC BJJ 2 this Thursday and ADCC Krakow (September 12-13, 46 days away).",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/articles/15966987-grappling-bulletin-ibjjf-worlds-delivers-incredible-event",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "July 2026 BJJ Rankings: Duarte-Simões Lead Absolute, Crevar's 21-Win Streak Tops Women's -60kg",
+        "summary": "Jits Magazine's July rankings update reflects the settled post-trials landscape: Kaynan Duarte and Yuri Simões sit atop the absolute rankings ahead of their ADCC Krakow superfight, while Helena Crevar's 21-consecutive-submission streak makes her the overwhelming women's -60kg favorite heading into September.",
+        "source_name": "Jits Magazine",
+        "source_url": "https://jitsmagazine.com/bjj-rankings-update-july-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Full Squad at Majadahonda: All 13 World Cup Players Arrive — Simeone Has Complete Group 4 Days Before Stockholm",
+        "summary": "Atletico Madrid's complete squad — Spanish champions Baena, Grimaldo, Llorente, and Pubill alongside Argentine finalists Álvarez, Almada, G. Simeone, and Molina — is assembled at Majadahonda for the first time this pre-season today (July 28), giving Diego Simeone four full group sessions before the August 1 Stockholm friendly against Manchester United.",
+        "source_name": "Atletico Madrid Official",
+        "source_url": "https://en.atleticodemadrid.com/noticias/atleti-to-face-manchester-united-in-the-2026-27-pre-season",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "PSG Now Third Club Chasing Álvarez — Argentine Committed for Now but Won't Rule Out Future Move",
+        "summary": "Paris Saint-Germain have entered formal dialogue about Julián Álvarez, joining Arsenal (Gyokeres swap) and blocked Barcelona in the race for the Argentine World Cup finalist; Álvarez publicly remains committed to Atletico's La Liga title defense but has stopped short of ruling out a future move to PSG or Barcelona.",
+        "source_name": "ESPN",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48752039/paris-saint-germain-eye-move-julian-alvarez-amid-barcelona-arsenal-interest",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Sørloth Impasse: Atletico and Juventus Still €5-10M Apart as Pre-Season Opens With No Deal Imminent",
+        "summary": "Alexander Sørloth's move to Juventus remains unresolved as Atletico's pre-season begins in earnest: the clubs are stuck €5-10M apart (Atletico at €35-40M, Juventus around €25-30M plus bonuses) with personal terms agreed but the fee gap delaying Atletico's ability to reinvest funds from the sale.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/articles/juventus-keep-sorloth-waiting-no-115500219.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Sets All-Time High $339.57 — Surpasses Nvidia as World's Most Valuable Company at $4.96T, 2 Days to Earnings",
+        "summary": "Apple shares hit a record $339.57 on Monday (July 27), pushing market cap to $4.96T and retaking the world's most valuable company title from Nvidia; the next milestone is $5T — achievable with a roughly 1% further gain — and Thursday's Q3 earnings call ($1.89 EPS consensus, $108.8B revenue) marks Tim Cook's final appearance as CEO before John Ternus takes over.",
+        "source_name": "MacDailyNews",
+        "source_url": "https://macdailynews.com/2026/07/27/apple-again-the-worlds-most-valuable-company-as-shares-hit-new-all-time-closing-and-intraday-highs/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "FOMC Opens 2-Day Meeting Today — Rate Hold Expected Tomorrow, 82% September Hike Odds; Meta and Microsoft Report After Bell",
+        "summary": "The FOMC begins its July 28-29 meeting today with the federal funds rate at 3.50-3.75%; markets price a 65% probability of no change on Wednesday, but September rate hike odds have climbed to 82% — the decision arrives at 2pm ET Wednesday followed by Meta and Microsoft earnings after bell, then Apple and Amazon Thursday.",
+        "source_name": "TradingKey",
+        "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262054300-weekly-preview-fed-apple-microsoft-meta-amazon-earnings-reports-tradingkey",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ 30-Year Refinance Edges Up to 6.87% Ahead of FOMC — SPOT at $495 With 7 Days to August 4 Report",
+        "summary": "New Jersey's 30-year fixed refinance rate ticked up to ~6.87% (from 6.70% last week) as FOMC uncertainty and residual oil pressure keep bond yields elevated; a hawkish Wednesday statement could push rates back toward 7%, while Spotify (SPOT, near $495) enters the final week before August 4 Q2 earnings with $3.29 EPS consensus — a 785% YoY jump — and operating income as the key re-rating catalyst.",
+        "source_name": "NerdWallet",
+        "source_url": "https://www.nerdwallet.com/mortgages/mortgage-rates/new-jersey",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Film Announces Free Zootopia 2 Outdoor Screening — August 29 at Brookdale Park, Sundown",
+        "summary": "Montclair Film has added Zootopia 2 to its free Movie Nights Under the Stars series, screening at Essex County Brookdale Park (archery field) on Saturday August 29 at sundown (doors at 7pm) — a great late-summer family night with no tickets required; registration recommended at montclairfilm.org for weather alerts, rain date is Sunday August 30.",
+        "source_name": "Montclair Film",
+        "source_url": "https://www.montclairfilm.org/events/2026-summer-series/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "$6.7M Vision Zero Investment: 12 Montclair Intersections to Get Major Safety Upgrades",
+        "summary": "Montclair is activating $6.7 million in intersection safety upgrades at 12 high-risk locations as part of its Vision Zero initiative targeting zero traffic fatalities by 2028 — improvements include bollards, solar radar speed signs, and signal upgrades at the township's most dangerous crossings, good news for families navigating Montclair on foot or by bike.",
+        "source_name": "Montclair Patch",
+        "source_url": "https://patch.com/new-jersey/montclair/6-7-million-upgrades-coming-12-montclair-intersections",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "New Montclair Traffic Calming: Linden Ave Goes One-Way, Speed Limits Reduced on Multiple Streets",
+        "summary": "Montclair has reconfigured Linden Avenue to one-way traffic between Orange Road and Willowdale Avenue as a traffic calming measure, accompanied by speed limit reductions on key streets — part of the township's ongoing effort to lower crash rates following the addition of 14 new multi-way stops in 2024-25 under the Vision Zero roadmap.",
+        "source_name": "Patch",
+        "source_url": "https://patch.com/new-jersey/montclair/speed-limit-lowered-busy-street-montclair-we-share-same-goal",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "guid": "briefing-2026-07-27",
     "stories": [
@@ -2775,124 +2877,6 @@
         "summary": "The Montclair Foundation's summer Virtual Meditation series, led by teacher Ramananda John E. Welshons, continues with Zoom sessions on July 1, 8, 22, and 29 from 7-9pm, open to beginners and experienced practitioners alike.",
         "source_name": "The Montclair Foundation",
         "source_url": "https://montclairfoundation.org/calendar-of-events/category/classes/",
-        "is_social": false
-      }
-    ]
-  },
-  {
-    "date": "2026-06-27",
-    "guid": "briefing-2026-06-27",
-    "stories": [
-      {
-        "topic_id": "bjj",
-        "headline": "King Charles III Visits Roger Gracie Academy, Receives BJJ White Belt",
-        "summary": "King Charles III toured Roger Gracie Academy's London headquarters and was awarded a white belt by Roger Gracie himself, in a visit spotlighting Reorg, a military and emergency-responder charity that uses jiu-jitsu in veterans' recovery; the King also presented a black belt to a Reorg trustee who credits the sport with helping him through cancer treatment.",
-        "source_name": "Jits Magazine",
-        "source_url": "https://jitsmagazine.com/king-charles-iii-visits-roger-gracie-academy-and-receives-a-bjj-white-belt/",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "Craig Jones Admits He Used PEDs, Says He Was '100% Cheating'",
-        "summary": "Just days after announcing B-Team's revival, Craig Jones gave a blunt interview admitting to long-term steroid use — including injecting before EBI in Tijuana — and said he considers it cheating but stays open about it because 'the next generation is gonna take it anyway.'",
-        "source_name": "BJJ Eastern Europe",
-        "source_url": "https://www.bjjee.com/bjj-news/craig-jones-admits-he-used-peds-and-says-he-was-100-cheating/",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "Owen Jones Upsets Fabricio Andrey via Split Decision at ONE Fight Night 44",
-        "summary": "Britain's Owen Jones avenged a three-year-old loss to Fabricio 'Hokage' Andrey, edging him on the scorecards after a tense leg-lock battle to win the night's lone grappling bout and snap Andrey's three-fight win streak in ONE Championship.",
-        "source_name": "ONE Championship",
-        "source_url": "https://www.onefc.com/news/one-fight-night-44-jarvis-vs-rungrawee-ii-results-and-highlights-for-every-match/",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "ADCC 2026 Invite List Pulled From Website Amid Transparency Backlash",
-        "summary": "With ADCC Worlds set for September in Krakow, organizers quietly removed their official invite and qualification list from the website without explanation, leaving fans to piece together the lineup from athlete announcements and fueling debate over contested invites like Josh Saunders' return.",
-        "source_name": "BJJ Eastern Europe",
-        "source_url": "https://www.bjjee.com/bjj-news/adcc-2026-invites-spark-confusion-controversy-as-transparency-questions-grow/",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Álex Baena's Strike Sends Spain Top of Group, Knocks Out Uruguay",
-        "summary": "Atlético midfielder Álex Baena scored the only goal in the 42nd minute as Spain beat Uruguay 1-0 in Guadalajara, topping Group H and eliminating Uruguay from the World Cup while Cape Verde also advanced to the Round of 32.",
-        "source_name": "ESPN",
-        "source_url": "https://www.espn.com/soccer/story/_/id/49190654/uruguay-spain-live-world-cup-2026-latest-updates-commentary-score-result",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Atlético Set to Sign Stuttgart Midfielder Enzo Millot by Triggering €23M Release Clause",
-        "summary": "Atlético have agreed personal terms with Stuttgart's Enzo Millot and plan to trigger his €23 million release clause, with Simeone targeting the playmaker — who scored 12 goals last season — as the club's eighth summer signing.",
-        "source_name": "TribalFootball",
-        "source_url": "https://www.tribalfootball.com/article/soccer-laliga-atletico-madrid-to-match-buyout-clause-for-stuttgart-midfielder-millot-b9a6df09-1f30-4853-ab73-cf62d29422c4",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Dembélé Hat Trick Powers France Past Norway 4-1 as Sørloth Watches From the Bench",
-        "summary": "Ousmane Dembélé scored three first-half goals as France routed Norway 4-1 at the World Cup; Norway rested Atlético's Alexander Sørloth and Erling Haaland but still advanced to the Round of 32 as Group I runner-up.",
-        "source_name": "ESPN",
-        "source_url": "https://www.espn.com/soccer/match/_/gameId/760475/france-norway",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Nasdaq Logs Fifth Straight Losing Session as Tech Selloff Caps Worst Week in Months",
-        "summary": "The Nasdaq fell for a fifth consecutive session Friday — down roughly 5% on the week — as Sandisk and Micron led chip-stock losses on AI-spending jitters and a report that OpenAI may delay its IPO, even as SpaceX shares rose ahead of a fast-tracked Russell 1000 addition.",
-        "source_name": "TheStreet",
-        "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Apple Rebounds 3% as Vision Pro Hardware Chief Departs for OpenAI",
-        "summary": "AAPL closed up 3.14% at $283.78 Friday, clawing back part of Thursday's price-hike-driven selloff, even as the company's Vision Pro hardware chief left for OpenAI; Morgan Stanley kept a Buy rating and $360 price target.",
-        "source_name": "The Motley Fool",
-        "source_url": "https://www.fool.com/investing/2026/06/26/massive-news-for-apple-stock-investors/",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Spotify Could Be Nearly 31% Overvalued Heading Into Earnings and Reserved Launch",
-        "summary": "A Simply Wall St fair-value analysis pegs SPOT as roughly 30.8% overvalued ahead of its July 28 earnings and the launch of 'Reserved,' a Live Nation/Ticketmaster-built Premium ticketing feature, even though the stock still trades below peer-average earnings multiples.",
-        "source_name": "Simply Wall St",
-        "source_url": "https://simplywall.st/stocks/us/media/nyse-spot/spotify-technology/news/spotify-spot-stock-could-be-308-overvalued-before-earnings-a",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "PSE&G Shifts NJ Homeowners to Time-of-Use Electric Rates Starting June 1",
-        "summary": "PSE&G has automatically enrolled residential customers in a new Time-of-Use plan charging about $0.31/kWh during weekday 4-9pm peak hours versus roughly $0.09/kWh off-peak, with a 12-month savings guarantee for households that shift laundry and EV charging to nights and weekends.",
-        "source_name": "The New Utility",
-        "source_url": "https://thenewutility.com/pseg-time-of-use-rates-2026-nj-solar/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Montclair's 4th of July Parade & Fireworks Returns to Yogi Berra Stadium",
-        "summary": "Montclair's annual Independence Day celebration kicks off with an 11am parade down Bloomfield Avenue and Valley Road to Edgemont Park, followed by a family picnic and an evening fireworks show at Yogi Berra Stadium on the Montclair State campus.",
-        "source_name": "Township of Montclair",
-        "source_url": "https://www.montclairnjusa.org/Visitors/Things-to-Do/Special-Events/July-4th-Celebrations",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "New Eats Land on Bloomfield & Church: Toastique, Hummus Republic Open, Ani Ramen Adds Sushi",
-        "summary": "Montclair's dining scene keeps expanding with Toastique opening a gourmet-toast cafe on Church Street, Hummus Republic taking over a former convenience store on Bloomfield Avenue, and Ani Ramen launching a new sushi program at its Bloomfield Ave location.",
-        "source_name": "The Montclair Girl",
-        "source_url": "https://www.themontclairgirl.com/new-businesses-montclair-spring-2026/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Vintage Racer Group Headlines New July Weekend at NJ Motorsports Park",
-        "summary": "New Jersey Motorsports Park's 2026 schedule adds a Vintage Racer Group weekend of classic cars on track July 10-12 in Millville, ahead of the New Jersey Lottery SpeedTour with SVRA bringing F4 and Formula Americas racing July 31-August 2.",
-        "source_name": "New Jersey Motorsports Park",
-        "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
         "is_social": false
       }
     ]
