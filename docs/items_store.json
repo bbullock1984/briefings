@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-07-31",
+    "guid": "briefing-2026-07-31",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "CBJJE National BJJ Championships Underway July 31–August 2 on FloGrappling",
+        "summary": "The 2026 CBJJE National BJJ Championships kicked off today and run through August 2, streaming on FloGrappling — the largest gi event broadcast this week and a major title-pathway event for Brazilian federation athletes.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/events/15365833-2026-cbjje-national-bjj-championships",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "UFC BJJ 10 Full Card: Three Title Fights August 20 — Tackett vs. Gracie Headlines",
+        "summary": "UFC BJJ 10 (August 20, Meta Apex, free on YouTube) features three title bouts: Andrew Tackett defends the Welterweight belt against Jonnatas Gracie, Ethan Crelinsten meets Renato Canuto for the Lightweight title, and Brianna Ste-Marie debuts against Women's Featherweight champion Rebeca Lima — alongside the Women's Flyweight GP semifinal.",
+        "source_name": "UFC",
+        "source_url": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-fight-card",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "WNO Effectively Goes Dark — FloGrappling GM Confirms Top Grapplers Have Moved On",
+        "summary": "FloGrappling GM Ben Kovacs confirmed that Who's Number One has gone on an indefinite hiatus, citing top competitors migrating to UFC BJJ and ONE Championship for better pay and exposure — a significant shift in the no-gi landscape just weeks before ADCC Krakow.",
+        "source_name": "BJJ Eastern Europe",
+        "source_url": "https://www.bjjee.com/bjj-news/flograppling-gm-explains-why-wno-has-gone-dark-top-guys-have-found-new-ways/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Álvarez Transfer Climax: Barcelona Deadline Expires, Player Reportedly Agrees PSG Terms",
+        "summary": "Barcelona's self-imposed July 31 signing deadline passed without a deal — Atletico's CEO rejected all offers up to €200M — while FourFourTwo reports Álvarez has now agreed personal terms with PSG after the French club's ~€130M offer, a dramatic shift from his earlier preference for Barcelona.",
+        "source_name": "FourFourTwo / Goal.com",
+        "source_url": "https://www.fourfourtwo.com/transfer/arsenal-report-julian-alvarez-has-agreed-psg-move",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Sørloth–Juventus Deal Collapses; Tottenham Emerge as New Frontrunners",
+        "summary": "The long-stalled Alexander Sørloth transfer to Juventus has officially fallen apart after the clubs failed to bridge a €10M+ fee gap — Atletico held at €40M, Juventus refused to exceed €30M; Tottenham have now entered the race and are reportedly the new frontrunners for the Norwegian striker.",
+        "source_name": "Sporten",
+        "source_url": "https://en.sporten.com/juventus-goes-from-alexander-sorloth-to-premier-league-star/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Ter Stegen Joins Ajax on Loan as Barcelona Clears Wages for Álvarez Push",
+        "summary": "Barcelona have agreed to send goalkeeper Marc-André ter Stegen to Ajax on loan, freeing significant wages — part of a broader financial restructuring alongside a €210M TV rights advance that signals the club's all-in commitment to signing Julián Álvarez from Atletico Madrid.",
+        "source_name": "BeSoccer",
+        "source_url": "https://www.besoccer.com/new/latest-transfer-news-football-rumours-confirmed-1412436",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple Q3: Revenue Beat but Services and China Miss — Stock Down 3–4% After Hours in Cook's Final Call",
+        "summary": "Apple posted $109.42B in Q3 revenue (+16% YoY) and EPS of $2.02, both beating consensus, but services revenue of $30.74B missed the $31.22B target and China sales of $18.8B fell short — sending shares down 3–4% after hours in Tim Cook's farewell earnings call before John Ternus takes over as CEO.",
+        "source_name": "Quartz",
+        "source_url": "https://qz.com/apple-q3-2026-earnings-record-june-quarter-073026",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Amazon Posts First-Ever $200B Quarter — AWS Grows 37%, EPS More Than Doubles, Stock Surges",
+        "summary": "Amazon's Q2 was a clean sweep: $200.61B revenue (+19.6% YoY), EPS of $5.75 more than doubling estimates, and AWS growing 36.8% to $42.23B — its fastest pace since 2021; a $53.4B pre-tax gain from the Anthropic stake pushed net income to $62.65B, sending the stock sharply higher after hours.",
+        "source_name": "Yahoo Finance",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-q2-2026-earnings-aws-204411872.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Markets Stage Broad Recovery July 31 — S&P +1.7%, MSFT +16%, Nasdaq +2.8%; SPOT Up 10.5% Pre-Earnings",
+        "summary": "Stocks rebounded sharply Thursday: S&P 500 +1.66%, Dow +614 points, Nasdaq +2.8% — led by Microsoft's record +16% single-session gain on Azure's blowout results; Spotify (SPOT) added 10.5% over its pre-earnings week with 4 days to its August 4 Q2 report, where options now imply an 8.6% swing.",
+        "source_name": "Bloomberg",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "MM by Morimoto's Opening Night: Early Reviews Praise Wagyu and Sushi, Flag $300 Omakase Value",
+        "summary": "Now open at 193 Glenridge Ave, Iron Chef Morimoto's Montclair debut is drawing early Yelp and TripAdvisor reviews praising the wagyu and high-end sushi while flagging the 10-course $300 omakase as a tough value proposition — the ambitious restaurant featuring imported Japanese fish, A5 Wagyu, and an omakase bar may need a few weeks to fully gel.",
+        "source_name": "Yelp / TripAdvisor",
+        "source_url": "https://www.yelp.com/biz/mm-by-morimoto-montclair",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Farmers Market Opens August 1 at Walnut Street Station — 8am–2pm Every Saturday Through November",
+        "summary": "The weekly Montclair Farmers' Market runs at 86 Walnut Street (Walnut Street Station) through November every Saturday 8am–2pm, with fresh produce, meats, fish, cheese, baked goods, flowers, and local vendors — a relaxed Saturday morning option before heading to the Warren County Balloon Festival or NJ State Fair.",
+        "source_name": "Experience Montclair",
+        "source_url": "https://experiencemontclair.org/events-calendar",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Free Essex County Concert: Xtreme Queen Tribute at Brookdale Park August 7 at 7:30pm",
+        "summary": "Essex County's free 2026 Summer Music Concert Series brings Xtreme Queen (Queen tribute band) to Brookdale Park on the Bloomfield/Montclair border on Friday August 7 at 7:30 PM — no tickets, all ages, and a great family evening option leading into the Montclair Jazz Festival weekend (August 15).",
+        "source_name": "Patch / Essex County Parks",
+        "source_url": "https://patch.com/new-jersey/bloomfield/essex-county-holding-free-summer-concerts-fireworks-shows-2026-events",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "guid": "briefing-2026-07-30",
     "stories": [
