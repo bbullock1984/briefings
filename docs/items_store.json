@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-08-01",
+    "guid": "briefing-2026-08-01",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "CBJJE National BJJ Championships Day 2: Black Belt Finals in Full Swing, Champions Crowned Sunday",
+        "summary": "The 2026 CBJJE National BJJ Championships are in their second of three days in Brazil, with adult black belt divisional finals taking center stage; Day 3 (August 2) will crown national champions across all weight categories in the largest gi federation event of the pre-ADCC summer, streaming live on FloGrappling.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/events/15365833-2026-cbjje-national-bjj-championships",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC Krakow 42 Days Out: All 128 Camps Underway, August 24 Final Roster Deadline Confirmed",
+        "summary": "With 42 days until ADCC 2026 (Sept 12-13, Tauron Arena Krakow), all 128 grapplers are in intensive pre-tournament camp; ADCC confirmed August 24 as the absolute final deadline for roster adjustments, adding certainty to a $362,000 prize-pool event headlined by the Duarte-Simoes superfight and featuring a full 128-athlete bracket.",
+        "source_name": "ADCC News",
+        "source_url": "https://adcombat.com/adcc-events/adcc-submission-fighting-world-championship-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Post-WNO Landscape: UFC BJJ 10 Now the Last Major No-Gi Card Before ADCC Krakow",
+        "summary": "With Who's Number One on indefinite hiatus and the gi season complete, UFC BJJ 10 (August 20, Meta Apex, free on YouTube) stands as the final high-profile no-gi event before September's ADCC World Championship — the three-title-fight card featuring the inaugural Women's Flyweight Grand Prix is now the grappling community's last competitive tune-up before Krakow.",
+        "source_name": "Kakutogi",
+        "source_url": "https://kakutogi.eu/en/grappling-news-worldwide-adcc-ufc-bjj-one-and-ibjjf-bring-the-scene-to-a-boil/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico vs. Man United Today in Stockholm — Simeone's Full Squad Takes the Field for First Real Test",
+        "summary": "Atletico Madrid and Manchester United meet at Strawberry Arena today (3pm CET) in Simeone's most meaningful pre-season fixture: all 13 World Cup returnees are now integrated and summer signings Grimaldo, Hjulmand, and Lee Kang-in line up together for the first time in a competitive setting ahead of La Liga's August 16 opener.",
+        "source_name": "Atletico Madrid Official",
+        "source_url": "https://en.atleticodemadrid.com/noticias/atleti-to-face-manchester-united-in-the-2026-27-pre-season",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Alvarez PSG Move Nearing Completion: Club Agreement in Place, Personal Terms Done, Deal Expected Before Aug 16",
+        "summary": "Multiple sources confirm PSG and Atletico Madrid have a working framework agreement for Julian Alvarez (reportedly around EUR 150M+), with the player's personal terms also agreed; the transfer is now expected to be completed before La Liga's August 16-17 opener, though Atletico maintain Alvarez is training normally and no deal is officially announced.",
+        "source_name": "TransferFeed / Forbes",
+        "source_url": "https://www.transferfeed.com/transfers/julian-alvarez-atletico-madrid-paris-saint-germain/12358666",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico Striker Crisis: Alvarez to PSG + Sorloth to Spurs Leaves No. 9 Vacancy Before La Liga Kicks Off",
+        "summary": "With Alvarez nearing PSG and Sorloth bound for Tottenham, Atletico face a genuine striker void heading into their La Liga title defense — Lookman is the only natural finisher remaining on the books, and Simeone must secure a replacement before August 16's opener at Espanyol or rely on an improvised attacking structure.",
+        "source_name": "Into the Calderon",
+        "source_url": "https://www.intothecalderon.com/atletico-madrid-columns/26745/takeaways-atletico-madrid-getafe-la-liga-friendly-lookman-alvarez-sorloth-hjulmand-diego-simeone",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Craters 8-10% at Open — Weak Guidance Wipes $430B in Market Cap Despite Earnings Beat",
+        "summary": "Apple shares opened down roughly 8.6% Friday to around $307 — their worst opening move since August 2024 — after Q3 earnings beat on revenue ($109.42B) and EPS ($2.02) but weak forward guidance shocked investors: executives flagged supply constraints and guided only 9-11% revenue growth, below the 11.8% consensus, in what was also Tim Cook's final earnings call as CEO.",
+        "source_name": "9to5Mac / 247 Wall St.",
+        "source_url": "https://9to5mac.com/2026/07/31/apple-stock-opens-down-roughly-10-following-mixed-q3-2026-results/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Amazon +12% as Tech Earnings Diverge; SPOT Rises to $495 With 3 Days to Tuesday August 4 Report",
+        "summary": "Big Tech earnings split is sharp today: Amazon surges 12% on its record $200B Q2 while Apple sinks 8-10% on supply-constraint guidance; Spotify (SPOT) gains around 2.5% to $495 ahead of its Tuesday August 4 Q2 report, where analysts project $3.29 EPS (up 783% YoY) and $5.6B revenue — released pre-market Tuesday morning.",
+        "source_name": "247 Wall St. / Yahoo Finance",
+        "source_url": "https://247wallst.com/investing/2026/07/31/apple-sinks-8-amazon-soars-12-as-traders-pick-tech-earnings-winners-and-losers/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "VTI in a Bifurcated Market: Mag 7 Splits as Cloud AI Plays Lead, Hardware Sellers Lag",
+        "summary": "Apple's supply-constraint miss versus Amazon's AWS surge crystallizes August's key theme for VTI holders: the Magnificent Seven are diverging sharply by AI exposure type, with cloud-infrastructure plays pulling ahead of hardware sellers; the S&P 500 opened cautiously mixed Friday as investors assessed which earnings winners can sustain gains into August.",
+        "source_name": "Stock Market Watch",
+        "source_url": "https://stockmarketwatch.com/live/stock-market-today",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Watershed Butterfly Festival Today in Pennington — Live Butterflies, Insect Parade, Science Exhibits",
+        "summary": "The Watershed Institute's Butterfly Festival runs today (August 1, 9:30am-3pm) at 31 Titus Mill Road, Pennington NJ (about 30 min from Montclair), with guided butterfly-house tours, a butterfly and insect parade, hands-on animal exhibits, and science activities — $10/person or $30/carload up to six, a perfect mid-day family outing.",
+        "source_name": "NJ Is Not Boring",
+        "source_url": "https://newjerseyisntboring.com/njibs-guide-to-60-new-jersey-august-festivals-and-events/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Warren County Balloon Festival Closing Day Today + Highlands Clam Fest Fireworks at 10pm Tonight",
+        "summary": "Today is the last day of the Warren County Farmers' Fair and Hot Air Balloon Festival (Harmony Township, about 1hr from Montclair, $10 adults, $5 kids 6-12) with a dusk balloon launch tonight; the 31st Annual Highlands Clam Fest at the Shore also wraps up with live music, a beer garden, food trucks, and a 10pm fireworks display over Snug Harbor Beach.",
+        "source_name": "Balloon Fest NJ",
+        "source_url": "https://www.balloonfestnj.com/warren-county-farmers-fair",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair August Calendar: Jazz Soundcheck Aug 4, Barknic Fundraiser Aug 8, Vintage Market Aug 15",
+        "summary": "Three upcoming Montclair-area events: the free Montclair Jazz Festival Soundcheck Series continues at Lackawanna Station this Tuesday August 4 evening; Barknic (Saturday August 8) is a dog-friendly outdoor fundraiser for Wise Animal Rescue with vendors and family activities; and a vintage fair featuring retro clothing, vinyl records, antiques, and furniture comes to downtown Montclair on Saturday August 15.",
+        "source_name": "Montclair Girl",
+        "source_url": "https://www.themontclairgirl.com/montclair-essex-county-events-august-2026/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "guid": "briefing-2026-07-31",
     "stories": [
@@ -2727,140 +2829,6 @@
         "summary": "Classic and vintage car racing arrives at NJ Motorsports Park in Millville next Thursday through Saturday (July 10-12) with the Vintage Racer Group, featuring road and sidecar racing on Thunderbolt Raceway — just ahead of the New Jersey Lottery SpeedTour bringing F4 U.S. and Formula Americas open-wheel racing July 31-August 2.",
         "source_name": "NJ Motorsports Park",
         "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
-        "is_social": false
-      }
-    ]
-  },
-  {
-    "date": "2026-07-01",
-    "guid": "briefing-2026-07-01",
-    "stories": [
-      {
-        "topic_id": "bjj",
-        "headline": "ADCC 2026 Roster Takes Twin Hits as Mica Galvao and Giancarlo Bodoni Both Withdraw",
-        "summary": "Mica Galvao has withdrawn from ADCC 2026 in Krakow following the arrest of Melqui Galvao, while Giancarlo Bodoni is also out after undergoing two surgeries earlier this year — the most significant dual roster setback to hit the September event since invitations went out.",
-        "source_name": "BJJ Doc",
-        "source_url": "https://bjjdoc.com/2026/06/30/adcc-2026-suffers-serious-setback-mica-galvao-giancarlo-bodoni-are-out/",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "Gracie Barra Wins Team Title at IBJJF American Nationals; Grand Slam Contenders Clay, Hopstock, Jaworski Take Gold Again",
-        "summary": "Gracie Barra claimed the overall team title at the IBJJF American Nationals (June 25–27, Las Vegas), while Grand Slam frontrunners Elisabeth Clay, Tarik Hopstock, and Pawel Jaworski all won gold again to stay on course for the No-Gi Grand Slam crown.",
-        "source_name": "FloGrappling",
-        "source_url": "https://www.flograppling.com/events/15616472-2026-american-national-ibjjf-jiu-jitsu-championship",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "Polaris Announces First-Ever Mainland Europe Events: Open Spain in Barcelona and Open Netherlands in Utrecht",
-        "summary": "Polaris is expanding beyond the UK for the first time, debuting Polaris Open Spain in Barcelona on August 29 followed by Polaris Open Netherlands in Utrecht on October 24 — opening the promotion's open-tournament circuit to continental European competitors and fans.",
-        "source_name": "Polaris Pro Grappling",
-        "source_url": "https://www.polarisprograppling.com/events",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "Jacob Rodriguez to End 17-Month Hiatus at Pit Submission Series July 24",
-        "summary": "Former ADCC silver medalist Jacob Rodriguez is returning to professional grappling competition on July 24 at the Pit Submission Series, ending an absence of more than 17 months since his last match.",
-        "source_name": "BJJ Eastern Europe",
-        "source_url": "https://www.bjjee.com/bjj-news/jacob-rodriguez-returns-to-competition-after-a-17-month-hiatus/",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Mbappé Brace Destroys Sweden 3-0 at MetLife, Sets All-Time World Cup Knockout Goals Record",
-        "summary": "Kylian Mbappé scored in the 45th and 74th minutes and Bradley Barcola added a third as France cruised past Sweden 3-0 at MetLife Stadium on June 30; Mbappé's 6-goal tournament total sets the all-time World Cup knockout stage scoring record and France advance to face Paraguay in the Round of 16.",
-        "source_name": "ESPN",
-        "source_url": "https://www.espn.com/soccer/story/_/id/49227768/france-sweden-live-world-cup-2026-latest-updates-commentary-score-result",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Haaland's 86th-Minute Goal Gives Norway Historic First-Ever World Cup Knockout Win Over Ivory Coast",
-        "summary": "Erling Haaland netted in the 86th minute to give Norway a dramatic 2-1 win over Ivory Coast in the Round of 32 on June 30 — Norway's first-ever victory in a World Cup knockout match — sending them through to the Round of 16.",
-        "source_name": "FIFA",
-        "source_url": "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021514",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Atlético Files FIFA Complaint Against Barcelona and Also Rejects Real Madrid's €150M Álvarez Bid",
-        "summary": "Atlético CEO Miguel Ángel Gil Marín formally lodged a FIFA and RFEF complaint accusing Barcelona of illegally approaching Julián Álvarez; separately, Atlético also rejected a €150M bid from Real Madrid for the striker, publicly mocking both clubs, even as Barcelona prepares a revised offer of up to €135–150M.",
-        "source_name": "ESPN",
-        "source_url": "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Lee Kang-in Agrees Personal Terms With Atlético Madrid on Deal Through 2031",
-        "summary": "Lee Kang-in has agreed personal terms with Atlético Madrid on a contract through 2031 for a fee of approximately €35M, with his PSG exit now confirmed; if completed, he would become the first Asian player ever to represent Atlético.",
-        "source_name": "Yahoo Sports",
-        "source_url": "https://sports.yahoo.com/articles/kang-lee-agrees-join-atletico-014004950.html",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "U.S. Futures Dip at Q3's Open as Wall Street Digests Blockbuster 9.6% First-Half S&P Gain",
-        "summary": "Index futures opened Q3 in the red on July 1 — S&P 500 futures off ~0.3% — as investors paused after the S&P's 9.6% H1 gain and Nasdaq's 12.8% surge; key ADP June jobs data and ISM Manufacturing PMI were due to set the tone for VTI and U.S. equity ETFs entering the holiday-shortened week.",
-        "source_name": "CNBC",
-        "source_url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Apple Confirms July 30 Earnings Date; Wall Street Models $1.89 EPS and 14–17% Revenue Growth",
-        "summary": "Apple set its fiscal Q3 2026 earnings call for July 30 after the close, with the Street expecting $1.89 EPS and ~$110.8B in revenue following last quarter's $111.2B (+17% YoY); Wedbush holds a $400 price target and 28 of 47 analysts rate the stock a Buy at an average target near $315.",
-        "source_name": "Chartmill",
-        "source_url": "https://www.chartmill.com/stock/quote/AAPL/earnings-estimates",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Spotify Audiobooks+ Hits $100M ARR Milestone Just Ahead of July 29 Earnings",
-        "summary": "Spotify's Audiobooks+ add-on is reaching $100M in annualized recurring revenue in July 2026 — up from near-zero two years ago with 1 million subscribers — as the market awaits Q2 2026 earnings on July 29, when analysts will scrutinize whether higher AI compute spending is resolving into margin expansion.",
-        "source_name": "Publishers Weekly",
-        "source_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/100487-spotify-audiobooks-on-track-to-hit-100-million-revenue-as-listeners-grow.html",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "NJ Stay NJ Senior Property Tax Credit Sends Second Quarterly Checks This Month; Mortgage Rates Near 6.27%",
-        "summary": "New Jersey's Stay NJ program — which rebates 50% of property taxes (up to $6,500) for eligible homeowners 65+ — begins its second quarterly installment this month alongside Senior Freeze payments starting July 15; NJ 30-year purchase mortgage rates are sitting near 6.27% APR as Q3 opens.",
-        "source_name": "NJ Spotlight News",
-        "source_url": "https://www.njspotlightnews.org/2026/02/stay-nj-seniors-property-tax-relief-payments-start-arriving-this-week/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Count Basie Orchestra Opens Montclair Jazz Festival Soundcheck Series Tonight at Lackawanna Station",
-        "summary": "The Legendary Count Basie Orchestra under guest conductor John Faddis kicks off the 2026 Montclair Jazz Festival Soundcheck Series tonight at Lackawanna Station — with the Alvin Ailey Dance Company joining in honor of America's 250th — building to the August 15 Downtown Jamboree with Dianne Reeves and Christian McBride.",
-        "source_name": "Jazz House Kids",
-        "source_url": "https://jazzhousekids.org/montclair/montclair-jazz-festival/jazz-house-kids-announces-full-lineup-and-details-for-17th-annual-montclair-jazz-festival/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Brookdale Park Free 'Music Through the Decades' Concert and Fireworks Happening Tonight",
-        "summary": "Essex County's free summer concert featuring Van Martin, The Discoteks, and The Empire begins at 7 p.m. tonight at Brookdale Park's Watchung Avenue meadow, with a fireworks spectacular to follow — no tickets needed, bring a blanket.",
-        "source_name": "Patch",
-        "source_url": "https://patch.com/new-jersey/bloomfield/calendar/event/20260701/9d03c435-dbe6-412b-8447-df14af6d2170/free-summer-concert-fireworks-in-brookdale-park",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Montclair State University Officially Takes Over NJ PBS Today",
-        "summary": "As of July 1, Montclair State University's College of Communication and Media assumes management of New Jersey's four public TV stations, returning control to a NJ institution for the first time since 2011 and launching a nightly NJ-centric newscast and at least 6 hours of local programming per week.",
-        "source_name": "Montclair Local",
-        "source_url": "https://montclairlocal.news/2026/06/montclair-state-selected-to-operate-nj-pbs-beginning-july-1/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Montclair's July 4th Parade, Picnic, and Fireworks at Yogi Berra Stadium This Saturday",
-        "summary": "This Saturday's annual Montclair Independence Day celebration features an 11 a.m. parade down Bloomfield Avenue and Valley Road to Edgemont Park, a family picnic, and an evening fireworks show at Yogi Berra Stadium on the Montclair State campus — all free and a short drive from anywhere in town.",
-        "source_name": "Township of Montclair",
-        "source_url": "https://www.montclairnjusa.org/Visitors/Things-to-Do/Special-Events/July-4th-Celebrations",
         "is_social": false
       }
     ]
