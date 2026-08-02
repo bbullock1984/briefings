@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-08-02",
+    "guid": "briefing-2026-08-02",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "CBJJE National Championships Conclude Today: Black Belt Finals Stream Live on FloGrappling, National Champions Crowned",
+        "summary": "The 2026 CBJJE National BJJ Championships wrap up their three-day run today (August 2) at 12pm UTC, crowning black belt national champions across all weight divisions in Brazil's largest federation event of the pre-ADCC summer — streaming live on FloGrappling.",
+        "source_name": "FloGrappling",
+        "source_url": "https://www.flograppling.com/events/15365833-2026-cbjje-national-bjj-championships",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Tackett Defends Belt 20 Days After UFC BJJ 2 Win — August 20 Card Features Canuto at Lightweight, Women's Flyweight GP",
+        "summary": "Andrew Tackett, who retained his welterweight title by D'Arce choke on July 31, defends again at UFC BJJ 10 on August 20 — just 20 days later — against Jonnatas Gracie; Renato Canuto (Tackett's defeated challenger) immediately pivots to a UFC BJJ Lightweight title fight against Ethan Crelinsten, plus the inaugural Women's Flyweight Grand Prix with Adele Fornarino vs. Carol Brunacio.",
+        "source_name": "UFC",
+        "source_url": "https://www.ufc.com/news/ufc-bjj-10-tackett-vs-gracie-fight-card",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "41 Days to ADCC Krakow: With CBJJE Done, No Major Grappling Events Until UFC BJJ 10 on August 20",
+        "summary": "With the CBJJE Nationals wrapping today and WNO dark, the competitive grappling calendar enters an 18-day lull until UFC BJJ 10 (August 20) — after which ADCC Krakow's 128-athlete World Championship (September 12-13, Tauron Arena) is just 23 days further, creating a compressed final stretch for elite camps.",
+        "source_name": "ADCC News",
+        "source_url": "https://adcombat.com/adcc-events/adcc-submission-fighting-world-championship-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico Fall 2-1 to Man United in Stockholm Pre-Season Opener — Mbeumo Brace Overturns Arnau Ortiz's Fast Start",
+        "summary": "Manchester United beat Atletico Madrid 2-1 in the Snapdragon Cup at Strawberry Arena, Stockholm on August 1: Arnau Ortiz gave Atletico a 5th-minute lead, but Bryan Mbeumo converted a second-half penalty and added a close-range finish to complete the comeback — Atletico's first competitive-style test ahead of the August 16 La Liga opener.",
+        "source_name": "Sky Sports",
+        "source_url": "https://www.skysports.com/football/news/11667/13569042/man-utd-2-1-atletico-madrid-bryan-mbeumo-scores-twice-as-united-come-from-behind-to-win-snapdragon-cup",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Alvarez Deal Expected Before La Liga Opener: PSG Framework Agreement in Place, Personal Terms Done, €125M+ Fee Range",
+        "summary": "Multiple sources confirm PSG and Atletico Madrid have a working club-to-club framework agreement for Julian Alvarez's transfer with personal terms also done at a fee reportedly in the €125M+ range — the deal is expected before La Liga's August 16-17 opener, marking the end of a months-long saga and leaving Atletico urgently needing a striker replacement.",
+        "source_name": "Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/articles/julian-alvarez-psg-agreement-atletico-074016096.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico Reversal: 'No Plans to Sell Sorloth' Despite Tottenham and Saudi Links — Striker Crisis Looms With 14 Days to La Liga Opener",
+        "summary": "After weeks of reporting Sorloth heading to Tottenham, TribalFootball reports Atletico Madrid now have 'no plans to sell' Alexander Sorloth — a striking reversal that leaves the club planning to open La Liga's title defense on August 16 with only Lookman and Sorloth up front once Alvarez departs, despite Saudi interest from Al Hilal.",
+        "source_name": "TribalFootball",
+        "source_url": "https://www.tribalfootball.com/article/soccer-laliga-atletico-madrid-have-no-plans-to-sell-sorloth-amid-julian-alvarez-transfer-saga-a48130b9-5d3e-4b4e-b761-31fbba26d88e",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "AAPL Buy-the-Dip Consensus Solidifies After 8% Drop: Citi Maintains $365 Target, TD Cowen and Maxim at $350",
+        "summary": "Following Apple's 8-10% Friday crash on weak guidance, Wall Street is firmly in buy-the-dip mode: Citi ($365), TD Cowen ($350), and Maxim ($350) all maintained or reaffirmed bullish targets, viewing the guidance miss as a transient supply issue rather than a structural problem — the stock needs to recover roughly $25+ from post-earnings levels to reach the lowest upgraded target.",
+        "source_name": "Yahoo Finance / MarketBeat",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/apple-20-2026-aapl-stock-191629157.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "SPOT Dips 3.46% Friday, Heads Into Tuesday Aug 4 Earnings With 785% YoY EPS Consensus and 8.6% Options Swing",
+        "summary": "Spotify stock fell 3.46% on July 31 (caught in Apple-led tech selling) and enters Tuesday's pre-market Q2 earnings with consensus projecting $3.29 EPS (up 785% year-over-year) and $5.6B revenue; options markets are pricing an 8.6% post-earnings move, making Tuesday's report one of the most consequential events this week for growth investors.",
+        "source_name": "TradingKey / MarketBeat",
+        "source_url": "https://www.tradingkey.com/news/market-movers/262068043-market-movers-spot-20260731",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "ANCHOR Benefit Confirmation Letters Arriving in August — NJ Homeowners Receive September 15 Direct Deposit Notice (Up to $1,750)",
+        "summary": "New Jersey's ANCHOR property tax relief program is sending confirmation letters to eligible homeowners this month, confirming September 15 direct-deposit payments worth up to $1,500 ($1,750 with the senior bonus); homeowners who haven't yet filed the combined PAS-1 form (ANCHOR + Senior Freeze + Stay NJ) should do so immediately as the September deadline approaches.",
+        "source_name": "NJ Division of Taxation",
+        "source_url": "https://www.nj.gov/treasury/taxation/relief.shtml",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "NJ State Fair Today: Sold-Out Demolition Derby in Augusta — Monster Trucks Arrive Tuesday-Wednesday Through August 8",
+        "summary": "Today's top NJ event is the Demolition Derby at the NJ State Fair in Augusta, Sussex County (sold out, but fair gates open 10am, $5 adults, kids under 12 free) — Monster Trucks take the arena on Tuesday August 4 and Wednesday August 5, followed by the Championship Pulling Series Thursday and Truck Pull Friday, with the fair running through Saturday August 8.",
+        "source_name": "Sussex County Fairgrounds",
+        "source_url": "https://sussexcountyfairgrounds.org/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "First Friday Montclair Returns August 7, 5-9pm at Lackawanna Station — Late Summer Shopping, Dining, Discovery Night",
+        "summary": "Lackawanna Station's monthly First Friday event returns this coming Friday August 7 from 5-9pm, with late-night shopping at local boutiques, food, live entertainment, and an outdoor social atmosphere in the heart of downtown Montclair — a great low-key weeknight option ahead of Barknic's August 8 fundraiser.",
+        "source_name": "Lackawanna Station",
+        "source_url": "https://www.lackawanna.com/events",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Final Day: NJ Lottery SpeedTour at NJMP Today — F4 US and Formula Americas Open-Wheel Racing in Millville",
+        "summary": "The NJ Lottery SpeedTour's final day at NJ Motorsports Park in Millville, NJ wraps today (Sunday, August 2), with F4 US Championship and Formula Americas open-wheel racing on Thunderbolt Raceway — a 90-minute drive from Montclair and an ideal motorsport outing for families with teens who love speed.",
+        "source_name": "NJ Motorsports Park",
+        "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-01",
     "guid": "briefing-2026-08-01",
     "stories": [
@@ -2703,132 +2805,6 @@
         "summary": "Whitesbog Historic Farm &amp; Village in Burlington County is hosting its Blueberry Summer Fest today, July 3, featuring live music, artisan vendors, local food, and outdoor family activities — a festive way to kick off the Independence Day holiday weekend within easy driving distance of Montclair.",
         "source_name": "NJ Family",
         "source_url": "https://www.njfamily.com/best-things-to-do-in-new-jersey-this-4th-of-july-weekend-july-3-5-2026/",
-        "is_social": false
-      }
-    ]
-  },
-  {
-    "date": "2026-07-02",
-    "guid": "briefing-2026-07-02",
-    "stories": [
-      {
-        "topic_id": "bjj",
-        "headline": "Helena Crevar vs. Paige Ivette Clymer Set for ONE: The Inner Circle on July 17",
-        "summary": "19-year-old women's grappling star Helena Crevar returns to ONE Championship on July 17 to face ADCC West Coast Trials winner Paige Ivette Clymer in a 10-minute openweight submission grappling match at Lumpinee Stadium in Bangkok — her second ONE appearance after a successful debut earlier in 2026.",
-        "source_name": "ONE Championship",
-        "source_url": "https://www.onefc.com/news/helena-crevar-returns-to-face-paige-ivette-clymer-in-submission-grappling-action-at-the-inner-circle-on-july-17/",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "UFC BJJ 2 Confirmed for July 31: Tackett Defends Title Against Renato Canuto",
-        "summary": "UFC's grappling promotion series returns July 31 with champion Andrew Tackett putting his belt on the line against Brazilian submission grappling star Renato Canuto — the second installment of the UFC's expanding no-gi grappling card series and a major late-summer event for the sport.",
-        "source_name": "MMA Mania",
-        "source_url": "https://www.mmamania.com/bjj-news/390491/stacked-ufc-bjj-3-fight-card-set-14-events-planned-for-2026-bjj-beat/",
-        "is_social": false
-      },
-      {
-        "topic_id": "bjj",
-        "headline": "ADCC 2026 Is 10 Weeks Out With Open Roster Spots After Twin Withdrawals",
-        "summary": "With ADCC Worlds in Krakow set for September 12-13, organizers now face pressure to name replacement invitees following last week's confirmed withdrawals of both Mica Galvao and Giancarlo Bodoni; the grappling community is awaiting official bracket updates with the superfight between Kaynan Duarte and Yuri Simoes still the marquee booking.",
-        "source_name": "ADCC Combat",
-        "source_url": "https://adcombat.com/",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Spain vs. Austria Kick Off Today at SoFi Stadium in World Cup Round of 32",
-        "summary": "Spain — with newly signed Alejandro Grimaldo on the squad — face Austria this afternoon (July 2) at 3pm ET at SoFi Stadium in Inglewood in the World Cup Round of 32; a win puts them on a collision course with Portugal, who also play Croatia tonight at 7pm ET in Toronto.",
-        "source_name": "ESPN",
-        "source_url": "https://www.espn.com/soccer/match/_/gameId/760497/austria-spain",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Lee Kang-in's Atlético Madrid Signing Expected to Be Officially Announced This Week",
-        "summary": "Korean media report an 'official deal imminent' for Lee Kang-in to move from PSG to Atlético Madrid for approximately €30M, with personal terms already agreed on a contract through 2031; if completed this week as expected, he becomes the first Asian player in Atlético's history.",
-        "source_name": "Star News Korea",
-        "source_url": "https://www.starnewskorea.com/en/sports/2026/07/01/2026070114191566948",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Barcelona President Laporta Publicly Addresses Álvarez Deadlock With Atlético",
-        "summary": "Barcelona president Joan Laporta said he 'spoke personally with Atlético de Madrid and made the situation clear' regarding Julián Álvarez, but acknowledged the offer was rejected because Atlético had 'no alternative'; Barça have yet to improve on their initial €100M bid as Atlético hold firm — and Atlético's FIFA complaint against Barça for alleged tampering adds further legal pressure to the standoff.",
-        "source_name": "Football Transfers",
-        "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/07/fc-barcelona-joan-laporta-julian-alvarez-statement",
-        "is_social": false
-      },
-      {
-        "topic_id": "soccer",
-        "headline": "Argentina vs. Cape Verde Tomorrow in Miami; Messi Leads World Cup Scoring Charts",
-        "summary": "Lionel Messi's Argentina — leading the World Cup scoring charts with nine goals in three group games — face World Cup debutants Cape Verde at Hard Rock Stadium in Miami Gardens tomorrow (July 3) in the Round of 32; Cape Verde's remarkable three-draw group stage earned them a historic first-ever knockout berth.",
-        "source_name": "Al Jazeera",
-        "source_url": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "June Jobs Report Released Early Today; S&P 500 Dips in Holiday-Shortened Session",
-        "summary": "The June nonfarm payrolls report was released this morning (July 2) a day early due to the Independence Day holiday — economists expected 115,000 new jobs and unemployment holding at 4.3%; the S&P 500 eased ~0.08% as traders digested the numbers before markets close entirely on July 3 for the holiday.",
-        "source_name": "Kiplinger",
-        "source_url": "https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "AAPL Holds Near $294 in Quiet Pre-Holiday Week; July 30 Earnings Are the Next Catalyst",
-        "summary": "Apple stock has recovered from mid-June lows near $275 to trade around $294-295, with investors largely on hold through the July 4 weekend; the fiscal Q3 earnings call on July 30 is the next major event, where analysts project $1.89 EPS and ~$110.8B in revenue — results that will test whether the stock can reclaim its early-June highs above $315.",
-        "source_name": "MarketBeat",
-        "source_url": "https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "Spotify (SPOT) at $460 With Strong Q1 Beat Behind It; July 29 Earnings Approaching",
-        "summary": "Spotify shares are trading near $460 as of July 1, with a Buy consensus from 20+ analysts and an average price target of $594; Q1 2026 EPS came in at $3.45 versus the $2.95 forecast — a 17% beat — and Audiobooks+ is on track to hit $100M ARR this month, giving investors multiple tailwinds heading into the July 29 earnings report.",
-        "source_name": "Spotify SEC Filing",
-        "source_url": "https://www.sec.gov/Archives/edgar/data/0001639920/000114036126004482/ef20065075_ex99-1.htm",
-        "is_social": false
-      },
-      {
-        "topic_id": "financial-freedom",
-        "headline": "NJ 30-Year Fixed Mortgage Rate Eases to 6.25% at the Start of July",
-        "summary": "New Jersey's 30-year fixed mortgage rate has slipped to approximately 6.25% as of July 1 — down from the 6.69–6.88% range seen in late June — translating to a monthly payment of roughly $2,995 on a median NJ home ($569K with 20% down); would-be buyers and refinancers may want to act before any potential Fed rate hikes later this year.",
-        "source_name": "Money",
-        "source_url": "https://money.com/current-mortgage-rates/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Maplewoodstock Reveals Full Lineup for July 11-12: Lettuce, Anders Osborne, Slap Dragon Headline",
-        "summary": "The free, all-ages Maplewoodstock Music + Art Festival at Maplewood's Memorial Park (July 11-12, noon to 9:30pm nightly) has released its headliner lineup — funk/jazz act Lettuce, blues guitarist Anders Osborne, and Slap Dragon — alongside 50+ art vendors, a Kid Zone, food trucks, and a beer garden; it's a short drive from Montclair and totally free.",
-        "source_name": "New Jersey Stage",
-        "source_url": "https://www.newjerseystage.com/articles2/2026/05/01/2026-maplewoodstock-music-plus-art-festival-to-take-place-july-11-12/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "July 4th Weekend: Bloomfield and West Orange Host Free Family Celebrations Near Montclair",
-        "summary": "Beyond Montclair's own Saturday morning parade, nearby options include Bloomfield's Foley Field (The Infernos band plus fireworks at dusk, July 4) and West Orange High School's free community festival (food trucks, DJ, Kids Zone, 12-6pm July 4) — plenty of free family-friendly choices within a short drive for the long Independence Day weekend.",
-        "source_name": "NJ Family",
-        "source_url": "https://www.njfamily.com/best-things-to-do-in-new-jersey-this-4th-of-july-weekend-july-3-5-2026/",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Montclair Flea Open This Holiday Weekend at Lackawanna Plaza — Saturday and Sunday",
-        "summary": "The Montclair Flea returns to 1 Lackawanna Plaza on Saturday July 4 and Sunday July 5 (11am-5pm both days), with curated art, vintage goods, and food — a rain-or-shine family-friendly option in downtown Montclair that complements the morning parade and gives something to do before heading to evening fireworks.",
-        "source_name": "Lackawanna Station",
-        "source_url": "https://www.lackawanna.com/events",
-        "is_social": false
-      },
-      {
-        "topic_id": "nj-local",
-        "headline": "Vintage Racer Group Weekend at NJ Motorsports Park July 10-12 — One Week Away",
-        "summary": "Classic and vintage car racing arrives at NJ Motorsports Park in Millville next Thursday through Saturday (July 10-12) with the Vintage Racer Group, featuring road and sidecar racing on Thunderbolt Raceway — just ahead of the New Jersey Lottery SpeedTour bringing F4 U.S. and Formula Americas open-wheel racing July 31-August 2.",
-        "source_name": "NJ Motorsports Park",
-        "source_url": "https://njmp.com/new-jersey-motorsports-parks-2026-schedule-features-racing-monster-trucks-fun-runs-and-a-special-surprise/",
         "is_social": false
       }
     ]
