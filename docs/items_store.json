@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-08-27",
+    "guid": "briefing-2026-08-27",
+    "stories": [
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Krakow 16-Day Final Countdown: Duarte vs. Simoes Superfight Confirmed, Men's Brackets Historically Wide Open",
+        "summary": "16 days from September 12-13's Tauron Arena Krakow event, Kaynan Duarte (2024 absolute champion) faces Yuri Simoes (2022 superfight winner) in the confirmed centerpiece matchup after Gordon Ryan's retirement — with no defending champions at 66kg, 77kg, or 88kg, the men's field is the most wide open at an ADCC Worlds in recent memory, putting a premium on dark horses.",
+        "source_name": "BJJ Eastern Europe / ADCC News",
+        "source_url": "https://www.bjjee.com/bjj-news/adcc-2026-superfight-confirmed-kaynan-duarte-vs-yuri-simoes/",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "Helena Crevar's 21-Submission Win Streak Makes Her ADCC 2026's Must-Watch Athlete at Women's -60kg",
+        "summary": "With Krakow 16 days away, Helena Crevar carries a 21-consecutive-submission winning streak into the women's -60kg bracket — making her the most dominant active grappler heading to Poland and the tournament's standout individual narrative, entering as the heavy favorite to submit her way through a stacked field of former ADCC medalists.",
+        "source_name": "Yardbarker / ADCC News",
+        "source_url": "https://www.yardbarker.com/mma/articles/adcc_2026_fight_card_fills_out_with_128_confirmed_grapplers/s1_17349_44093103",
+        "is_social": false
+      },
+      {
+        "topic_id": "bjj",
+        "headline": "ADCC 2026 Streams Live on Digitsu and FloGrappling Sept 12-13 — Full Two-Day Broadcast From Krakow",
+        "summary": "ADCC 2026's complete two-day Krakow World Championship (September 12-13) will stream live on Digitsu and FloGrappling, covering all eight divisions from first-round brackets through championship and absolute finals — the most comprehensive ADCC live broadcast setup in the event's history for fans watching from the US.",
+        "source_name": "Digitsu",
+        "source_url": "https://digitsu.com/events/2026-adcc-world-championship",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico 2-2 Villarreal at Metropolitano — VAR Red Card for Le Normand in 76th Minute Proves Costly",
+        "summary": "Marc Pubill curled Atletico ahead in the 59th minute but Robin Le Normand's VAR-reviewed red card for fouling Mikautadze in the area allowed Moreno to equalize from the spot; Giuliano Simeone poked home in the 85th minute to rescue a 2-2 draw — Atletico have 4 points from 2 La Liga games but face Sevilla away this Saturday without the suspended Le Normand.",
+        "source_name": "beIN Sports / Into the Calderon",
+        "source_url": "https://www.beinsports.com/en-asia/football/primera-division/articles/atletico-madrid-2-2-villarreal-simeone-salvages-late-draw-for-10-man-hosts-2026-08-23",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Alvarez Transfer Endgame: Arsenal Now Front-Runner With 5 Days to September 1 Deadline — Player Softening on Move",
+        "summary": "The Julián Álvarez saga enters its final days: Arsenal are pushing hardest and the Argentine has reportedly softened his stance against a Premier League move as the September 1 deadline approaches — Atletico have told Álvarez to avoid fan engagement at matches and set an internal deadline, while Simeone has admitted the ongoing uncertainty has impacted pre-season preparation.",
+        "source_name": "Sky Sports / Yahoo Sports",
+        "source_url": "https://sports.yahoo.com/articles/atletico-madrid-set-julian-alvarez-091916833.html",
+        "is_social": false
+      },
+      {
+        "topic_id": "soccer",
+        "headline": "Atletico Travel to Sevilla for MD3 This Saturday — Le Normand Suspended, September 1 Transfer Deadline as Backdrop",
+        "summary": "Atletico face Sevilla away at the Ramón Sánchez Pizjuán on August 29 in La Liga MD3 with Robin Le Normand suspended after his Villarreal red card and the Julián Álvarez saga potentially resolved before kickoff — a win would give Atletico 7 points from 3 games and provide much-needed momentum regardless of the transfer window outcome.",
+        "source_name": "La Liga",
+        "source_url": "https://www.laliga.com/en-GB/clubs/atletico-de-madrid/next-matches",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Spotify Expands Share Buyback Program to $2.2B Total — SPOT Jumps 5.5%, Now Trading Near $550",
+        "summary": "Spotify's board approved a $1.5B increase to its repurchase authorization (announced August 20), bringing the total to ~$2.2B; SPOT surged 5.5% on the news and continues trading above $543, with the expanded buyback signaling strong management confidence backed by growing free cash flow from 777M monthly active users and consecutive quarterly earnings beats.",
+        "source_name": "Digital Music News / Music Business Worldwide",
+        "source_url": "https://www.digitalmusicnews.com/2026/08/20/spotify-stock-repurchase-program-august-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "Apple M6 Mac Mini Launched at $899 (+12.5% Price Hike); iPhone Event September 9 Under New CEO Ternus — AAPL +1.1%",
+        "summary": "Apple unveiled its M6 Mac mini starting at $899 (up $100 from the M4 model, 12.5% price hike) and announced the first iPhone event under incoming CEO John Ternus for September 9 — AAPL shares gained 1.1% on the announcements as investors interpret Ternus's bolder pricing and product strategy positively; delivery on preordered M6 Macs begins September 22.",
+        "source_name": "MacDailyNews / ts2.tech",
+        "source_url": "https://ts2.tech/en/apple-stock-rises-1-1-as-899-mac-mini-m6-tests-a-12-5-price-hike/",
+        "is_social": false
+      },
+      {
+        "topic_id": "financial-freedom",
+        "headline": "NJ 30-Year Mortgage Rate Falls to 6.74% — Sub-7% for First Time Since Spring as Bond Yields Retreat",
+        "summary": "New Jersey's average 30-year fixed mortgage rate has dropped to 6.74% — its first reading below 7% since spring after holding above that threshold during the summer bond selloff — giving NJ homeowners and buyers a meaningful window heading into the September Fed meeting and fall home-buying season as Treasury yields continue to retreat from their August peak.",
+        "source_name": "NerdWallet",
+        "source_url": "https://www.nerdwallet.com/mortgages/mortgage-rates/new-jersey",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Saint Sebastian Feast & Carnival Through Saturday Aug 29 at Kaveny Field, Montclair — Italian Food, Rides, Live Music Nightly",
+        "summary": "Montclair's beloved Saint Sebastian Feast & Carnival runs through this Saturday August 29 at Kaveny Field on Mission Street, with classic Italian food (zeppoles, sausage, cannoli), carnival rides, games, and nightly live entertainment celebrating the neighborhood's Italian-American heritage — free admission, open nightly from early evening, ideal for a family evening out before the holiday weekend.",
+        "source_name": "Montclair Girl / NJ Family",
+        "source_url": "https://www.themontclairgirl.com/montclair-essex-county-events-august-2026/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "Montclair Property Tax Bills Delayed: Triple-Whammy Hike Arrives Before Month's End — ~$1,565 in Extra Annual Charges",
+        "summary": "Montclair's Q3 property tax bills (normally due August 1) have been delayed as the township finalizes its 2026 tax rate; when bills arrive before August 31, the average homeowner will face approximately $160 more in municipal taxes, $847 more in school taxes, plus a one-time $558 special school referendum tax — nearly $1,565 in additional charges, offset only by a $25 county tax decrease.",
+        "source_name": "Montclair Local / Jersey Bee",
+        "source_url": "https://montclairlocal.news/2026/08/montclair-tax-bills-delayed-as-referendum-impacts-loom/",
+        "is_social": false
+      },
+      {
+        "topic_id": "nj-local",
+        "headline": "NJ Airshow at Cape May Airport Aug 28-31 — Historic Aircraft, Flyovers, and Food Trucks for Labor Day Weekend",
+        "summary": "The Naval Air Station Wildwood Aviation Museum's four-day extravaganza (Aug 28-31, Cape May County Airport, ~90 min from Montclair) features historic aircraft displays, exciting flyovers, live performances, and food trucks — a thrilling Labor Day weekend day trip ideal for families with a 12-year-old who loves aviation and spectacle, with free shuttle service from the museum.",
+        "source_name": "NJ Family",
+        "source_url": "https://www.njfamily.com/things-to-do-this-weekend-in-nj/",
+        "is_social": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "guid": "briefing-2026-08-23",
     "stories": [
@@ -924,10 +1026,8 @@
         "is_social": false
       }
     ]
-  },
-  {
-    "date": "2026-07-27",
-    "guid": "briefing-2026-07-27",
+  }
+]
     "stories": [
       {
         "topic_id": "bjj",
